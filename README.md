@@ -1,2 +1,3 @@
-# greek_text_lacus_curtius
-Collected Greek Texts from Lacus Curtius
+# Lacus Curtius Greek Texts
+
+LacusCurtius is a collection of Classical Greek and Latin texts.This repository collects the Greek Texts from Lacus Curtius.
