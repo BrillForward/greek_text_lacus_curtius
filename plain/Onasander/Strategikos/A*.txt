@@ -1,7 +1,141 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Προοίμιον
+				
+
+
+
+This webpage reproduces part of the
+				
+
+
+
+The General (Strategikos)
+				
+
+by
+				
+
+Onasander
+				
+
+
+
+(Loeb Classical Library edition,
+1928)
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Κεφάλαια
+			
+δ´‑ε´
+				
+
+
+
+
+
+This site is not affiliated with the US Military Academy.
+		
+
+
+
+
+
+
+
+
+
+USMAHome
+		
+
+
+
+
+
+
+ΟΝΑΣΑΝΔΡΟΥ
+	
+ΣΤΡΑΤΗΓΙΚΟΣ
+	
+
 p374
 
 I. [Περὶ αἱρέσεως στρατηγοῦ]1
+
 
 1 Φημὶ τοίνυν αἱρεῖσθαι τὸν στρατηγὸν οὐ κατὰ γένη κρίνοντας, ὥσπερ τοὺς ἱερέας, οὐδὲ κατ᾽ οὐσίας, ὡς τοὺς γυμνασιάρχους,2 ἀλλὰ σώφρονα, ἐγκρατῆ, νήπτην, λιτόν, διάπονον, νοερόν, ἀφιλάργυρον, μήτε νέον μήτε πρεσβύτερον, ἂν τύχῃ καὶ πατέρα παίδων, ἱκανὸν λέγειν, ἔνδοξον.
 
@@ -28,6 +162,14 @@ I. [Περὶ αἱρέσεως στρατηγοῦ]1
 	
 
 7 [ϛ´] νοερὸν δέ·10 ὀξὺν γὰρ εἶναι δεῖ τὸν στρατηγὸν ἐπὶ πᾶν ᾄττοντα δι᾽ ὠκύτητος ψυχῆς κατὰ τὸν Ὅμηρον
+
+
+
+
+
+ὡσεὶ πτερὸν ἠὲ νόημα·11
+
+
 
 
 πολλάκις γὰρ ἀπρόληπτοι12 ταραχαὶ προσπεσοῦσαι σχεδιάζειν ἀναγκάζουσι τὸ συμφέρον.
@@ -85,6 +227,7 @@ p386πατέρων76 ἀποχρήσασθαι δόξῃ, τὴν ἀρετὴν
 
 II. [Περὶ ἀγαθοῦ στρατηγοῦ διαίρεσις]77
 
+
 1 Ζηλούσθω78 μὲν δὴ ἡμῖν ὁ στρατηγὸς ὁ ἀγαθὸς79 εὐγενὴς καὶ80 πλούσιος, μὴ ἀποδοκιμαζέσθω δὲ πένης μετὰ ἀρετῆς, εἰ καὶ μὴ81 ἀπὸ λαμπρῶν. 2 αἱρεθεὶς δ᾽ ὁ στρατηγὸς ἔστω χρηστός, εὐπροσήγορος, ἕτοιμος, ἀτάραχος, μὴ οὕτως ἐπιεικὴς ὥστε καταφρονεῖσθαι, μήτε φοβερὸς ὥστε μισεῖσθαι, ἵνα μήτε ταῖς χάρισιν ἐκλύσῃ τὸ στρατόπεδον μήτε τοῖς φόβοις ἀλλοτριώσῃ. 3 λοχαγοὺς δὲ καθιστάτω καὶ ταξιάρχους82 καὶ χιλιάρχους,83 καὶ εἴ τινων ἄλλων ἡγεμόνων προσδεῖν αὐτῷ δόξαι,84 τοὺς εὐνουστάτους τῇ πατρίδι, πιστοτάτους,85 εὐρωστοτάτους, ἔνθεν δ᾽86 οὐδὲν ἂν κωλύοι87 καὶ τοὺς εὐπορωτάτους καὶ τοὺς εὐγενεστάτους· 4 οὐ γάρ, ὡς ὀλίγους αἱρουμένους88 στρατηγοὺς ἐκ τρόπου δοκιμάσαι ῥᾷον, κἂν ἀπῇ ὁ τῶν χρημάτων89 μετ᾽ εὐγενείας ὄγκος, οὕτως που καὶ λοχαγῶν καὶ ταξιάρχων πλῆθος. 5 ὅθεν τὸ μὲν εὐγενὲς ἐπὶ τούτων προκριτέον εἰς πρόχειρον ἐν ὀξεῖ καιρῷ δοκιμασίαν,90 τὸ δὲ ἐν εὐπορίᾳ,91 ἐπειδὴ92 ἀναλῶσαί τε καὶ δοῦναι στρατιώταις οἱ ἐκ περιουσίας δυνατοί, χορηγία δ᾽ ἀπὸ τῶν ἡγουμένων ὀλίγη πρὸς
 
 
@@ -97,15 +240,26 @@ p388τοὺς ὑποταττομένους93 εὐνουστέρα παρασκ
 
 III. [Περὶ τοῦ ἔχειν τὸν στρατηγὸν βουλευτάς]97
 
+
 1 Αἱρείσθω δὲ ἤτοι98 συνέδρους, οἳ99 μεθέξουσιν αὐτῷ πάσης βουλῆς καὶ κοινωνήσουσι γνώμης αὐτοῦ100 οἱ101 τούτου εἵνεκα102 ἀκολουθήσοντες,103 ἢ ἐξ αὐτῶν τῶν ἡγεμόνων τοὺς ἐντιμοτάτους μεταπεμπόμενος συνεδρευέτω, ὡς,104 ἅ γέ τις ἂν ἐννοήσῃ μὲν μόνος, ὡς τὰ αὑτοῦ, οὐ βεβαίως105 οἰκειοῦται. 2 γνώμη γὰρ ἡ μὲν ἀνεπικούρητος μονουμένη παπταίνει106 περὶ τὴν ἰδίαν εὕρεσιν,107 ἡ δὲ ὑπὸ τῶν πέλας ἐπιμαρτυρηθεῖσα πιστοῦται τὸ μὴ σφαλερόν. 3 οὐ μὴν ἀλλὰ μήθ᾽ οὕτως ἄστατος ἔστω τὴν διάνοιαν, ὡς αὐτὸν αὑτῷ108 πάμπαν ἀπιστεῖν, μήθ᾽ οὕτως αὐθάδης, ὡς μή τι καὶ παρ᾽ ἄλλῳ τοῦ παρ᾽ αὑτῷ κρεῖττον οἴεσθαι νοηθῆναι· ἀνάγκη γὰρ τὸν τοιοῦτον ἢ πᾶσι109 προσέχοντα καὶ μηδὲν αὑτῷ110 πολλὰ καὶ ἀσύμφορα πράττειν, ἢ μηδ᾽ ὀλίγ᾽ ἄλλων111 ἀκούοντα, πάντα δ᾽ αὑτοῦ,112 πολλὰ καὶ δεῖνα113 διαμαρτάνειν.114
+
+
+The Author's Notes:
+	
 
 1
 Not in FGH. F has no indication of any break between the prooemium and the first chapter, but only after § 1 of the chapter. GH have in the body of the text ἀρχὴ τοῦ στρατηγικοῦ. All the titles date from different periods subsequent to the original composition; that of Chap. ix, because of ἄπληκτα, castra, must be assigned to Byzantine times.
 
 
 
+
+
+
 2
 γυμνασιάρχας A m2 vGH.
+
+
+
 
 
 
@@ -118,8 +272,14 @@ judge from the silence of Köchly). In F the first line of each subdivision begi
 
 
 
+
+
+
 4
 ταῖς φυσικαῖς μὴ vGH.
+
+
+
 
 
 
@@ -128,8 +288,14 @@ judge from the silence of Köchly). In F the first line of each subdivision begi
 
 
 
+
+
+
 6
 ἐγκρατεῖς corr. to ἀκρατεῖς P.
+
+
+
 
 
 
@@ -138,8 +304,14 @@ Om. vGH.
 
 
 
+
+
+
 8
 κατασκελετεῦσιν F.
+
+
+
 
 
 
@@ -148,8 +320,14 @@ Köchly: ὕστερος FGHEN: ὕστερον P.
 
 
 
+
+
+
 10
 Om. F.
+
+
+
 
 
 
@@ -158,8 +336,14 @@ Om. F.
 
 
 
+
+
+
 12
 ἀπροσδόκητοι vGH.
+
+
+
 
 
 
@@ -168,8 +352,14 @@ Schwebel supported by Leo, Tactica, II.8: συμφέρον· (interval) ἡ δ�
 
 
 
+
+
+
 14
 αὐτὴ vGH.
+
+
+
 
 
 
@@ -178,8 +368,14 @@ Schwebel supported by Leo, Tactica, II.8: συμφέρον· (interval) ἡ δ�
 
 
 
+
+
+
 16
 ἐπειδὴ . . . ἀσθενής del. von Rohden.
+
+
+
 
 
 
@@ -188,8 +384,14 @@ Schwebel supported by Leo, Tactica, II.8: συμφέρον· (interval) ἡ δ�
 
 
 
+
+
+
 18
 Om. vGH.
+
+
+
 
 
 
@@ -198,8 +400,14 @@ B: om. Ω.
 
 
 
+
+
+
 20
 ἐλλίπῃ Koraes.
+
+
+
 
 
 
@@ -208,8 +416,14 @@ B: om. Ω.
 
 
 
+
+
+
 22
 μὴ δέπω GH.
+
+
+
 
 
 
@@ -218,8 +432,14 @@ B: om. Ω.
 
 
 
+
+
+
 24
 ἐμφρόνως F.
+
+
+
 
 
 
@@ -228,8 +448,14 @@ B: om. Ω.
 
 
 
+
+
+
 26
 ἐνενόησε GH.
+
+
+
 
 
 
@@ -238,8 +464,14 @@ Köchly: ἢ ἐλλείπουσα Ω.
 
 
 
+
+
+
 28
 ἐλλομένους GH.
+
+
+
 
 
 
@@ -248,8 +480,14 @@ Köchly: ἢ ἐλλείπουσα Ω.
 
 
 
+
+
+
 30
 ἐὰν AB Köchly: ἂν Ω.
+
+
+
 
 
 
@@ -258,8 +496,14 @@ FC: ἂν vGH.
 
 
 
+
+
+
 32
 Schwebel: στρατηγοῦ Ω.
+
+
+
 
 
 
@@ -268,8 +512,14 @@ AB (συστράτηγοι GH): συσστράτηγοι F: στρατηγοὶ 
 
 
 
+
+
+
 34
 ἥξεσθαι P: ἤξεσθαι GH.
+
+
+
 
 
 
@@ -278,8 +528,14 @@ AB (συστράτηγοι GH): συσστράτηγοι F: στρατηγοὶ 
 
 
 
+
+
+
 36
 ἀκμάζουσαν vGH.
+
+
+
 
 
 
@@ -288,8 +544,14 @@ Om. vGH.
 
 
 
+
+
+
 38
 τοῖς στρατ. vGH.
+
+
+
 
 
 
@@ -298,8 +560,14 @@ Om. vGH.
 
 
 
+
+
+
 40
 μόνοις PR.
+
+
+
 
 
 
@@ -308,8 +576,14 @@ Köchly's suggestion that the order might be τοὺς κάμνοντας ἀν�
 
 
 
+
+
+
 42
 ἐπιπολλῆς P: ἐπιστολῆς (in marg. γρ. ἐπιπολλῆς) GH.
+
+
+
 
 
 
@@ -318,8 +592,14 @@ Köchly's suggestion that the order might be τοὺς κάμνοντας ἀν�
 
 
 
+
+
+
 44
 στρατηγοῦ Koraes and Köchly.
+
+
+
 
 
 
@@ -328,8 +608,14 @@ FGH (though the testimony of GH on such a point is practically worthless): οὐ
 
 
 
+
+
+
 46
 τὸ GH.
+
+
+
 
 
 
@@ -338,8 +624,14 @@ FGH (though the testimony of GH on such a point is practically worthless): οὐ
 
 
 
+
+
+
 48
 αὐτοῦ FGH.
+
+
+
 
 
 
@@ -348,8 +640,14 @@ FGH (though the testimony of GH on such a point is practically worthless): οὐ
 
 
 
+
+
+
 50
 εἴρηκε F.
+
+
+
 
 
 
@@ -358,8 +656,14 @@ FGH (though the testimony of GH on such a point is practically worthless): οὐ
 
 
 
+
+
+
 52
 FGH Rigaltius Schwebel: οὐδέτερον Köchly.
+
+
+
 
 
 
@@ -368,8 +672,14 @@ F: αἱρετέον GH Köchly.
 
 
 
+
+
+
 54
 ἐκλεκτέον vGH.
+
+
+
 
 
 
@@ -378,8 +688,14 @@ F: αἱρετέον GH Köchly.
 
 
 
+
+
+
 56
 τοσοῦτον vGH.
+
+
+
 
 
 
@@ -388,8 +704,14 @@ After γὰρ vGH add καὶ.
 
 
 
+
+
+
 58
 After αὐτῷ vGH add μόνῳ.
+
+
+
 
 
 
@@ -398,8 +720,14 @@ After αὐτῷ vGH add μόνῳ.
 
 
 
+
+
+
 60
 χρηματιστὴ εἴη F, which marks a break at this point.
+
+
+
 
 
 
@@ -408,8 +736,14 @@ After αὐτῷ vGH add μόνῳ.
 
 
 
+
+
+
 62
 ὀβολογιάτην RG (ὁβ‑) H (ὁβ‑) P (corr. to ὀβολοστάτην).
+
+
+
 
 
 
@@ -418,8 +752,14 @@ After αὐτῷ vGH add μόνῳ.
 
 
 
+
+
+
 64
 ὅλως δὲ μηδὲν GH.
+
+
+
 
 
 
@@ -428,8 +768,14 @@ Koraes: τε Ω.
 
 
 
+
+
+
 66
 λαμπρῶν Köchly.
+
+
+
 
 
 
@@ -438,13 +784,22 @@ Koraes: τε Ω.
 
 
 
+
+
+
 68
 Köchly: εἰμὴ F: εἶναι vGH.
 
 
 
+
+
+
 69
 ἀν περίοπτον F, corr. C: ἀνόητον vGH.
+
+
+
 
 
 
@@ -454,9 +809,15 @@ Köchly: καὶ πρόσθεν (τὰ πρόσθεν CRDENA m2): τήρησον
 
 
 
+
+
+
 71a
 71b
 FGHR: προγόνων v.
+
+
+
 
 
 
@@ -465,8 +826,14 @@ FGHR: προγόνων v.
 
 
 
+
+
+
 73
 FC: χρηστοὶ Ω (including P).
+
+
+
 
 
 
@@ -475,8 +842,14 @@ FC: χρηστοὶ Ω (including P).
 
 
 
+
+
+
 75
 FCD: ἐλθόντες vGH.
+
+
+
 
 
 
@@ -485,8 +858,14 @@ FGHR: προγόνων v.
 
 
 
+
+
+
 77
 In text GH (v?): om. F: C puts it after § 1 where it really belongs, since § 1 is properly the conclusion of this preceding chapter.
+
+
+
 
 
 
@@ -495,8 +874,14 @@ In text GH (v?): om. F: C puts it after § 1 where it really belongs, since § 1
 
 
 
+
+
+
 79
 F: ἡμῖν στρατηγὸς ὁ ἀγαθὸς GH: στρατηγὸς ἀγαθὸς v: δὴ στρατηγὸς ἡμῖν ἀγαθὸς von Rohden.
+
+
+
 
 
 
@@ -505,8 +890,14 @@ Om. Ω.
 
 
 
+
+
+
 81
 εἰ μὴ καὶ vGH.
+
+
+
 
 
 
@@ -515,8 +906,14 @@ Om. Ω.
 
 
 
+
+
+
 83
 καὶ χιλιάρχους FC: om. vGH.
+
+
+
 
 
 
@@ -525,8 +922,14 @@ Om. Ω.
 
 
 
+
+
+
 85
 καὶ πιστοτάτους vGH: πιστοτάτους τε καὶ C.
+
+
+
 
 
 
@@ -535,8 +938,14 @@ Om. vGH.
 
 
 
+
+
+
 87
 κωλύῃ V: κωλύη GH.
+
+
+
 
 
 
@@ -545,8 +954,14 @@ Om. vGH.
 
 
 
+
+
+
 89
 Köchly: ἀπῆ χρημάτων F: ἀπὸ χρημάτων GH: ἀπὸ (om. τῶν?): ἀπῇ τῶν χ. μετ᾽ or ἀπῇ τῶν χ. ὁ μετ᾽ von Rohden.
+
+
+
 
 
 
@@ -555,8 +970,14 @@ Köchly: ἀπῆ χρημάτων F: ἀπὸ χρημάτων GH: ἀπὸ (om
 
 
 
+
+
+
 91
 ἀπορίᾳ Rigaltius.
+
+
+
 
 
 
@@ -565,8 +986,14 @@ Köchly: ἀπῆ χρημάτων F: ἀπὸ χρημάτων GH: ἀπὸ (om
 
 
 
+
+
+
 93
 ὑποτεταγμένους vGH.
+
+
+
 
 
 
@@ -575,8 +1002,14 @@ FC: ἀσφάλεια vGH.
 
 
 
+
+
+
 95
 πίστις GH.
+
+
+
 
 
 
@@ -586,8 +1019,14 @@ F: εἰ πάνυ στρατηγὸς ἐκ vGH.
 
 
 
+
+
+
 97
 Om. F which has not even an interval between II and III.
+
+
+
 
 
 
@@ -596,8 +1035,14 @@ F: δὲ αὖ καὶ vGH.
 
 
 
+
+
+
 99
 οἳ καὶ vGH.
+
+
+
 
 
 
@@ -606,8 +1051,14 @@ F: δὲ αὖ καὶ vGH.
 
 
 
+
+
+
 101
 ἢ vGH.
+
+
+
 
 
 
@@ -616,8 +1067,14 @@ F: ἕνεκα Ω Köchly.
 
 
 
+
+
+
 103
 Del. οἱ . . . ἀκολουθήσοντες von Rohden.
+
+
+
 
 
 
@@ -630,8 +1087,14 @@ Köchly: ὡς ἃ γέ τις ἐννοήσῃ μὲν μόνος τὰ αὐτ
 
 
 
+
+
+
 105
 πταίει vGH.
+
+
+
 
 
 
@@ -640,8 +1103,14 @@ Köchly: ὡς ἃ γέ τις ἐννοήσῃ μὲν μόνος τὰ αὐτ
 
 
 
+
+
+
 107
 Köchly: αὐτὸν αὐτῷ F: αὐτὸς αὐτῷ vGH (αὐτῶ GH).
+
+
+
 
 
 
@@ -650,8 +1119,14 @@ Köchly: αὐτῷ F: αὐτὸν vGH.
 
 
 
+
+
+
 109
 πάση F.
+
+
+
 
 
 
@@ -660,8 +1135,14 @@ Köchly: αὐτῶ FGH: αὐτῷ v.
 
 
 
+
+
+
 111
 Köchly: ὀλίγων Ω.
+
+
+
 
 
 
@@ -670,8 +1151,14 @@ Koraes: δ᾽ αὐτοῦ FC: δι᾽ αὐτοῦ PGH.
 
 
 
+
+
+
 113
 Köchly: om. Ω.
+
+
+
 
 
 
@@ -680,3 +1167,128 @@ Köchly: om. Ω.
 
 
 
+
+
+
+◂ previous
+		
+
+
+next ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ:
+		
+
+
+
+Onasander
+			
+
+
+
+
+Ancient
+			
+Military History
+			
+
+
+
+
+Military
+			
+History
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+27 Jul 13

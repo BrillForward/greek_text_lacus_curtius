@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος νθ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1951
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ξα´
+				
+
+
+
+
+
+(Vol. ΙV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p452
+60. ΝΕΣΣΟΣ Η ΔΗΙΑΝΕΙΡΑ
+	
+
 1 Ἔχεις μοι λῦσαι ταύτην τὴν ἀπορίαν, πότερον δικαίως ἐγκαλοῦσιν οἱ μὲν τῷ Ἀρχιλόχῳ, οἱ δὲ τῷ Σοφοκλεῖ περὶ τῶν κατὰ τὸν Νέσσον καὶ τὴν Δηιάνειραν ἢ οὔ; φασὶ γὰρ οἱ μὲν τὸν Ἀρχίλοχον ληρεῖν, ποιοῦντα τὴν Δηιάνειραν ἐν τῷ βιάζεσθαι ὑπὸ τοῦ Κενταύρου πρὸς τὸν Ἡρακλέα ῥαψῳδοῦσαν, ἀναμιμνῄσκουσαν τῆς τοῦ Ἀχελῴου μνηστείας καὶ τῶν τότε γενομένων· ὥστε πολλὴν σχολὴν εἶναι τῷ Νέσσῳ ὅ τι ἐβούλετο πρᾶξαι· οἱ δὲ τὸν Σοφοκλέα πρὸ τοῦ καιροῦ πεποιηκέναι τὴν τοξείαν, διαβαινόντων αὐτῶν ἔτι τὸν ποταμόν· οὕτως γὰρ ἂν καὶ τὴν Δηιάνειραν ἀπολέσθαι, ἀφέντος τοῦ Κενταύρου. ἀλλὰ μή, καθάπερ εἴωθας,1 πολὺ παρὰ τὴν δόξαν λέγε2 καὶ πάντα μᾶλλον ἢ ὅ τις ἂν οἰηθείη.
 
 	
@@ -65,69 +182,183 @@ p460τοῦ τοιούτου βίου, ἅμα δὲ δυσχεραίνων ὅ�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 εἴωθας Arnim: εἴωθε.
 
 
+❦
 
 2
 λέγε Arnim, λέγῃ Geel: λέγει M, λέγων UB.
 
 
+❦
 
 3
 ἃ τις ἂν Post: ἃ ἄν τις.
 
 
+❦
 
 4
 ἃ added by Arnim.
 
 
+❦
 
 5
 After λέγω Pflugk deletes τὸ νῦν.
 
 
+❦
 
 6
 After ἐστι Arnim adds τὸ.
 
 
+❦
 
 7
 ἂν προλογιζώμεθα M, ἄνπερ λογιζώμεθα Emperius, ἂν καταλογιζώμεθα Sonny: ἂν εἰ λογιζώμεθα BU.
 
 
+❦
 
 8
 τοῦτον τὸν τρόπον, οὐχ ὅν φασι Reiske: αὐτὴν τοῦτον τὸν τρόπον φασὶν M, τὸν αὐτοῦ τρόπον οὐ φασὶ UB.
 
 
+❦
 
 9
 τὸν added by Emperius.
 
 
+❦
 
 10
 διηγεῖτο] διελέγετο Emperius.
 
 
+❦
 
 11
 καὶ βουλομένη] βουλομένην Emperius, ἐρῶσα καὶ βουλομένη Gasda.
 
 
+❦
 
 12
 After παραμυθουμένη Reiske suspects a lacuna.
 
 
 
+❦
 
 13
 κατῄει] καθίει Lobeck.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+21 Jun 12

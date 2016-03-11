@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος κ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος κβ´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+Vol. IIp272
+21. ΠΕΡΙ ΚΑΛΛΟΥΣ
+	
+
 1 Ὡς ὑψηλὸς ὁ νεανίσκος καὶ ὡραῖος· ἔτι δὲ ἀρχαῖον αὐτοῦ τὸ εἶδος, οἷον ἐγὼ οὐχ ἑώρακα τῶν νῦν, ἀλλ᾽ ἢ τῶν Ὀλυμπίασιν ἀνακειμένων τῶν πάνυ παλαιῶν· αἱ δὲ τῶν ὕστερον εἰκόνες ἀεὶ χείρους καὶ ἀγεννεστέρων φαίνονται, τὸ μέν τι ὑπὸ τῶν δημιουργῶν, τὸ δὲ πλέον καὶ αὐτοὶ τοιοῦτοί εἰσιν.
 
 	
@@ -109,146 +226,285 @@ p284οὗτινος·18 ὡς ἐγὼ οὐδένα πώποτε οὕτως19 
 p288τελευτήσαντος δὲ καὶ γυμνωθέντος ἐκπλαγῆναι φησιν αὐτοῦ τὸ κάλλος τοὺς Ἀχαιοὺς ἰδόντας, οὕτω πως λέγων·
 
 
+
+
+
+οἳ καὶ θηήσαντο φυὴν καὶ εἶδος ἀγητὸν
+			
+Ἕκτορος.
+		
+
+
+
 17 οὐ γὰρ ἦν αὐτοῖς πρότερον, οἶμαι, σχολὴ θηήσασθαι αὐτὸν ἀκριβῶς· καὶ τὰ ἄλλα σχεδὸν σαφέστερον ἐπέξεισιν καὶ25 ὡς οὐ περὶ ἄλλου τινὸς τῶν καλλίστων· τήν τε γὰρ κεφαλὴν χαρίεσσαν αὐτοῦ φησιν εἶναι καὶ τὴν κόμην πάνυ μέλαιναν καὶ τὸ σῶμα οὐ σκληρόν. περὶ δὲ τοῦ Ἀχιλλέως εἴδους οὐδὲν λέγει καθ᾽ ἕκαστον ἀλλ᾽26 ἢ τῆς κόμης, ὅτι ξάνθος ἦν, καὶ περὶ τῆς Εὐφόρβου κόμης καὶ Πατρόκλου ὡς μάλιστα ἐν ἀκμῇ τελευτησάντων, καὶ περὶ τῶν ἄλλων σμικρόν τι περὶ ἑκάστου καὶ ἀνδρῶν καὶ γυναικῶν τῶν καλλίστων· πλὴν ὅτι γε οὐδεὶς ἂν27 εἴποι τούσδε ὁμοίως ἂν εἶναι καλούς, οὐδὲ Ἀλέξανδρον ἢ Εὔφορβον ἢ Τρωίλον ἐοικέναι τι Μενελάῳ καὶ Πατρόκλῳ καὶ Νιρεῖ, οὐδὲ ἐν τοῖς βαρβάροις Σέσωστριν τὸν Αἰγύπτιον ἢ Μέμνονα τὸν Αἰθίοπα ἢ Νινύαν28 ἢ Εὐρύπυλον ἢ Πέλοπα.
 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 After μὲν Emperius added εἰ.
 
 
+❦
 
 2
 γενόμενος Emperius: γινόμενος B, γιγνόμενος UM.
 
 
+❦
 
 3
 ἅψαιντο Reiske: ἅψαιτο.
 
 
+❦
 
 4
 Casaubon added κάλλους before ἀναρχίαν unnecessarily.
 
 
+❦
 
 5
 πλὴν ἢ εἷς Capps (ἢ εἷς Arnim): ἢ εἰ.
 
 
+❦
 
 6
 van Herwerden suggested that Dio wrote ἡ ἀρρένων συνουσίᾳ, "intercourse with males," which was toned down under Christian influence to ἡ ἐξουσία.
 
 
+❦
 
 7
 αὑτοῦ Dindorf: αὐτοῦ.
 
 
+❦
 
 8
 ὄν added by Casaubon.
 
 
+❦
 
 9
 καίπερ Emperius: καὶ.
 
 
+❦
 
 10
 For ἔδει Reiske proposed δεῖ.
 
 
+❦
 
 11
 For καὶ Jacobs conj. ὡς, Reiske ἵνα.
 
 
+❦
 
 12
 πολλοῦ Arnim: ὁμοῦ M, ὅπου UB.
 
 
+❦
 
 13
 δέω Arnim: δέῃ.
 
 
+❦
 
 14
 τισι Cohoon: τινι.
 
 
+❦
 
 15
 βυβλίοις Casaubon: βιβλίοις.
 
 
+❦
 
 16
 γε Casaubon: τε.
 
 
+❦
 
 17
 προσδιαφθειράντες Rouse: προσδιαφθείροντες.
 
 
+❦
 
 18
 After οὗτινος the MSS. have υἱός, which von Arnim bracketed.
 
 
+❦
 
 19
 οὕτως added by Casaubon.
 
 
+❦
 
 20
 ὁρῶντας Casaubon: ἐρῶντας.
 
 
+❦
 
 21
 After οὐδενὸς the MSS. have υἱός, which Emperius bracketed.
 
 
+❦
 
 22
 τό γε Pflugk: γε τὸ.
 
 
+❦
 
 23
 The words ἢ οὐδένα . . . καλόν moved here by Casaubon from their position after εἶδος καὶ κάλλος (two lines infra) in the MSS.
+❦
 
 24
 αὐτόθι Capps: αὐτοῦ ἔτι or αὐτοὺς ἔτι.
 
 
+❦
 
 25
 καὶ added by Cohoon.
 
 
+❦
 
 26
 ἀλλ᾽ added by Reiske.
 
 
+❦
 
 27
 οὐδεὶς ἂν Casaubon: οὐδὲ κἂν.
 
 
+❦
 
 28
 Νινύαν Reiske: Μινύαν.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+23 Jun 12

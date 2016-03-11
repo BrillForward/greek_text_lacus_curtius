@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος λζ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος λθ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p50
+38. ΠΡΟΣ ΝΙΚΟΜΗΔΕΙΣ ΠΕΡΙ ΟΜΟΝΟΙΑΣ ΤΗΣ ΠΡΟΣ ΝΙΚΑΕΙΣ
+	
+
 1 Ὅταν ἐκλογίσωμαι τὰς αἰτίας, ἄνδρες Νικομηδεῖς, δι᾽ ἃς ἐποιήσασθέ με πολίτην· οὐ γὰρ πλοῦτον ὄντα ὁρῶ μοι μέγαν, ὥστε νομίζειν ὅτι διὰ χρήματα ἐσπουδάσθην ὑφ᾽ ὑμῶν· οὔτε πρὸς τὸ θεραπεύειν τοὺς ὄχλους ἐπιτηδείως ἔχοντι ἐμαυτῷ σύνοιδα· οὐκοῦν οὐδὲ εἰς τοῦτό μου χρῄζειν δοκεῖτε, τὸ ταῖς ὁρμαῖς ὑμῶν ἁπάσαις ὑπηρετεῖν ἑτοίμως ἐμέ· ἀλλὰ μὴν οὐδὲ συμποτικός εἰμί τις οὐδὲ κοινὸς ἐν ταῖς τοιαύταις συνουσίαις, ὥστε ἀπό γε τούτου παρέχειν τοῖς πλήθεσιν ἡδονήν· εἰ δὲ μὴ διαμαρτάνω μήτε τῆς ὑμετέρας περὶ ἐμαυτοῦ προαιρέσεως, ὅσα τε ὑμῖν δύναμαι χρήσιμος εἶναι, ταῦτα ἐπίσταμαι, τὸ λοιπόν ἐστιν, δι᾽ ὃ πολίτης ἐγὼ γεγένημαι παρ᾽ ὑμῖν,1 οὐδὲν ἄλλο ἢ τὸ συμβουλεύειν ἐμέ τι περὶ τῶν κοινῇ συμφερόντων ἴσως μᾶλλον ἑτέρων καὶ βούλεσθαι καὶ δύνασθαι. 2 τοῦτο δὲ εἰ μὲν οὐκ ἐστι τοιοῦτον, ὑμεῖς τε τῆς περὶ ἐμὲ σπουδῆς διημάρτετε ἐγώ τε ἔοικα μάτην ὑπακούσας ὑμῖν ἐπ᾽ ἐλπίδι τοῦ γενήσεσθαι
 
 
@@ -173,343 +290,512 @@ p92τὴν ἀπὸ τῶν ἔργων ἕξειν αὐτὰ πειθὼ βε�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 After ὑμῖν Selden deletes σπουδῆς.
 
 
+❦
 
 2
 ἔξεστι] ἔξεστιν ἀμελεῖν Arnim.
 
 
+❦
 
 3
 εἰσποιητῶν Geel: εἰς ποιητῶν M, ποιητῶν UB.
 
 
+❦
 
 4
 After βουλομένῳ Weil adds καὶ.
 
 
+❦
 
 5
 ἀφ᾽] ἐφ᾽ Reiske.
 
 
+❦
 
 6
 φάρμακον] φαρμάκων Herwerden.
 
 
+❦
 
 7
 Arnim moves εἶτα to the beginning of the next clause.
 
 
+❦
 
 8
 διακρῖναι Crosby: διακρίνας.
 
 
+❦
 
 9
 τὸ] Arnim deletes.
 
 
+❦
 
 10
 ὅπως Emperius : εἴ πως.
 
 
+❦
 
 11
 μέλλει λυσιτελήσειν Emperius: μελλήσει λυσιτελεῖν.
 
 
+❦
 
 12
 ἐπενοήθησαν editio princeps: ἀπενοήθησαν.
 
 
+❦
 
 13
 ὥστε added by Crosby.
 
 
+❦
 
 14
 καὶ τοῖς ἀεὶ τοῦτο ποιεῖν] deleted by Wilamowitz: Reiske inserts βουλησομένοις after ἀεὶ.
 
 
+❦
 
 15
 αὐτὴν] αὐτῆς Reiske.
 
 
+❦
 
 16
 ὁμόνοια ἑνοῖ; καὶ Emperius: ὁμόνοιαν εἶναι καὶ.
 
 
+❦
 
 17
 θείοις Emperius: θεοῖς.
 
 
+❦
 
 18
 πάντα τὰ κακὰ] which Arnim deletes.
 
 
+❦
 
 19
 ἀποκρίναιτο Geel: ἀπεκρίνατο.
 
 
+❦
 
 20
 οὐδεὶς] which Geel deletes.
 
 
+❦
 
 21
 After οὕτως Reiske adds ὡς.
 
 
+❦
 
 22
 ἂν added by Reiske.
 
 
+❦
 
 23
 αὕτη] αὐτῇ Geel.
 
 
+❦
 
 24
 οἱ ναῦται] which Arnim deletes.
 
 
+❦
 
 25
 διαφόρων Reiske: διαφορῶν.
 
 
+❦
 
 26
 μὴ ἔχοντες] which Weil deletes.
 
 
+❦
 
 27
 κακὸν with U: οὐ κακὸν B, οὐ κακὄντα M, οὐκ ἂν Emperius.
 
 
+❦
 
 28
 σφισιν Emperius: τισιν.
 
 
+❦
 
 29
 After αὐτοὺς Reiske adds κακαὶ.
 
 
+❦
 
 30
 ἂν Emperius: ἐν.
 
 
+❦
 
 31
 μὴ καὶ Emperius: καὶ μὴ.
 
 
+❦
 
 32
 οὐ δὴ Weil: οὐδὲ.
 
 
+❦
 
 33
 δὲ] δὴ Arnim.
 
 
+❦
 
 34
 συγγνοίη Reiske: συγγνώμη.
 
 
+❦
 
 35
 οὐδέν ἐστι, τὰ δὲ ὄντα Selden: οὐδ᾽ ἐστι, τὰ δέοντα BM, οὐδέστι τὰ δέοντα U.
 
 
+❦
 
 36
 After ὁμολογῆσαι Emperius deletes ὡς.
 
 
+❦
 
 37
 τὰς added by Emperius.
 
 
+❦
 
 38
 ἄλην εἰκῇ Geel: ἄλλη νίκη UM, ἄλλην νίκην B.
 
 
+❦
 
 39
 ἢ ᾗ Emperius, ἢ οἶ Sonny: ἤει M, ᾗ ἢ UB, εἰ ἢ T.
 
 
+❦
 
 40
 αὐτοὶ Capps: αὐτοῖς, which Arnim deletes.
 
 
+❦
 
 41
 ἀνοήτου] ἀνονήτου Casaubon.
 
 
+❦
 
 42
 ὡς . . . πράγματος deleted by Arnim.
 
 
+❦
 
 43
 γάρ added by Emperius.
 
 
+❦
 
 44
 ἐστε Reiske: ἐστιν.
 
 
+❦
 
 45
 μὲν added by Emperius.
 
 
+❦
 
 46
 μετέχουσι τὰ μὲν χάριτι added by Pflugk.
 
 
+❦
 
 47
 After τινάς Wilamowitz suspects a lacuna.
 
 
+❦
 
 48
 ἐπιμελεῖσθε Reiske: ἐπιμελεῖσθαι.
 
 
+❦
 
 49
 κἄν Arnim: ἄν.
 
 
+❦
 
 50
 ἢ Emperius: ἧ UB, ἡ M.
 
 
+❦
 
 51
 κατ᾽ αὐτὸ Reiske: καθ᾽ αὑτὸ.
 
 
+❦
 
 52
 ὀνομάζεσθαί Emperius: ὀνομάζεταί.
 
 
+❦
 
 53
 τίθεσθε Emperius: τίθεσθαι UB, τίθετε M.
 
 
+❦
 
 54
 διαδράσεται Emperius: διαδρᾶσαι M, διαδράσῃ UB.
 
 
+❦
 
 55
 γῆν Casaubon: τὴν.
 
 
+❦
 
 56
 After γίγνεται Arnim deletes  καὶ.
 
 
+❦
 
 57
 ἐπὶ τοῖς Emperius: ἐπ᾽.
 
 
+❦
 
 58
 τὸ added by Reiske.
 
 
+❦
 
 59
 ἅπαντα Emperius: ἅπαν τὸν UM, ἅπαντας τὸν B.
 
 
+❦
 
 60
 μείζων ὢν καὶ Crosby, καὶ μείζων δοκεῖ Reiske: μείζων καὶ.
 
 
+❦
 
 61
 κάλλιον Pflugk: καλὸν.
 
 
+❦
 
 62
 τὸ ἔτι τούτου τῷ γιγνομένῳ Pflugk: τί ἔτι τούτων γιγνομένων.
 
 
+❦
 
 63
 οἰκοδομήματα] Emperius deletes.
 
 
+❦
 
 64
 αὐτὸ Emperius: αὐτοὶ.
 
 
+❦
 
 65
 μενεῖν Arnim: μένειν.
 
 
+❦
 
 66
 τοσούτῳ χρόνῳ] τοσοῦτον χρόνον Arnim.
 
 
+❦
 
 67
 πλείονα] ἡδίονα Wilamowitz.
 
 
+❦
 
 68
 γενέσθαι Emperius: γενήσεσθαι.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+19 Oct 12

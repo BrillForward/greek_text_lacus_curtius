@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ιε´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ιζ´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p176
+16. ΠΕΡΙ ΛΥΠΗΣ
+	
+
 1 Τὸ μὲν ὑφ᾽ Ἡδονῆς κρατεῖσθαι τοὺς πολλοὺς αἰτίαν ἴσως ἔχει· κηλούμενοι γὰρ καὶ γοητευόμενοι παρὰ ταύτῃ μένουσι· τὸ δὲ Λύπῃ δεδουλῶσθαι παντελῶς ἄλογον καὶ θαυμαστόν. ὀδυνώμενοι γὰρ καὶ βασανιζόμενοι τῇ χαλεπωτάτῃ πασῶν βασάνῳ μένομεν ἐν αὐτῇ καὶ τὸν λόγον τὸν1 ἐλευθεροῦντα ἡμᾶς καὶ ἀπαλλάσσοντα τῆς ἀλγηδόνος οὐ προσιέμεθα. καίτοι τί μὲν ταπεινότερον ἀνδρὸς λυπουμένου; τί δὲ οὕτως αἰσχρὸν θέαμα; καθικνεῖται καὶ γάρ, οἶμαι, καὶ τοῦ σώματος τὸ πάθος καὶ τοῦτο συστέλλει καὶ σκυθρωπὸν καὶ δυσειδὲς ὀφθῆναι παρέχει. 2 τὸ δὲ μὴ μόνον εἴκειν τῇ φορᾷ τῆς διανοίας, ἀλλὰ καὶ προσμηχανᾶσθαί τινα ἔξωθεν, οἷον μέλαιναν ἐσθῆτα καὶ συμπλοκὰς χειρῶν καὶ ταπεινὰς καθέδρας, ὡς ὑπὸ τούτων πάντων ἀναγκάζεσθαι τρόπον τινὰ τὴν διάνοιαν μηδέποτε ἀφίστασθαι τῆς λύπης, ἀλλ᾽ ἀεὶ μνημονεύειν τοῦ2 λυπεῖσθαι, διεγνωκότας δὴ3 ἔσεσθαί τινα ἀπαλλαγὴν τούτου καὶ μὴ πάντως ἀεὶ φανεῖσθαι4 τινα αἰτίαν τοῦ πάθους, οὐχὶ σφόδρα εὔηθες; 3 ἢ γὰρ προσήκοντος θάνατος ἢ νόσος ἐκείνων τινὸς ἢ καὶ αὐτοῦ· πρὸς δὲ
 
 
@@ -25,76 +142,192 @@ p182ὦ μάταιε, κἂν πάντα σοι τἄλλα ἔχῃ κατὰ �
 	p184
 11 Καίτοι τῶν λυπουμένων ἕκαστος αὑτῷ τὸ συμβεβηκός φησιν εἶναι δεινότατον καὶ μάλιστα ἄξιον λύπης· καὶ γὰρ τῶν φερόντων ἕκαστος, ὃ φέρει, τοῦτ᾽ εἶναι δοκεῖ βαρύτατον. ἔστι δὲ ἀσθενοῦς τοῦτο καὶ φαύλου σώματος· τὸ γὰρ αὐτὸ ἕτερος λαβὼν ἂν ἰσχυρότερος ῥᾳδίως οἴσει.15
 
+
+The Loeb Editor's Notes:
+	
+
 1
 τὸν added by Dindorf.
 
 
+❦
 
 2
 τοῦ Capps: καὶ.
 
 
+❦
 
 3
 δὴ Arnim: μὴ.
 
 
+❦
 
 4
 φανεῖσθαι Dindorf: φαίνεσθαι.
 
 
+❦
 
 5
 περᾶναί Emperius: παρεῖναι.
 
 
+❦
 
 6
 ἢ Venetian edition: ἡ UB, omitted by M.
 
 
+❦
 
 7
 γίγνηται Selden: γίγνώσκηται.º
+❦
 
 8
 ἐᾶν Jacobs: κἂν.
 
 
+❦
 
 9
 μή, μή γε Reiske: μή γε, μή.
 
 
+❦
 
 10
 τῶν added by Capps.
 
 
+❦
 
 11
 ἀεὶ added by Jacobs.
 
 
+❦
 
 12
 τὰ added by Arnim.
 
 
+❦
 
 13
 κύριος Wilamowitz: χρόνος.
 
 
+❦
 
 14
 χρισάμενον Reiske: χρησάμενον.
 
 
+❦
 
 15
 Sonny considered the final paragraph a fragment drawn from an essay by another author. Arnim believed that it is either (especially the last sentence) very corrupt or composed by another than Dio.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+28 Jun 12

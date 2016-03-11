@@ -1,4 +1,109 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Months (de Mensibus)
+				
+
+of
+				
+
+John Lydus
+				
+
+
+
+
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+
+
+Ἰωάννου τοῦ Λυδοῦ
+	
+Περὶ μηνῶν
+	
+
+
+p158
+Σεπτέμβριος
+	
+
 121
 
 Ἀληθῆ λόγον ἐλέγομεν, ὡς ἀρχὴν ἐνιαυτοῦ τὸν Μάρτιον μῆνα ἔταττον οἱ Ῥωμαῖοι, ὡς ἐκ τῆς τοῦ1 παρόντος ἡμῖν μηνός ἐστι λαβεῖν προσηγορίας· Σεπτέμβριον2 γὰρ αὐτὸν ὠνόμασαν, οἷον ἕβδομον ἀπὸ τοῦ ἦρος — σέπτεμ γὰρ τὰ ἑπτὰ καὶ βὲρ τὸ ἔαρ3 — τουτέστι τοῦ Μαρτίου μηνός, οὗ κατὰ τὴν τετάρτην καὶ εἰκοστὴν ὁ ἥλιος4 <ἐν>5 κριῷ γενόμενος τοῦ ἦρος δίδωσι τὴν
@@ -67,6 +172,14 @@ p161κλόνον τινὰ καὶ σεισμὸν ἐμποιεῖ, ὃ δὴ �
 Ὅτι τὴν ἱσταμένην ἐν τῷ Βυζαντίῳ στήλην τῆς Τύχης Πομπήϊος ὁ Μέγας ἔστησεν· ἐνταῦθα <γὰρ>26 τὸν Μιθριδάτην συγκλείσας μετὰ τῶν Γότθων καὶ τούτους διασκεδάσας τὸ Βυζάντιον εἷλε. καὶ μαρτυρεῖ τὸ ἐπὶ τῆς σπείρας τοῦ κίονος ἐπίγραμμα Λατίνοις γράμμασιν, ὃ δηλοῖ τάδε·
 
 
+
+
+
+Τῇ τύχῃ τῇ ἐπανασωστικῇ διὰ τοὺς νικηθέντας Γότθους.
+		
+
+
+
 ὁ δὲ τόπος ὕστερον καπηλεῖον ἐγένετο. οἱ Γότθοι Γέται.
 
 	
@@ -82,29 +195,37 @@ p161κλόνον τινὰ καὶ σεισμὸν ἐμποιεῖ, ὃ δὴ �
 
 
 
+
+The Editor's Notes:
+	
+
 [1]
 Metrodorus Wachsmuth de ost. p297 nr. 17
 
 
 
+❦
 
 [2]
 Democritus ibid. nr. 18
 
 
 
+❦
 
 [3]
 Eudoxus Wachsmuth de ost. p297 nr. 19
 
 
 
+❦
 
 [4]
 Dositheus ibid. nr. 20
 
 
 
+❦
 
 [5]
 Caesar ibid. nr. 21
@@ -112,3 +233,199 @@ Caesar ibid. nr. 21
 
 
 	
+
+Critical Apparatus:
+	
+ 1
+ἔκ τε τοῦ A, ἔκ τοῦ B, ἔκ τῆς τοῦ Bekker
+
+
+❦
+ 2
+σεπτέμβριος δὲ ἕβδομος ἀπὸ τοῦ ἦρος· σέπτεμ γὰρ τὰ ἑπτὰ καὶ βὲρ τὸ ἔαρ· ὀκτώβριος ὄγδοος ἀπὸ τοῦ ἦρος, καὶ νοέμβριος καὶ δεκέμβριος ὁμοίως  (p159, 4) Y, τὸν σεπτέμβριον μῆνα οὕτω ῥωμαῖοι ὠνόμασαν, οἱονεὶ ἕβδομον ἀπὸ τοῦ ἔαρος, τουτέστι τοῦ μαρτίου μηνός H, τὸν σεπτέμβριον οὕτως ὠνόμασαν — p159, 1 ἐνάρχεσθαι S
+❦
+ 3
+σέπτεμ — ἔαρ omis. XS
+❦
+ 4
+κατὰ τὴν ἐνάτην καὶ δεκάτην ὁ ἥλιος S | γινόμενος G
+❦
+ 5
+<ἐν> addidi, cf. de ost. p2981
+❦
+ 6
+ἄρχεσθαι X
+❦
+ 7
+γὰρ ὁ ἀπὸ A
+❦
+ 8
+αὐξιφωτίων in ima pagina A, cet. des. X
+❦
+ 9
+καὶ omis. B
+❦
+ 10
+ἀνέμων omis. B
+❦
+ 11
+σύρον AB, εὔρον A2
+❦
+ 12
+τῇ πρὸ — εἰσήγαγεν Lambecius in Codinum p173 nr. 63
+
+
+❦
+ 13
+τὴν Λευκάτην Lamb.
+
+
+❦
+ 14
+ὅτι πλείους μὲν οὖν τῶν  (πλείους μὲν οὖν τῶν omis. Y) χυμῶν διαφοραὶ (πλείους μὲν add. Y) — ἁλμυρά YS | πλείους μὲν A, πλείους δὲ B | κατὰ τὸν Ἀπολλώνιον omis. Y
+❦
+ 15
+βριχχὴ A, βλιχχὴ S, βικχὴ Y, βρικχὴ D
+❦
+ 16
+βελνώδης B
+❦
+ 17
+εὔδοξος post δύεσθαι B
+❦
+ 18
+τωσἄρι A
+❦
+ 19
+ὡσεὶ B.
+
+
+❦
+ 20
+περιάπαται A
+❦
+ 21
+κόποις A
+❦
+ 22
+τῇ omis. B
+❦
+ 23
+δεσίθεος A, δωσίθεος A2, δοσίθεος B
+❦
+ 24
+ὅτι πλεονάσαντος — ἐγένετο Y, ὅτι πλεονάσαντος — ὀνομάζεται omis. D
+❦
+ 25
+τρόμος τε καὶ G
+❦
+ 26
+<γὰρ> addidi
+
+
+❦
+ 27
+ὅτι τὸ λόγιον — παρεγγυᾶ S
+❦
+ 28
+μῆνα omis. B
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Ἰωάννης Λυδός·
+			
+Περὶ μηνῶν
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+7 Mar 14

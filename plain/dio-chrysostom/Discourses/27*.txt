@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος κϝ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος κη´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p348
+27. ΔΙΑΤΡΙΒΗ ΠΕΡΙ ΤΩΝ ΕΝ ΣΥΜΠΟΣΙΩΙ
+	
+
 1 Οἱ ἄνθρωποι γίγνονται καταφανεῖς ὁποίαν ἔχουσι διάνοιαν ἕκαστος ἐν ταῖς πανηγύρεσιν οὐχ ἧττον ἢ ἐν τοῖς συμποσίοις, πλὴν ὅτι ποικιλώτερον τὸ1 τῶν πανηγύρεων καὶ χρόνου πλείονος.
 
 	
@@ -28,81 +145,198 @@ p354ἀρχὴν ἔχοντα μεγάλην ἄνευ πολέμου καὶ �
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 τὸ Emperius: τὰ.
 
 
+❦
 
 2
 πράξαντες Emperius: κράξαντες.
 
 
+❦
 
 3
 οὐδὲν added by Arnim.
 
 
+❦
 
 4
 μέτριον Geel: μέτρον.
 
 
+❦
 
 5
 εὐσχημονεῖ added by Reiske.
 
 
+❦
 
 6
 τὸν added by Cohoon.
 
 
+❦
 
 7
 αὑτῶν Dindorf: αὐτῶν.
 
 
+❦
 
 8
 εἰσδανείζοντα Geel: ἐκ δανείων τὰ.
 
 
+❦
 
 9
 καὶ added by Dindorf.
 
 
+❦
 
 10
 τινὰ Emperius: τινὰς.
 
 
+❦
 
 11
 ὡς τότε Reiske: ὡς τὸ M, ὥστε τὸ UB.
 
 
+❦
 
 12
 ὥσπερ Emperius: ὡς γὰρ.
 
 
+❦
 
 13
 The words ἀλλὰ . . . χρῶνται moved here by Casaubon from their position after μεταβολὰς (infra) in the MSS.
+❦
 
 14
 δ᾽ added by Casaubon.
 
 
+❦
 
 15
 πυρετὸς added by Reiske.
 
 
+❦
 
 16
 Emperius deleted καὶ.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+27 Mar 12

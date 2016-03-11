@@ -1,4 +1,116 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1932
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος δ´
+				
+
+
+
+
+
+(Vol. I)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p104
+3. ΠΕΡΙ ΒΑΣΙΛΕΙΑΣ Γ
+	
+
 1 Σωκράτης Ἀθήνησι, πρεσβύτης ἀνὴρ καὶ πένης, ὃν καὶ σὺ γιγνώσκεις ἀκοῇ πρὸ πάνυ πολλῶν ἐτῶν γενόμενον, πυθομένου τινὸς εἰ εὐδαίμονα νομίζοι τὸν Περσῶν βασιλέα, Τυχόν, εἶπεν, εὐδαίμων· οὐκ ἔφη δὲ αὐτὸς εἰδέναι διὰ τὸ μὴ συγγενέσθαι αὐτῷ μηδὲ γιγνώσκειν ὁποῖός ἐστι τὴν διάνοιαν, ὡς οὐκ ἀλλαχόθεν οἶμαι γιγνόμενον τὸ εὐδαιμονεῖν, ἀπὸ χρυσωμάτων ἢ πόλεων ἢ χώρας ἢ ἄλλων ἀνθρώπων, ἑκάστῳ δὲ παρά τε αὑτοῦ καὶ τῆς αὑτοῦ διανοίας.
 
 	
@@ -14,6 +126,14 @@ p106δύναμιν μετὰ τοὺς θεούς, κάλλιστα δὲ τῷ 
 
 
 p108σωφροσύνη καὶ τοὺς ἀκολαστοτέρους σωφρονεστέρους ποιεῖ· ἐφορᾷ γὰρ ὁμοίως ἅπαντας. ἡ δὲ δικαιοσύνη καὶ τοῖς ἀδίκοις αὑτῆς μεταδίδωσιν· ἡ δὲ ἀνδρεία καὶ τοὺς ἧττον εὐψύχους οὐ μόνον σῴζειν, ἀλλὰ καὶ θαρραλεωτέρους ποιεῖν δύναται. 8 οὔτε γὰρ δειλὸς οὕτως ἄγαν οὐδεὶς ὥστε μὴ θαρρεῖν ἐπόμενος μέθ᾽ οὐ τὸ6 νικᾶν ἕτοιμον, οὔτε ἐπὶ τοσοῦτον ἀνειμένος ὥστε ῥᾳθυμεῖν προσταττόμενον7 ὁρῶν ᾧ μόνον τὸ προστάττειν ἔνειμεν ὁ θεός, οὐδ᾽ αὖ σφόδρα οὕτως ἀναίσχυντος ὥστε πονοῦντι8 ὑπὲρ9 ἑτέρων παρὼν ᾧ τὸ πονεῖν οὐκ10 ἀναγκαῖον, τούτῳ δὲ μὴ συμπονεῖν ἐθέλειν. 9 δοκεῖ μοι καὶ Ὅμηρος αὐτὸ τοῦτο φράζειν· μνησθεὶς γὰρ τοῦ χρηστοῦ βασιλέως, ἐπὶ πᾶσιν εἴρηκεν,
+
+
+
+
+
+ἀρετῶσι δὲ λαοὶ ὑπ᾽ αὐτοῦ.
+		
+
 
 
 ὁ γὰρ τοιοῦτος βασιλεὺς τοῖς μὲν ἄλλοις καλὸν κτῆμα τὴν ἀρετὴν νενόμικεν, αὑτῷ δὲ καὶ ἀναγκαῖον. 10 τίνι μὲν γὰρ δεῖ πλείονος φρονήσεως ἢ τῷ βουλευομένῳ περὶ τῶν μεγίστων; τίνι δὲ ἀκριβεστέρας δικαιοσύνης ἢ τῷ μείζονι τῶν νόμων; τίνι δὲ σωφροσύνης ἐγκρατεστέρας ἢ ὅτῳ πάντα ἔξεστι; τίνι δὲ ἀνδρείας ἰσχυροτέρας ἢ ὑφ᾽ οὗ πάντα σῴζεται; 11 τίνα δὲ μᾶλλον εὐφραίνει τὰ ἔργα τῆς ἀρετῆς ἢ τὸν σύμπαντας ἀνθρώπους θεατὰς καὶ μάρτυρας ἔχοντα τῆς αὑτοῦ ψυχῆς; ὥστε μήποτε πράξαντι μηδὲν οἷόν τε λαθεῖν, οὐ μᾶλλον ἢ τῷ ἡλίῳ πορεύεσθαι διὰ σκότους·
@@ -87,6 +207,16 @@ p122τῆς21 αὑτοῦ εὐδαιμονίας, οὐ δίχα θεὶς τ�
 p124γνώμῃ. 43 αὐτὰ δὲ πρῶτα δηλοῖ τὰ ὀνόματα τὴν διαφορὰν τῶν πραγμάτων. λέγεται γὰρ ἡ μὲν ἀρχὴ νόμιμος ἀνθρώπων διοίκησις καὶ πρόνοια ἀνθρώπων κατὰ νόμον, βασιλεία δὲ ἀνυπεύθυνος ἀρχή,27 ὁ δὲ νόμος βασιλέως δόγμα. 44 ὁ δὲ τύραννος καὶ ἡ τυραννὶς ἐναντίον τούτοις βίαιος καὶ παράνομος χρῆσις28 ἀνθρώπων τοῦ δοκοῦντος ἰσχύειν πλέον.29
 
 45 Τρία γὰρ εἰδῇ τὰ φανερώτατα πολιτειῶν ὀνομάζεται γιγνομένων κατὰ νόμον καὶ δίκην μετὰ δαίμονός τε ἀγαθοῦ καὶ τύχης ὁμοίας· μία μὲν ἡ πρώτη καὶ μάλιστα συμβῆναι δυνατή, περὶ ἧς ὁ νῦν λόγος, εὖ διοικουμένης πόλεως ἢ πλειόνων ἐθνῶν ἢ ξυμπάντων ἀνθρώπων ἑνὸς ἀνδρὸς ἀγαθοῦ γνώμῃ καὶ ἀρετῇ· δευτέρα δὲ ἀριστοκρατία καλουμένη, 46 οὔτε ἑνὸς οὔτε πολλῶν τινων, ἀλλὰ ὀλίγων τῶν ἀρίστων ἡγουμένων, πλεῖον ἀπέχουσα ἤδη τοῦ δυνατοῦ καὶ τοῦ συμφέροντος· τοῦτο ἔμοιγε δοκεῖ καὶ Ὅμηρος εἰπεῖν διανοηθείς,
+
+
+
+
+
+οὐκ ἀγαθὸν πολυκοιρανίη· εἷς κοίρανος ἔστω,
+			
+εἷς βασιλεύς, ᾧ ἔδωκε Κρόνου παῖς ἀγκυλομήτεω.
+		
+
 
 
 47 τρίτη δὲ πασῶν ἀδυνατωτάτη σχεδὸν ἡ σωφροσύνῃ καὶ ἀρετῇ δήμου προσδοκῶσά ποτε
@@ -241,145 +371,177 @@ p164μήτε ζητοῦντες πονεῖν μήτε αὖ κινδυνεύο
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἀπολαύειν Reiske: ἀπολαβεῖν or ἀπολαύοντα.
 
 
+❦
 
 2
 ὅ τι βούλεται after οὐδενὸς, lacking in one MS., deleted by Geel.
 
 
+❦
 
 3
 ἀλκιμώτερος Capps, ἀνδρειότερος Weil: δικαιότερος.
 
 
+❦
 
 4
 ἢ Capps, cf. §§ 7, 10 infra: καὶ.
 
 
+❦
 
 5
 ἢ added by Capps.
 
 
+❦
 
 6
 τὸ added by Capps.
 
 
+❦
 
 7
 προσταττόμενον Capps: παρατάττοντα or προστάττοντα.
 
 
+❦
 
 8
 πονοῦντι added by Cohoon.
 
 
+❦
 
 9
 ὑπὲρ Capps: περὶ.
 
 
+❦
 
 10
 οὐκ added by Cohoon.
 
 
+❦
 
 11
 καίτοι σύμπαντες Reiske: καὶ τοίνυν πάντες.
 
 
+❦
 
 12
 ἀηδέστατον Reiske: ἀηδέστερον.
 
 
+❦
 
 13
 ἀεί added by Emperius.
 
 
+❦
 
 14
 μέντοι γε Cohoon: μὲν γὰρ.
 
 
+❦
 
 15
 ἀεί added here by Capps. Jacobs and Arnim would place it after αὐτοὺς.
 
 
+❦
 
 16
 Capps suggests that Dio may have written ἡμῖν δὲ ἓν τοῦτο δοκεῖ τῶν καλουμένων ἀδυνάτων εἶναι, "but this appears to me to be one of the so‑called impossibilities." Cf. § 113.
 
 
+❦
 
 17
 καὶ ἰατρικοί Jacobs: ἰατροί or ἰατροῖς.
 
 
+❦
 
 18
 τὴν added by Emperius.
 
 
+❦
 
 19
 τοὺς Reiske: τῆς.
 
 
+❦
 
 20
 Capps conjectures τῆς ἀρχῆς ἢ, "king of the empire or of no city or hamlet at all."
 
 
+❦
 
 21
 καὶ before τῆς deleted by Reiske.
 
 
+❦
 
 22
 Capps conjectures αὑτῷ οἰόμενος ἄρχειν μόνῳ "thinking that he is ruling for himself alone."
 
 
+❦
 
 23
 νομῆς Emperius: μόνης.
 
 
+❦
 
 24
 κτήνεσιν emendation in Palatine MS.: κτήμασιν.
 
 
+❦
 
 25
 ἀλλ᾽ αὐτὸς Emperius: ἀλλὰ.
 
 
+❦
 
 26
 καὶ πολλοὶ added by Cohoon, πολλοὶ δ᾽ Reiske.
 
 
+❦
 
 27
 After ἀρχή the MSS. have these words, which all the editors reject: βασιλεὺς δὲ καὶ αὐτοκράτωρ ὁ αὐτὸς ἀνυπεύθυνος ἄρχων "king and autocrat mean the same thing, i.e. irresponsible ruler."
 
 
+❦
 
 28
 Capps conjectures ἀρχή τις "a sort of government."
 
 
+❦
 
 29
 After πλέον the MSS. have these words, which Reiske deletes: οὕτω δὲ καὶ ἡμεῖς διανοούμεθα καὶ φαμὲν περὶ τοῦ θείου καὶ θεοφιλοῦς αὐτοκράτορος καὶ βασιλέως — "So too do
@@ -389,46 +551,55 @@ After πλέον the MSS. have these words, which Reiske deletes: οὕτω δ�
 we think and speak of our divine and highly favoured emperor and king."
 
 
+❦
 
 30
 After πρώτη the MSS. have these words, which Arnim rejects: τε καὶ ἀρίστη καὶ μόνη δυνατή — "and best and alone feasible."
 
 
+❦
 
 31
 ἅλις conjectured by Capps in place of ἄλλως.
 
 
+❦
 
 32
 ἂν added by Jacobs.
 
 
+❦
 
 33
 After θεῷ the MSS. have the words τὰ περὶ τοῦ Διός, which Arnim and Sonny regard as a copyist's note to indicate that here followed what Dio said about Zeus.
 
 
+❦
 
 34
 τοιοῦτος Reiske: τοσοῦτος.
 
 
+❦
 
 35
 After κατὰ the MSS. have the words τὴν τοῦ θεοῦ, which Wilamowitz rejects.
 
 
+❦
 
 36
 ἂν added by Jacobs.
 
 
+❦
 
 37
 οἷς δεῖ Emperius: ὡς ἀεὶ or ὃν δεῖ or εἰς ἀεὶ.
 
 
+❦
 
 38
 Emperius and Arnim place §§ 58‑61 after
@@ -436,26 +607,31 @@ Emperius and Arnim place §§ 58‑61 after
 § 85.
 
 
+❦
 
 39
 ὡς Emperius: καὶ.
 
 
+❦
 
 40
 The words ἢ . . . ἐπιβουλεύοντα are rejected by Arnim.
 
 
+❦
 
 41
 καὶ added by Reiske.
 
 
+❦
 
 42
 μνήμην Geel: γνώμην.
 
 
+❦
 
 43
 νυχευομένοις Capps, cf. τῶν ἀεὶ φυλαττόντων
@@ -463,46 +639,55 @@ The words ἢ . . . ἐπιβουλεύοντα are rejected by Arnim.
 § 85: νηχομένοις.
 
 
+❦
 
 44
 ἀναβοᾷ Capps: ἀναβοᾶν.
 
 
+❦
 
 45
 γε Reiske: τε.
 
 
+❦
 
 46
 πάσαις δὲ ἐπινοίαις σκύλλεται Capps : πάσας δὲ ἐπινοίας σκύλλει.
 
 
+❦
 
 47
 λυπουμένου Capps: λυπουμένη.
 
 
+❦
 
 48
 τούτου Reiske: τοῦτο.
 
 
+❦
 
 49
 ποεῖν Capps: πλεῖν. Emperius proposed to delete προσήκει δὲ πλεῖν.
 
 
+❦
 
 50
 ἂν added by Dindorf.
 
 
+❦
 
 51
 βιοτεύει Arnim: βιοτεύειν.
 
 
+❦
 
 52
 After ἐναντίων the MSS. have ἐγρηγόρσεως δὲ καὶ ὕπνου τοῖς μὲν στρατιώταις ἐξ ἴσου μέτεστι, τῶν μὲν φυλαττόντων ἐν μέρει, τῶν δὲ ἀναπαυομένων· ὁ δὲ στρατηγὸς ἀγρυπνότερός ἐστι
@@ -514,6 +699,7 @@ After ἐναντίων the MSS. have ἐγρηγόρσεως δὲ καὶ ὕ�
 §§ 66‑67.
 
 
+❦
 
 53
 Before φιλίαν Emperius and Arnim put
@@ -521,16 +707,19 @@ Before φιλίαν Emperius and Arnim put
 §§ 58‑61.
 
 
+❦
 
 54
 τοῖς βασιλεῦσιν Weil: τὸ βασιλεύειν.
 
 
+❦
 
 55
 σπουδαιότατα Reiske: σπουδαιότερα.
 
 
+❦
 
 56
 Before καὶ the MSS. have the following words, which Dindorf rejects: ὁρᾷ δὲ ὅτι τῶν μὲν ἄλλων κτημάτων τὰ μὲν ἀναγκαία μόνον καὶ χρήσιμα δοκεῖ πᾶσι, τέρψιν δὲ οὐδεμίαν παρέχεται· τὰ δὲ ἡδέα μόνον, συμφέροντα δὲ οὔ· τοὐναντίον δὲ τὰ πλεῖστα
@@ -540,61 +729,73 @@ Before καὶ the MSS. have the following words, which Dindorf rejects: ὁρ�
 τῶν ἡδέων ἀσύμφορα εὑρίσκεται. — "Note too that in the case of other possessions, some are universally regarded as necessary merely and useful: they give no delight. Others are pleasurable merely and not profitable also. On the contrary, most pleasurable things are found to be harmful."
 
 
+❦
 
 57
 καὶ added by Reiske.
 
 
+❦
 
 58
 Arnim would delete μὴ.
 
 
+❦
 
 59
 πάντων Capps: πάντα.
 
 
+❦
 
 60
 δυσμενεῖς δὲ παυρότατοι Capps: δυσμενὴς δὲ φαυλότατος.
 
 
+❦
 
 61
 τοῦτο εὐτυχεῖ Capps: τὸ εὐτυχεῖν.
 
 
+❦
 
 62
 καὶ ὦτα added by Geel.
 
 
+❦
 
 63
 ἀνθρώποις von der Muehll: ἀνθρώπων.
 
 
+❦
 
 64
 πολλὰ Geel: περὶ πολλῶν.
 
 
+❦
 
 65
 Before πολλοῖς the MSS. have πολλαῖς δὲ διανοίαις φροντίζοντα βουλεύεσθαι, — "many minds with which to plan when he thinks," deleted by Emperius.
 
 
+❦
 
 66
 ἐλευθερίοις Arnim: ἐλευθέροις.
 
 
+❦
 
 67
 χρώμενος Capps: κτώμενος.
 
 
+❦
 
 68
 Arnim follows Emperius in putting
@@ -604,21 +805,25 @@ Arnim follows Emperius in putting
 after πλεονεκτεῖν.
 
 
+❦
 
 69
 ἀλλοῖόν Capps: ἄλλο μὲν.
 
 
+❦
 
 70
 που εἶναι Capps: ποιεῖν.
 
 
+❦
 
 71
 ἀγαπῶνται Cohoon: ἀγαπῶσι or ἀγαπῶσιν.
 
 
+❦
 
 72
 After εἶναι the MSS. have ὥστε καὶ παθεῖν ὑπὸ φίλου κακῶς τῶν ἀδυνάτων εἶναι κέκρικεν. — "So that he considers suffering
@@ -628,71 +833,85 @@ After εἶναι the MSS. have ὥστε καὶ παθεῖν ὑπὸ φίλ�
 wrong at the hands of a friend to belong to the category of the impossible." Emperius deletes.
 
 
+❦
 
 73
 καταμέμφεσθαι Reiske; καὶ μέμφεσθαι.
 
 
+❦
 
 74
 καὶ τοῖς δικαίοις added by Capps, who deletes ἄδικος after ἀδίκοις.
 
 
+❦
 
 75
 ὀρθῶς added by Capps: μὲν ζῶντας or μὲν ἐγγίζοντας.
 
 
+❦
 
 76
 τοὺς δὲ μή, οὐ Capps: καὶ.
 
 
+❦
 
 77
 ἀλλ᾽ added by Capps.
 
 
+❦
 
 78
 πρότερον added by Capps.
 
 
+❦
 
 79
 τὰς added by Reiske.
 
 
+❦
 
 80
 παρὰ Capps: περὶ.
 
 
+❦
 
 81
 ἕκαστον Cohoon: ἑκάστων.
 
 
+❦
 
 82
 ὁτιοῦν ἀσκοῦντα added by Cohoon.
 
 
+❦
 
 83
 ἀπολαύοντα Cohoon: καὶ λουτρῶν καὶ.
 
 
+❦
 
 84
 ποτῶν Cohoon: πάντων.
 
 
+❦
 
 85
 δ᾽ added by Cohoon.
 
 
+❦
 
 86
 §§ 128‑132 placed after
@@ -702,22 +921,124 @@ wrong at the hands of a friend to belong to the category of the impossible." Emp
 by Emperius and Arnim.
 
 
+❦
 
 87
 μᾶλλον added by Geel.
 
 
+❦
 
 88
 ἅτε δὲ δὴ Cohoon: ἐπεὶ δὲ δεῖ or ἐπειδὴ.
+❦
 
 89
 τὸ ἀξίωμα Emperius, τὰ ἀξιώματα.
 
 
+❦
 
 90
 ἐθίζεται πάντα Capps: ἐθίζοντα.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Oct 12

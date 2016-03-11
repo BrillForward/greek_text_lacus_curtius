@@ -1,4 +1,109 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+This webpage reproduces the essay
+				
+
+
+An virtus doceri possit
+				
+
+by
+				
+
+Plutarch
+				
+
+
+as published in Vol. VI
+				
+of the
+Loeb Classical Library edition,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+(Vol. VI)
+Πλούταρχος
+	
+Ἠθικὰ
+	
+
+
+p4
+ΕΙ ΔΙΔΑΚΤΟΝ Η ΑΡΕΤΗ
+	
+
 (439a)
 1
 
@@ -20,6 +125,14 @@ p6εἶναι ποιοῦμεν ἀνύπαρκτον; εἰ γὰρ ἡ μάθ�
 
 p8ἐπιδεξίως, ἂν μὴ μάθῃ τις εὐθὺς ἐκ παίδων ἀρξάμενος, ὡς Ἀριστοφάνης,14
 
+
+
+
+μὴ κιχλίζειν μηδ᾽ ὀψοφαγεῖν μηδ᾽ ἴσχειν τὼ πόδ᾽ ἐπαλλάξ·15
+
+
+
+
 οἴκου δὲ καὶ πόλεως καὶ γάμου καὶ βίου καὶ ἀρχῆς κοινωνίαν ἀνέγκλητον ἐνδέχεται γενέσθαι, μὴ μαθόντων ὅντινα χρὴ τρόπον ἀλλήλοις συμφέρεσθαι; ὁ Ἀρίστιππος ἐρωτηθεὶς ὑπό τινος, "πανταχοῦ σὺ ἄρ᾽ εἶ;" γελάσας, "οὐκοῦν," ἔφη, "παραπόλλυμι τὸ ναῦλον, εἴ γε πανταχοῦ εἰμι." τί οὖν; οὐκ ἂν εἴποις καὶ αὐτός, "εἰ μὴ γίνονται μαθήσει βελτίονες ἄνθρωποι, fπαραπόλλυται ὁ μισθὸς τῶν παιδαγωγῶν"; πρῶτοι16 γὰρ οὗτοι παραλαμβάνοντες ἐκ γάλακτος, ὥσπερ αἱ τίτθαι ταῖς χερσὶ τὸ σῶμα πλάττουσιν, οὕτω τὸ ἦθος ῥυθμίζουσι τοῖς ἔθεσιν, εἰς ἴχνος τι πρῶτον ἀρετῆς καθιστάντες. καὶ ὁ Λάκων ἐρωτηθεῖς τί παρέχει παιδαγωγῶν, "τὰ καλά," ἔφη, "τοῖς παισὶν ἡδέα ποιῶ." καίτοι17 τί18 διδάσκουσιν οἱ παιδαγωγοί; κεκυφότας ἐν ταῖς ὁδοῖς περιπατεῖν, ἑνὶ δακτύλῳ τοῦ ταρίχους ἅψασθαι, δυσὶ τοῦ ἰχθύος, σίτου, κρέως,19 οὕτω καθῆσθαι, 440τὸ ἱμάτιον οὕτως ἀναλαβεῖν.
 
 	p10
@@ -35,140 +148,277 @@ p8ἐπιδεξίως, ἂν μὴ μάθῃ τις εὐθὺς ἐκ παίδ�
 p12διδακτὴν ἀποφαίνων, ἧς ἄνευ τῶν ἄλλων τεχνῶν ὄφελος οὐδὲν οὐδ᾽ ὄνησίς ἐστιν. εἰ δ᾽26 ἡγεμὼν αὕτη καὶ κόσμος οὖσα πασῶν καὶ τάξις εἰς τὸ χρήσιμον ἕκαστον καθίστησιν, αὐτίκα τίς δείπνου χάρις, cἠσκημένων καὶ μεμαθηκότων παίδων
 
 
+
+
+
+δαιτρεῦσαι καὶ27 ὀπτῆσαι οἰνοχοῆσαι,
+		
+
+
+
 εἰ μὴ διάθεσις μηδὲ τάξις εἴη περὶ28 τοὺς διακονοῦντας;
 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 εἶτα] εἶτ᾽ οὐ Reiske.
 
 
+❦
 
 2
 μυρί᾽ Wyttenbach, confirmed by one MS.: μυρία δ᾽.
 
 
+❦
 
 3
 καὶ ἀκέραιον after ἀρετὴν deleted by Wyttenbach.
 
 
+❦
 
 4
 οὐδ᾽] καὶ in some MSS.
+❦
 
 5
 βίον Pohlenz: βίου or βίου καὶ ἀκέραιον.
 
 
+❦
 
 6
 After ἱππεύειν some MSS. add καὶ τί δεινόν;
+❦
 
 7
 περιβάλλεσθαι] καὶ ἀλείφεσθαι added in some MSS.
+❦
 
 8
 τοῦ ποδὸς] ἐν τῷ ποδὶ Plato.
 
 
+❦
 
 9
 ἔσχατα κακὰ] ἔσχατα Plato.
 
 
+❦
 
 10
 γενομένην Emperius and a few MSS.: γινομένην.
 
 
+❦
 
 11
 ἢ Τέλχινας added by Xylander.
 
 
+❦
 
 12
 μεταχειρίσεσθαι] most MSS. have ‑σασθαι or ‑ζεσθαι.
 
 
+❦
 
 13
 μαθὼν συμφέρεσθαι added by W. C. H. after Pohlenz.
 
 
+❦
 
 14
 Wyttenbach would add φησίν.
 
 
+❦
 
 15
 ἐναλλάξ MSS. of Aristophanes.
 
 
+❦
 
 16
 πρῶτοι Reiske: πρῶτον.
 
 
+❦
 
 17
 καίτοι emperius: καὶ αὐτοῖν.
 
 
+❦
 
 18
 τί added by Pohlenz.
 
 
+❦
 
 19
 W. C. H.: τὸ τάριχον ἅψασθαι δυσὶ τὸν ἰχθὺν σῖτον κρέας.
 
 
+❦
 
 20
 καθηκόντων] καθηκόντως in most MSS.
+❦
 
 21
 κυβερνᾶν δὲ καὶ μὴ μαθόντα added by Iannotius.
 
 
+❦
 
 22
 πῦαρ added by Capps; cf. Solon apud Aristotle, Ath. Pol., xii.5: πῦαρ ἐξεῖλεν γάλα.
 
 
+❦
 
 23
 παραδιδῶσιν W. C. H.; γάλα δῶσιν Salmasius; παραμένωσιν Canter; γάλα δονῶσιν Stephanus: παραδῶσιν.
 
 
+❦
 
 24
 Καλλίαν τὸν Χαρίου Dittenberger: τὸν Χαβρίου Καλλίαν.
 
 
+❦
 
 25
 στρατηγικὴ Wyttenbach: στρατηγία.
 
 
+❦
 
 26
 εἰ δ᾽] εἴ γε Stephanus.
 
 
+❦
 
 27
 καὶ] τε καὶ Homer.
 
 
+❦
 
 28
 περὶ Wyttenbach: πρὸς.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Plutarch
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+8 Jun 09

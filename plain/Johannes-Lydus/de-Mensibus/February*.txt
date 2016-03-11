@@ -1,4 +1,109 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Months (de Mensibus)
+				
+
+of
+				
+
+John Lydus
+				
+
+
+
+
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+
+
+Ἰωάννου τοῦ Λυδοῦ
+	
+Περὶ μηνῶν
+	
+
+
+p83
+Φεβρουάριος
+	
+
 25
 
 Τὰ Φεβρουαρίῳ μηνὶ ἀπὸ Φεβρούας θεᾶς οὕτω προσαγορευομένης τὸ ὄνομα γέγονεν· Φεβρούαν δὲ θέαν ἔφορον καὶ καθαρτικὴν τῶν πραγμάτων οἱ Ῥωμαῖοι παρέλαβον. Ἀνύσιος δὲ ἐν τῷ περὶ μηνῶν Φεβροῦον τὸν καταχθόνιον εἶναι τῇ Θούσκων φωνῇ λέγει, θεραπεύεσθαι δὲ πρὸς τῷ Λουπερκῶν ὑπὲρ ἐπιδόσεως τῶν καρπῶν. ὁ δὲ Λαβεὼν ἀπὸ τοῦ πένθους λέγει κληθῆναι τὸν Φεβρουάριον· φέβερ γὰρ παρὰ Ῥωμαίοις τὸ πένθος προσαγορεύεται· κατ᾽ αὐτὸν δὲ τοὺς κατοιχομένους ἐτίμων· ἀλλὰ μὴν καὶ φεβρουᾶρε τὸ καθαραί τὰ ποντιφικάλια βιβλία καλεῖ, Φέβρον τὸν Πλούτωνα. ὅτι τὸ ὑπὸ σελήνην δαιμόνιον φῦλον τριχῆ διῄρηται κατὰ τὸν Ἰάμβλιχον· καὶ τὸ μὲν πρόσγειον αὐτοῦ τιμωρόν, τὸ δὲ ἀέριον καθαρτικόν, τὸ δὲ πρὸς τῇ σεληνιακῇ ζώνῃ σωτήριόν ἐστιν, ὃ δὴ καὶ ἡρωϊκὸν ἴσμεν· ἡγεῖσθαι δὲ λέγεται παντὸς τούτου μέγιστός τις δαίμων· οὗτος δ᾽ ἂν εἴη μᾶλλον ὁ Πλούτων, u84 ὥς φησιν ὁ αὐτὸς Ἰάμβλιχος. τὸν Φεβρουάριον μῆνα Ἥρᾳ ἀνατεθῆναι ἀξιοῦσι διὰ τὸ τῇ Ἥραν παρὰ τοῖς φυσικοῖς δοκεῖν εἶναι τὸν ὕπτιον ἀέρα· ὁ δὲ καθαρμὸς ἄντικρυς τῷ ἀέρι ἀρμόδιος. ἐκαθαίροντο δὲ οἱ ναοὶ καὶ τὰ ἱερὰ σκεύη ἐπὶ τούτου τοῦ μηνός· ὁμοίως δὲ καὶ ἐπὶ τῶν ἰδιωτικῶν πάντες τοῦ καθαρμοῦ ἀντείχοντο. ὅτι δὲ ἐν τῷ Φεβρουαρίῳ αἱ χοαὶ τῶν κατοιχομένων ἐτελοῦντο, διὰ τοῦτο ὁ Νουμᾶς αὐτὸν ἠλάττωσεν, ἀνόσιον εἰ κρίνων ἴσα τοῖς ἄλλοις τιμᾶσθαι τὸν τοῖς γε τὸ πᾶν ἐλαττοῦσι χθονίοις ἐγκείμενον. οὐ μόνον δὲ Φεβρουάριος ἀλλὰ καὶ Φεβρουάτος λέγεται, διὰ τὴν τούτου ἔφορον καὶ φεβρουάταν καὶ Φεβρουάλεμ τοῖς ἱεροῖς ἀναφέρεσθαι.
@@ -27,17 +132,241 @@ n32 Ὅτι ὁ Αἰγύπτιος Ἑρμῆς ἐν τῷ λόγῳ αὐτο
 
 
 
+
+The Editor's Notes:
+	
+
 [1]
 Labeo: Kahl Philol. suppl. V.732
 
 
 
+❦
 
 [2]
 Hermes: Ps.‑Apulei Dialogus c. xxviii
 
 
 
+❦
 
 [3]
 Plato Phaed. p113B
+
+
+Critical Apparatus:
+	
+ 1
+τῶ φεβρουαρίω — πλούτωνα XH, ὅτι φεβρον τὸν πλούτωνα οἱ ῤωμαῖοι καλοῦσι καὶ φεβρουᾶρε τὸ καθῆραι, καὶ ἀπὸ τούτων δοκεῖ φεβρουαάριοσ ὀνομασθῆναι ὁ μήν, ἐν ὧ τοὺς κατοιχομένους ἐτίμων καὶ ὑπὲρ αὐτῶν ηὔχοντο ἐναγίζοντες S, φεβρουάριοσ δὲ et lacunam unius versus neque quidquam amplius Y, Georg. Cedren. hist. comp. p294, 15: Φεβρούαν θεάν τινα καθαρτικὴν — καθᾶραι
+❦
+ 2
+γέγονεν] λέγεται τεθῆναι H
+❦
+ 3
+θεὰν et καὶ omis. X
+❦
+ 4
+Ἀνύσιος — μηνῶν ἕτεροι δὲ H
+❦
+ 5
+εἶναι omis. Cedren.
+
+
+❦
+ 6
+λέγει] φασὶ H
+❦
+ 7
+δὲ omis. X, θεραπεύεσθαι — καρπῶν omis. Cedren.
+
+
+❦
+ 8
+τῶν omis. B
+❦
+ 9
+ὁ δὲ Λαβεὼν — λέγει ἕτεροι δὲ — φασι H
+❦
+ 10
+φεβρ A, φέβους H, φέβρους Cedren., φέβερ B
+❦
+ 11
+κατ᾽ αὐτόν] ἐν τούτω H
+❦
+ 12
+δὲ] γὰρ B
+❦
+ 13
+ἀλλὰ μὴν omis. Cedr.
+
+
+❦
+ 14
+φεβρουάραι X, φεβρουᾶραι Cedren., τὸ φεβρουᾶρε H
+❦
+ 15
+τὰ — καλεῖ φασὶ καὶ H
+❦
+ 16
+ὅτι τὸ — ἰαμβλιχος S
+❦
+ 17
+zzzz
+
+
+❦
+ 18
+zzzz
+
+
+❦
+ 19
+zzzz
+
+
+❦
+ 20
+zzzz
+
+
+❦
+ 21
+zzzz
+
+
+❦
+ 22
+zzzz
+
+
+❦
+ 23
+zzzz
+
+
+❦
+ 24
+zzzz
+
+
+❦
+ 25
+zzzz
+
+
+❦
+ 26
+zzzz
+
+
+❦
+ 27
+zzzz
+
+
+❦
+ 28
+zzzz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Ἰωάννης Λυδός·
+			
+Περὶ μηνῶν
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+7 Mar 14

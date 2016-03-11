@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος οε´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1951
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγοι οζ´‑οη´
+				
+
+
+
+
+
+(Vol. V)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p252
+76. ΠΕΡΙ ΕΘΟΥΣ
+	
+
 1 Ἔστι δὲ τὸ ἔθος γνώμη μὲν τῶν χρωμένων κοινή, νόμος δὲ ἄγραφος ἔθνους ἢ πόλεως, δίκαιον δὲ ἑκούσιον, κατὰ ταὐτὰ1 πᾶσιν ἀρέσκον, εὕρεμα δὲ ἀνθρώπων οὐδενός, ἀλλὰ βίου καὶ χρόνου. τῶν μὲν οὖν ἄλλων νόμων ἕκαστος ἅπαξ δοκιμασθεὶς ἔλαβε τὴν ἰσχύν· τὸ δὲ ἔθος ἀεὶ δοκιμάζεται. καὶ νόμος μὲν οὐδεὶς ῥᾳδίως ὑπὸ πάντων κριθήσεται·2 ταὶς γὰρ τῶν πλειόντων δόξαις κυροῦται· ἔθος δὲ οὐκ ἐνῆν γενέσθαι μὴ προσδεχθὲν ὑπὸ πάντων. κἀκεῖνος ἀπειλῶν καὶ βιαζόμενος μένει κύριος, ὑπὸ δὲ τῶν ἐθῶν πειθόμενοι καὶ καλὰ καὶ συμφέροντα κρίνομεν αὐτά.
 
 	
@@ -23,43 +140,152 @@ p256ἐπάνω καὶ πολλὰ πράττουσι παρ᾽ αὐτούς, 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 κατὰ ταὐτὰ Dindorf: καὶ κατὰ ταὐτὰ PH, καὶ ταὺτὰ B, καὶ ταῦτα UM.
 
 
+❦
 
 2
 κριθήσεται] ἐγκριθήσεται Arnim.
 
 
+❦
 
 3
 ἕπονται Geel: οἴονται.
 
 
+❦
 
 4
 ῥᾷόν Morel: ῥᾴδιόν.
 
 
+❦
 
 5
 γὰρ ἔχει Emperius: παρέχει.
 
 
+❦
 
 6
 αὐτούς] αὑτοῦ Emperius.
 
 
+❦
 
 7
 ποιοῦσιν] ἀπειλοῦσιν Arnim.
 
 
+❦
 
 8
 δὲ added by Emperius.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+8 Jul 12

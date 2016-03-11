@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ξδ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1951
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ξϝ´
+				
+
+
+
+
+
+(Vol. V)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p74
+65. ΠΕΡΙ ΤΥΧΗΣ ΤΡΙΤΟΣ
+	
+
 1 Οἱ σφόδρα τῇ τύχῃ πεπιστευκότες καὶ τῇ παρουσίᾳ ταύτης ἐπαιρόμενοι δοκοῦσί μοι κάλλιστα συνηγορεῖν αὐτῇ καὶ παρασκευάζειν ὅπως, ἐπειδὰν μεταπέσῃ, μηδεὶς αὐτῇ μέμφηται. τοὐναντίον γὰρ ἅπαντες τῇ βαρύτητι τῶν εὐτυχούντων δυσχεραίνοντες καὶ τὴν ὕβριν αὐτῶν μεμισηκότες, ὅταν καταλίπῃ τινὰ αὐτῶν, ἐπαινοῦσι καί φασι δικαίαν αὐτοῖς γεγονέναι τὴν μεταβολήν. δεῖ δὲ τοὺς νοῦν ἔχοντας οὕτως χρῆσθαι τοῖς αὐτομάτοις ἀγαθοῖς ὥστε ὑπαρχόντων μὲν αὐτῶν μηδένα ἐγκαλεῖν, ἐὰν δὲ παύσηταί ποτε, μηδένα ἐφήδεσθαι. 2 τῷ παντὶ γὰρ κρεῖττόν ἐστιν ἐνδεῶς πράττοντα ἀγαπᾶσθαι καὶ δοκεῖν πᾶσι παρὰ τὴν ἀξίαν ἀπαλλάττειν ἢ τοὐναντίον εὐτυχοῦντα μισεῖσθαι καὶ προσέτι καὶ τῇ τύχῃ γίγνεσθαι βλασφημίας αἴτιον ὡς τοὺς πονηροὺς ἀντὶ τῶν χρηστῶν εὐεργετεῖν προαιρουμένῃ. οἱ μὲν οὖν πολλοὶ τῶν ἀνθρώπων τοὺς βαρέως χρωμένους τοῖς ἐκ τῆς τύχης ὑπάρχουσι πονηροὺς μὲν εἶναί φασι καὶ τῶν ἀγαθῶν ἀναξίους, οὐ μὴν ἀτυχεῖς γε εἰώθασι λέγειν· ἐμοὶ δὲ τοὐναντίον οὗτοι δοκοῦσι πάντων ἀτυχέστατοι καθεστηκέναι. 3 τὸ γὰρ ἐκ τῶν νομιζομένων
 
 
@@ -41,88 +158,206 @@ p84τοῦτο δέ ἔστιν οὗ χωρὶς οὐκ ἔστιν οὐδὲ
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 κατὰ τρόπον] τὸν τρόπον Reiske, κατὰ τὸν τρόπον Emperius, καὶ τὸν τρόπον Post.
 
 
+❦
 
 2
 δήπου ἐν Emperius: δήπουθεν.
 
 
+❦
 
 3
 γάρ deleted by Wilamowitz.
 
 
+❦
 
 4
 καὶ Geel: ἢ.
 
 
+❦
 
 5
 After μὲν Arnim deletes ἕκαστος. Cobet reads εἰ εἷς μὲν ἕκαστος.
 
 
+❦
 
 6
 ἐτύγχανεν ἂν Capps: ἐτύγχανε.
 
 
+❦
 
 7
 δίκαια] δικαίως Pflugk.
 
 
+❦
 
 8
 τι] ἔτι Reiske.
 
 
+❦
 
 9
 εὐθὺς transferred by Emperius to second line below, to follow ἀγαθά.
 
 
+❦
 
 10
 καὶ μηδενὸς] μηδενὸς δὲ Emperius.
 
 
+❦
 
 11
 ψέγοι added by Pflugk, ἐλέγχοι by Duemmler.
 
 
+❦
 
 12
 τὸ ἀεὶ Crosby, ἀεὶ τὸ Reiske: ἀεὶ.
 
 
+❦
 
 13
 After οὐδέποτε arnim deletes αὐτοὺς, Geel conjectures αὖθις.
 
 
+❦
 
 14
 θύραις καὶ σφραγῖσι καὶ κλεισὶ Post with B, θύραις καὶ κλεισὶ Arnim: θύραις σφραγῖσι καὶ κλεισὶ U, θύραις καὶ σφόδρα κλείσει M, ἢ θύραις καὶ κλεισὶ σφόδρα κλείσῃ PH.
 
 
+❦
 
 15
 τἀγαθά Dindorf: ἀγαθά.
 
 
+❦
 
 16
 ὡς] ὧν Arnim.
 
 
+❦
 
 17
 δηλονότι Wilamowitz: δῆλον.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+30 Mar 12

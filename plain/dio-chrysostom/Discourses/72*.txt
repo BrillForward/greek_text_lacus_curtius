@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος οα´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1951
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ογ´
+				
+
+
+
+
+
+(Vol. V)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p176
+72. ΠΕΡΙ ΤΟΥ ΣΧΗΜΑΤΟΣ
+	
+
 1 Διὰ τί ποτε οἱ ἄνθρωποι, ὅταν μέν τινα ἴδωσιν αὐτὸ μόνον χιτῶνα ἔχοντα, οὔτε προσέχουσιν οὔτε διαγελῶσι; λογιζόμενοι τυχὸν ὅτι1 ναύτης ἐστὶν ὁ ἄνθρωπος καὶ ὅτι οὐδὲν δεῖ καταγελᾶν τούτου ἕνεκα. ὁμοίως οὐδ᾽ εἴ τινα ἴδοιεν γεωργοῦ στολὴν ἔχοντα ἢ ποιμένος, ἐξωμίδα ἔχοντα ἢ διφθέραν ἐνημμένον ἢ κοσύμβην ὑποδεδυκότα2 οὐ χαλεπαίνουσιν, ἀλλ᾽ οὐδὲ προσποιοῦνται τὴν ἀρχήν, ἡγούμενοι προσήκειν τὴν στολὴν τῷ τοιοῦτόν τι πράττοντι. 2 τούς γε μὴν καπήλους ἑκάστοτε ὁρῶντες πρὸ τῶν καπηλείων ἀνεζωσμένους οὐδέποτε τωθάζουσι, καταγελῷεν δ᾽ ἂν τοὐναντίον εἰ μὴ οὕτως ἐνεσκευασμένοι εἶεν, ὡς οἰκείου τοῦ σχήματος ὑπάρχοντος τῇ ἐργασίᾳ ἣν μεταχειρίζονται. ἐπειδὰν δέ τινα ἴδωσιν ἀχίτωνα ἐν ἱματίῳ κομῶντα τὴν κεφαλὴν καὶ τὰ γένεια, οὐχ οἷοί τέ εἰσι πρὸς τούτους τὴν ἡσυχίαν ἄγειν οὐδὲ σιγῇ παρέρχεσθαι, ἀλλ᾽ ἐφίστανται καὶ ἐρεθίζουσι καὶ ἤτοι κατεγέλασαν ἢ ἐλοιδόρησαν ἢ3 ἐνίοτε ἕλκουσιν
 
 
@@ -57,103 +174,224 @@ p190τε ἦν καὶ ξυμβουλεύειν ἐδύνατο, αἱ δὲ ν�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ὅτι added by Arnim.
 
 
+❦
 
 2
 ὑποδεδυκότα] ἀποδεδυκότα M, ἐπενδεδυκότα Naber.
 
 
+❦
 
 3
 ἢ] καὶ Arnim.
 
 
+❦
 
 4
 γελοτωποιῶν] γελγοπωλῶν Naber.
 
 
+❦
 
 5
 ἀνακειμένας Reiske: ἀνακείμενα.
 
 
+❦
 
 6
 αὑτῶν Crosby: αὐτῶν.
 
 
+❦
 
 7
 ἀτιμάζουσι καὶ διαγελῶσιν Reiske: ἀτιμάζοιεν καὶ διαγελῷεν.
 
 
+❦
 
 8
 ὡς] τοὺς Arnim, ὁρῶντες Reiske.
 
 
+❦
 
 9
 διατρίψει Reiske: διατρίψοι.
 
 
+❦
 
 10
 After πλεῖν Arnim deletes ἐστιν.
 
 
+❦
 
 11
 After προσίασιν Herwerden adds πρὸς.
 
 
+❦
 
 12
 διελέγετο Arnim: διαλέγοιτο.
 
 
+❦
 
 13
 οὐ added by Selden.
 
 
+❦
 
 14
 καὶ Arnim: εἰ or ἧ or ἡ.
 
 
+❦
 
 15
 σκέπης Reiske: ὀπῆς.
 
 
+❦
 
 16
 ἄρτι τότ᾽ ἤδη Post, ταυτηνὶ ἄρτι Reiske: ἄρτι ταυτηνὶ.
 
 
+❦
 
 17
 ἀπεδέχετο Reiske: ἀποδέχεσθαι.
 
 
+❦
 
 18
 ἐπειδὴ δὲ] ἐπειδή τε Emperius.
 
 
+❦
 
 19
 ἐθαύμαζον editio princeps: ἐθαύμαζεν.
 
 
+❦
 
 20
 δουλεύουσαι] παλεύουσαι Herwerden.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+28 Mar 08

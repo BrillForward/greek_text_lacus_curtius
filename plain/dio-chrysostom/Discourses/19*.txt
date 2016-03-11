@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ιη´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος κ´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p236
+19. ΠΕΡΙ ΤΗΣ ΑΥΤΟΥ ΦΙΔΗΚΟΙΑΣ
+	
+
 1 Ἐδέοντο μὲν πάλαι τῶν οἰκείων τῶν ἐμῶν τινες ἐντυγχάνειν μοι· καὶ τῶν πολιτῶν δὲ ἐλέγοντο ἐπιθυμεῖν πολλοὶ θεάσασθαι, νομίζοντες πλέον τι παρὰ τοὺς ἄλλους ἔχειν με διὰ τὴν ἄλην1 καὶ τὴν μεταβολὴν τοῦ βίου καὶ διὰ τὴν δοκοῦσαν αὐτοῖς τοῦ σώματος ταλαιπωρίαν· τελευτῶντες δὲ ἤδη καὶ ἐνεκάλουν, ἀδικεῖσθαι φάσκοντες. ἐγὼ δὲ οὐκ ἤθελον ἐγγὺς ἰέναι πρὸς αὐτοὺς τοὺς ὅρους, ἀλλὰ ἐδόκει μοι τὸ τοιοῦτο παντελῶς ἀχθομένου τινὸς εἶναι τῇ φυγῇ καὶ ἐπιθυμοῦντος κατελθεῖν· ὥσπερ οἱ μηδὲν καταλιπόντες ἐν τῇ κύλικι δῆλοί εἰσι πάνυ διψῶντες. 2 ἐλθὼν οὗν εἰς Κύζικον ἐκεῖ διέτριβον καὶ παρεῖχον, εἴ τις βούλεταί μοι τῶν ἐπιτηδείων συγγίγνεσθαι. καὶ δὴ τὸ τοῦ κιθαρῳδοῦ τοῦτο ὃ λέγουσιν ἔσωσέ με, ᾠδήν τινα ᾄσαντος2 αὐτοῖς.
 
 	p238
@@ -15,53 +132,164 @@ p240εἶναι λέγειν. τὸ μέντοι τῶν κιθαρῳδῶν τ
 
 p242δὲ ἐλάττω γίγνεται.9 οὐκοῦν τὰ σώματα ὁρᾶται τὰ τῶν παντελῶς γερόντων ἐνδεδωκότα καὶ λαγαρά· ὅσοι δ᾽ αὖ παχεῖς γέροντες ὑπὸ πλούτου καὶ τρυφῆς, ἰσχυροῦ μὲν οὐδενὸς προσόντος ἔτι, πιμελῆς δὲ ἀντὶ τῶν σαρκῶν, εὐτραφεῖς δὴ ὁρῶνται καὶ νεώτεροι τοῖς πολλοῖς.10
 
+
+The Loeb Editor's Notes:
+	
+
 1
 ἄλην καὶ τὴν Geel: ἄλλην καὶ τὴν M, ἄλλην καὶ B, ἄλην U.
 
 
+❦
 
 2
 ᾄσαντος Cohoon: ᾄσαντα.
 
 
+❦
 
 3
 τοῦ ἐκ Reiske: ἐκ τοῦ.
 
 
+❦
 
 4
 ἀκρασίαν Casaubon: ἀκρόασιν UB, ἀκροᾶσιν M.
 
 
+❦
 
 5
 ἣ added by Emperius.
 
 
+❦
 
 6
 ἐμμελεστέρα Wilamowitz: ἐπιμελεστέρα.
 
 
+❦
 
 7
 λέξις Reiske, ἕξις BM, ἔξις U.
 
 
+❦
 
 8
 γε Reiske: τε.
 
 
+❦
 
 9
 γίγνεται Emperius: τείνεται.
 
 
+❦
 
 10
 Selden believed a good deal was lacking at the end.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+25 Jun 12

@@ -1,7 +1,143 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Κεφάλαιον
+			
+ϝ´
+				
+
+
+
+This webpage reproduces part of the
+				
+
+
+
+The General (Strategikos)
+				
+
+by
+				
+
+Onasander
+				
+
+
+
+(Loeb Classical Library edition,
+1928)
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Κεφάλαιον
+			
+ι´.α´
+
+
+
+
+
+
+This site is not affiliated with the US Military Academy.
+		
+
+
+
+
+
+
+
+
+
+USMAHome
+		
+
+
+
+
+
+
+ΟΝΑΣΑΝΔΡΟΥ
+	
+ΣΤΡΑΤΗΓΙΚΟΣ
+	
+
 p402
 
 VII. [Περὶ τοῦ ὅταν1 διὰ στενῶν μέλλῃ τὸ στρατόπεδον ἄγειν]2
+
 
 1 Ἐπειδὰν δὲ ἤτοι3 διὰ στενῶν μέλλῃ4 ποιεῖσθαι τὴν5 πάροδον ἢ δι᾽ ὀρεινῆς καὶ δυσβάτου
 
@@ -15,11 +151,13 @@ p404χώρας ἄγειν τὸν στρατόν,6 ἀναγκαῖον προ�
 
 VIII. [Περὶ τοῦ ποιεῖν χάρακα]15
 
+
 1 Ἐν δὲ δὴ16 τῇ τῶν ἐχθρῶν καταστρατοπεδεύων17 χάρακα περιβαλέσθω18 καὶ τάφρον, κἂν19 ἐφ᾽ ἡμέραν μέλλῃ τὴν παρεμβολὴν θήσειν· ἀμετανόητος γὰρ ἡ τοιαύτη καὶ ἀσφαλὴς20 στρατοπεδεία διὰ τὰς αἰφνιδίους καὶ ἀπρολήπτους21 ἐπιβολάς.22 καθιστάτω δὲ φύλακας,23 κἂν μακρὰν εἶναι νομίζῃ τοὺς πολεμίους, ὡς ἐγγὺς ὄντων.24 2 ὅποι25 δ᾽ ἂν μέλλῃ26 πολυχρόνιον τίθεσθαι τὴν παρεμβολὴν οὐκ ἀντεπιόντων27 τῶν πολεμίων, ἐπὶ28 τῷ φθείρειν τὴν χώραν ποιούμενος τὴν μόνην29 ἢ καὶ30 καιροῖς ἐφεδρεύων31 βελτίοσιν,32
 p406ἐκλεγέσθω χωρία μὴ ἑλώδη33 μηδὲ νοτερά·34 τὰ γὰρ τοιαῦτα ταῖς ἀναφοραῖς καὶ ταῖς ἀπὸ τῶν τόπων δυσωδίαις νόσους καὶ λοιμοὺς ἐμβάλλει στρατεύμασι,35 καὶ πολλῶν μὲν ἐκάκωσε τὰς εὐεξίας, πολλοὺς δὲ ἀπώλεσεν, ὥστε μὴ μόνον ὀλίγον, ἀλλὰ καὶ ἀσθενὲς ἀπολείπεσθαι στράτευμα.36
 
 
 IX. [Περὶ τοῦ συνεχῶς ὑπαλλάσσειν τὰ ἄπληκτα]37
+
 
 1 Χρήσιμον δέ που καὶ σωτήριον στρατοπέδῳ μηδ᾽ ἐπὶ τῆς αὐτῆς μένειν παρεμβολῆς, ἐὰν μὴ χειμαδεύῃ καὶ τοῖς σκηνώμασι διὰ τὴν ὥραν τοῦ καιροῦ πεπολισμένη τυγχάνῃ· αἱ γὰρ38 τῶν ἀναγκαίων ἐκκρίσεις39 ἐπὶ τῶν αὐτῶν γιγνόμεναι40 χωρίων ἀτμοὺς διεφθορότας ἀναπέμπουσαι συμμεταβάλλουσιν καὶ τὴν τοῦ περιέχοντος ἀέρος χύσιν. 2 ἐν δὲ ταῖς χειμασίαις41 γυμναζέτω τὰ στρατόπεδα καὶ πολεμικὰ καὶ σύντροφα42 ποιείσθω τοῖς δεινοῖς, μήτ᾽ ἀργεῖν ἐὼν43 μήτε ῥᾳθυμεῖν· ἡ μὲν γὰρ ἀργία τὰ σώματα μαλθακὰ καὶ ἀσθενῆ κατεσκεύασεν, ἡ δὲ ῥᾳθυμία τὰς ψυχὰς ἀνάνδρους καὶ δειλὰς ἐποίησεν· αἱ γὰρ ἡδοναὶ δελεάζουσαι τῷ καθ᾽ ἡμέραν συνήθει τὰς ἐπιθυμίας διαφθείρουσι καὶ τὸν εὐτολμότατον.44 3 ὅθεν οὐ μακρὰν ἀπάγειν45 τοὺς ἄνδρας τῶν πόνων· ἐπειδὰν γὰρ μετὰ χρόνον ἀναγκάζωνται46 πρὸς τὰ πολεμικὰ χωρεῖν, οὐθ᾽47 ἡδέως ἐξίασιν οὔτ᾽ ἐπὶ πολὺ
 
@@ -30,8 +168,15 @@ p408μένουσιν,48 ἀλλ᾽ ἐκδεδιῃτημένοι49 ταχὺ μ
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ὅτε v.
+
+
+
 
 
 
@@ -40,8 +185,14 @@ Title om. by F: in marg. GH.
 
 
 
+
+
+
 3
 εἴτε vGH.
+
+
+
 
 
 
@@ -50,8 +201,14 @@ Köchly (v?): μέλλει FGH.
 
 
 
+
+
+
 5
 Added by Koraes.
+
+
+
 
 
 
@@ -60,8 +217,14 @@ FGH: στρατηγὸν P and "MSS. quidam" Schwebel.
 
 
 
+
+
+
 7
 πεφροντήσθω or ‑είσθω F m1 corr. by m2.
+
+
+
 
 
 
@@ -70,8 +233,14 @@ FC and perhaps others: om. PGH.
 
 
 
+
+
+
 9
 FEN and perhaps others: δεῖ GH (v?).
+
+
+
 
 
 
@@ -80,8 +249,14 @@ FEN and perhaps others: δεῖ GH (v?).
 
 
 
+
+
+
 11
 F (and conj. by Koraes): εἰσβάλλοντας vGH Köchly.
+
+
+
 
 
 
@@ -90,8 +265,14 @@ F (and conj. by Koraes): εἰσβάλλοντας vGH Köchly.
 
 
 
+
+
+
 13
 μὲν F.
+
+
+
 
 
 
@@ -100,8 +281,14 @@ F (and conj. by Koraes): εἰσβάλλοντας vGH Köchly.
 
 
 
+
+
+
 15
 Title om. F: in margin GH.
+
+
+
 
 
 
@@ -110,8 +297,14 @@ Om. F.
 
 
 
+
+
+
 17
 καταστρατοπεδευόντων F.
+
+
+
 
 
 
@@ -120,8 +313,14 @@ Om. F.
 
 
 
+
+
+
 19
 F (and conj. by Koraes): ἂν vGH.
+
+
+
 
 
 
@@ -130,8 +329,14 @@ F (and conj. by Koraes): ἂν vGH.
 
 
 
+
+
+
 21
 απροσλήπτους C; ἀπροσδοκήτους vGH.
+
+
+
 
 
 
@@ -140,8 +345,14 @@ F (and conjecture of Schwebel): ἐπιβουλάς Ω.
 
 
 
+
+
+
 23
 φυλακάς Koraes and Köchly.
+
+
+
 
 
 
@@ -150,8 +361,14 @@ FC: ὄντας vGH.
 
 
 
+
+
+
 25
 ὅπου vGH.
+
+
+
 
 
 
@@ -160,8 +377,14 @@ R: μέλλοι Ω.
 
 
 
+
+
+
 27
 οὐ κατεπιόντων P: οὐκατεπιόντων G: οὐ | κάτἐπιόντων H: οὐ κατεπειγόντων EN.
+
+
+
 
 
 
@@ -170,8 +393,14 @@ R: μέλλοι Ω.
 
 
 
+
+
+
 29
 νομὴν ENR.
+
+
+
 
 
 
@@ -180,8 +409,14 @@ FPGH: om. v.
 
 
 
+
+
+
 31
 ἐφεδρευόντων F.
+
+
+
 
 
 
@@ -190,8 +425,14 @@ FPGH: om. v.
 
 
 
+
+
+
 33
 FEN: ελλώδη PRGH.
+
+
+
 
 
 
@@ -200,8 +441,14 @@ Köchly: μηδὲ (μὴ δὲ FGH) νοσερά· Ω.
 
 
 
+
+
+
 35
 τοῖς στρατεύμασιν vGH.
+
+
+
 
 
 
@@ -210,8 +457,14 @@ Köchly: μηδὲ (μὴ δὲ FGH) νοσερά· Ω.
 
 
 
+
+
+
 37
 Title om. by F: in margin GH. ἄπληκτον is a Byzantine word unknown earlier; see Du Cange and Sophocles.
+
+
+
 
 
 
@@ -220,8 +473,14 @@ Om. P.
 
 
 
+
+
+
 39
 FCEN: ἐγκρήσεις P: ἐκρήσεις GH: ἐπικρίσεις R.
+
+
+
 
 
 
@@ -230,8 +489,14 @@ FCEN: ἐγκρήσεις P: ἐκρήσεις GH: ἐπικρίσεις R.
 
 
 
+
+
+
 41
 B and Schwebel: χειμαδίαις Ω: τοῖς χειμαδίοις Koraes.
+
+
+
 
 
 
@@ -240,8 +505,14 @@ B and Schwebel: χειμαδίαις Ω: τοῖς χειμαδίοις Koraes.
 
 
 
+
+
+
 43
 ἑκόντα R: ἔχων corr. to ἕκων A m2.
+
+
+
 
 
 
@@ -250,8 +521,14 @@ B and Schwebel: χειμαδίαις Ω: τοῖς χειμαδίοις Koraes.
 
 
 
+
+
+
 45
 ἐπάγειν ENM (margin): ἐπείγειν PGH. Köchly suggests the addition of δεῖ.
+
+
+
 
 
 
@@ -260,8 +537,14 @@ B and Schwebel: χειμαδίαις Ω: τοῖς χειμαδίοις Koraes.
 
 
 
+
+
+
 47
 οὐχ vGH.
+
+
+
 
 
 
@@ -270,8 +553,14 @@ B and Schwebel: χειμαδίαις Ω: τοῖς χειμαδίοις Koraes.
 
 
 
+
+
+
 49
 FEN (and M by conj.): ἐκδεδιτιτημένοι P: ἐκδεδιηττημένοι GH: ἐκδεδιττομένοι R.
+
+
+
 
 
 
@@ -280,3 +569,128 @@ Om. vGH.
 
 
 
+
+
+
+◂ previous
+		
+
+
+next ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ:
+		
+
+
+
+Onasander
+			
+
+
+
+
+Ancient
+			
+Military History
+			
+
+
+
+
+Military
+			
+History
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+27 Jul 13

@@ -1,4 +1,119 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Βίβλος ϝ´
+				
+
+
+
+This webpage reproduces a section of
+				
+
+
+
+The Library of History
+				
+
+of
+				
+
+Diodorus Siculus
+				
+
+
+
+published in Vol. III
+				
+of the
+Loeb Classical Library edition,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+(Vol. III)
+Διόδωρος Σικελιώτης
+	
+Βιβλιοθήκη
+	
+
+
+p346
+Fragmenta Libri VII
+
+
 [Ἐν ταῖς μετὰ ταύτας ἕνδεκα τὰς ἀπὸ τῶν Τρωικῶν κοινὰς πράξεις ἀναγεγράφαμεν ἕως τῆς Ἀλεξάνδρου τελευτῆς.
 	
 (Diodorus, 1.4.6)]
@@ -12,6 +127,35 @@
 [Ἐν ταῖς πρὸ ταύτης βίβλοις ἀνεγράψαμεν τὰς ἀπὸ Τροίας ἁλώσεως πράξεις ἕως ἐπὶ τὴν κατάλυσιν τοῦ τε Πελοποννησιακοῦ πολέμου καὶ τῆς Ἀθηναίων ἡγεμονίας, διελθόντες ἔτη ἑπτακόσια ἑβδομήκοντα ἐννέα.
 	
 (Diodorus, 14.2.4)]
+
+
+
+
+
+1
+Καὶ ὁ Ὀρφεὺς ἰσόχρονος τῷ Ἡρακλεῖ ὑπῆρχε,
+			
+πρὸ χρόνων ὄντες ἑκατὸν τοῦ Τρωικοῦ πολέμου,
+			
+ὡς δὲ Ὀρφεὺς ἐν Λιθικοῖς περὶ αὑτοῦ μοι λέγει,
+			
+Ἑλένου τι βραχύτερον ὕστερον εἶναι λέγει,
+			
+τούτου μιᾷ δὲ γενεᾷ Ὅμηρος ὑστερίζει,
+			
+ὁ κατὰ Διονύσιον ἄνδρα τὸν κυκλογράφου
+			
+ἐπὶ τῶν δύο στρατειῶν λεγόμενος ὑπάρχειν,
+			p348
+Θηβαϊκῆς Ἑλλήνων τε τῆς διὰ τὴν Ἑλένην.
+			
+Διόδωρος τε σύντροχα λέγει Διονυσίῳ,
+			
+καὶ ἕτεροι μύριοι δέ.
+			
+(Tzetzes, Hist. 12.179‑88)1
+
+
 
 
 2
@@ -36,6 +180,7 @@ Age nunc ad alterum harum rerum testem transeamus, Diodorum, videlicet, qui omne
 
 
 p352ἐξ ἀνθρώπων ἠφανίσθη καὶ τιμῶν ἔτυχεν ἀθανάτων. 3 τὴν δ᾽ ἀρχὴν διαδεξάμενος Ἀσκάνιος υἱὸς ἔκτισεν Ἄλβαν τὴν νῦν καλουμένην Λόγγαν, ἣν ὠνόμασεν ἀπὸ τοῦ ποταμοῦ τοῦ τότε μὲν Ἄλβᾳ καλουμένου, νῦν δὲ Τιβέρεως ὀνομαζομένου. 4 περὶ δὲ τῆς προσηγορίας ταύτης Φάβιος ὁ τὰς Ῥωμαίων πράξεις ἀναγράψας ἄλλως μεμυθολόγηκε. φησὶ γὰρ Αἰνείᾳ γενέσθαι λόγιον, τετράπουν αὐτῷ καθηγήσεσθαι3 πρὸς κτίσιν πόλεως· μέλλοντος δ᾽ αὐτῷ θύειν ὗν ἔγκυον τῷ χρώματι λευκήν, ἐκφυγεῖν ἐκ τῶν χειρῶν, καὶ διωχθῆναι πρός τινα λόφον, πρὸς ᾧ κομισθεῖσαν τεκεῖν τριάκοντα χοίρους. 5 τὸν δὲ Αἰνείαν τό τε παράδοξον θαυμάσαντα καὶ τὸ λόγιον ἀνανοούμενον4 ἐπιχειρῆσαι μὲν οἰκίσαι5 τὸν τόπον, ἰδόντα δὲ κατὰ τὸν ὕπνον ὄψιν ἐναργῶς διακωλύουσαν καὶ συμβουλεύουσαν μετὰ τριάκοντα ἔτη κτίζειν, ὅσοσπερ ὁ τῶν τεχθέντων ἀριθμὸς ἦν, ἀποστῆναι τῆς προθέσεως. (Georgius Syncellus, pp366‑67)6
+
 
 6 Post Aeneam defunctum Askanius eiusdem filius regnum assumpsit: (dehinc vero) annis XXX transactis collem aedificavit (i.e. aedificiis complevit), et urbem Albam appellavit ad porcae colorem: nam Latini secundum suam linguam τὴν Λευκὴν Albam vocant. alteram quoque ei nomenclationem imposuisse (sc. dicitur) Longam, quae translata vocatur Μακράν, quoniam latitudine angusta erat et longitudine magna.
 
@@ -68,6 +213,7 @@ p358aquis in altum visas, quae inibi in profunditate regiae domus exstant.
 	
 12 Post hunc Aventius electus fuit, qui cum VII supra XXX annos potitus esset, in quodam proelio cum suburbanis in angustiam actus iuxta Aventium collem cecidit, unde collis Aventius dicebatur. Demortui in locum suffectus est filius eiusdem Prokas Silvius regnavitque annis III supra viginti. Quo mortuo iunior filius Amolius per vim regnum tenuit; eo quod in regiones longinquas profectus erat Numitor, eiusdem frater maior natu ac germanus. Amolius paulo plus annis XLIII regnavit atque a Remo et Romilo,º qui Romam condiderunt, interficitur. (Eusebius, Chronicle, I, pp284‑90, ed. Schöne)
 
+
 6
 Ὅτι μετὰ τὴν Αἰνείου τελευτήν Σιλούιος ἐπεβουλεύθη ὑπὸ Ασκανίου νήπιος ὤν. τραφεὶς δὲ ἐν τοῖς ὄρεσιν ὑπό τινων βουκόλων Σιλούιος ὠνομάσθη, τῶν Λατίνων τὸ ὄρος σιλούαν ὀνομαζόντων. (Const. Exc. 3, p197)
 
@@ -89,6 +235,10 @@ p358aquis in altum visas, quae inibi in profunditate regiae domus exstant.
 (Diod. 4.58.4‑5)]
 
 
+
+Lakedemoniorum reges ex Diodori voluminibus
+
+	
 8
 Nos vero, quoniam ita evenit, ut a Troianorum rebus usque ad primam olompiademº tempus difficile reperiatur, cum necdum iis temporibus neque Athenis neque alia in urbe annui principes fieri solerent, Lakedemoniorum reges pro exemplo usurpabimus. A Troianorum eversione usque ad primam olompiadem, prout Apolodorusº Atheniensis ait,
 
@@ -98,6 +248,7 @@ p362anni octo supra trecentosa sunt. Ex illis octoginta (defluxerunt) usque ad H
 
 	
 2 Eurristheus initium regni sumpsit anno octogesimo a Troadum rebus, dominatusque est annis II supra XL. Post hunc Agis anno I. Ekhestratus anno uno supra XXX. Atque post eum Labotas annis VII supra triginta. Doristhus uno anno minus quam triginta. Horum vero successor Agesilaus IV annis supra XL. Arkhelaus annis LX. Et Teleklus annis XL. Alkamenes autem annis VIII supra triginta. Huius regni anno X contigit constitutio olompiadis primae, qua vincebat in stadio Kurribus Helius. Verum ex altera familia primus dominatus est Prokles annis undequinquaginta. Ac post ipsum Pritanus annis undequinquaginta. Atque Eunomius annis V supra XL. Et post hos Khariklus annis LX. Post illum autem Nikandrus annis duodequadraginta. Theopompus annos VII supra quadraginta. Item huius quoque regni anno decimo primo olompias contigit. Sunt autem simul a Troianorum captivitate usque ad Herakleorum excursionem anni LXXX. (Euseb. Chron. I, p221, ed. Schöne)
+
 
 9
 Τούτων ἡμῖν διευκρινημένων λείπεται περὶ τῆς Κορινθίας καὶ Σικυωνίας εἰπεῖν ὃν τρόπον ὑπὸ Δωριέων κατῳκίσθησαν. τὰ γὰρ κατὰ τὴν
@@ -127,6 +278,7 @@ p368αὐτῶν ἐκπεσεῖν· περὶ ὧν τὰ κατὰ μέρος
 (Diod. 5.84.4)]
 
 
+
 11
 Ex Diodori scriptis breviter de temporibus Thalassocratorum, qui maria tenebant.
 
@@ -134,12 +286,291 @@ Ex Diodori scriptis breviter de temporibus Thalassocratorum, qui maria tenebant.
 Post bellum Troianum mare obtinuerunt:
 
 
+
+
+I.
+		
+
+Lidi et Maeones
+		
+
+annos
+		
+
+XCII
+		
+
+
+
+II.
+		
+
+Pelasgi
+		
+
+"
+		
+
+LXXXV
+		
+
+
+
+III.
+		
+
+Thrakii
+		
+
+"
+		
+
+LXXIX
+		
+
+
+
+IV.
+		
+
+Rhodii
+		
+
+"
+		
+
+XXIII
+		
+
+
+
+V.
+		
+
+Phrygii
+		
+
+"
+		
+
+XXV
+		
+
+
+
+VI.
+		
+
+Kiprii
+		
+
+"
+		
+
+XXXIII
+		
+
+
+
+VII.
+		
+
+Phynikii
+		
+
+"
+		
+
+XLV
+		
+
+
+
+VIII.
+		
+
+Egiptii
+		
+
+"
+		
+
+. . . .
+		
+
+
+
+IX.
+		
+
+Melesii
+		
+
+"
+		
+
+(XVIII)
+		
+
+
+
+X.
+		
+
+(Cares)
+		
+
+"
+		
+
+(LXI)
+		
+
+
+
+XI.
+		
+
+Lesbii
+		
+
+"
+		
+
+(LXVIII)
+		
+
+
+
+XII.
+		
+
+Phokaei
+		
+
+"
+		
+
+XLIV
+		
+
+
+
+XIII.
+		
+
+Samii
+		
+
+"
+		
+
+. . . .
+		
+
+
+
+XIV.
+		
+
+Lakedemonii
+		
+
+"
+		
+
+II
+		
+
+
+
+XV.
+		
+
+Naxii
+		
+
+"
+		
+
+X
+		
+
+
+
+XVI.
+		
+
+Eretrii
+		
+
+"
+		
+
+XV
+		
+
+
+
+XVII.
+		
+
+Eginenses
+		
+
+"
+		
+
+X
+		
+
+
+
 usque ad Alexandri [vel Xerxis] transfretationem. (Euseb. Chron. 1, p225)
+
 p370
 12
 Ὅτι τηλικοῦτον περὶ τὸν Λυκοῦργον ἦν τῆς ἀρετῆς τὸ μέγεθος, ὥστε παραγενηθέντος εἰς Δελφοὺς αὐτοῦ τὴν Πυθίαν ἀποφθέγξασθαι ἔπη τάδε·8
 
+
+
+
+ἥκεις, ὦ Λυκόοργε, ἐμὸν ποτὶ πίονα νηόν,
+			
+Ζηνὶ φίλος καὶ πᾶσιν Ὀλυμπίᾳ δώματ᾽ ἔχουσι.
+			
+δίζω ἤ σε θεὸν μαντεύσομαι ἢ ἄνθρωπον·
+			
+ἀλλ᾽ ἔτι καὶ μᾶλλον θεὸν ἔλπομαι, ὦ Λυκόοργε.
+			
+ἥκεις δ᾽ εὐνομίαν αἰτεύμενος· αὐτὰρ ἔγωγε
+			
+δώσω τὴν οὐκ ἄλλη ἐπιχθονίη πόλις ἕξει.9
+
+
+
+
 2 Ὅτι ὁ αὐτὸς ἠρώτησε τὴν Πυθίαν, ποῖα νόμιμα καταστήσας μάλιστ᾽ ἂν ὠφελῆσαι τοὺς Σπαρτιάτας. τῆς δὲ εἰπούσης10 ἐὰν τοὺς μὲν καλῶς ἡγεῖσθαι, τοὺς δὲ πειθαρχεῖν νομοθετήσῃ, πάλιν ἠρώτησε τί ποιοῦντες καλῶς ἡγήσονται καὶ τί πειθαρχήσουσιν. ἡ δὲ ἀνεῖλε τοῦτον τὸν χρησμόν·
+
+
+
+
+
+εἰσὶν ὁδοὶ δύο πλεῖστον ἀπ᾽ ἀλλήλων ἀπέχουσαι,
+			
+ἡ μὲν ἐλευθερίας ἐς τίμιον οἶκον ἄγουσα,
+			
+ἡ δ᾽ ἐπὶ δουλείας φευκτὸν δόμον ἡμερίοισι.
+			
+καὶ τὴν μὲν διά τ᾽ ἀνδροσύνης ἐρατῆς θ᾽ ὁμονοίας
+			
+ἐστι περᾶν, ἣν δὴ λαοῖς ἡγεῖσθε κέλευθον·
+			
+τὴν δὲ διὰ στυγερῆς ἔριδος καὶ ἀνάλκιδος ἄτης
+			
+εἰσαφικάνουσιν, τὴν δὴ πεφύλαξο μάλιστα.
+		
+
 
 p372
 3 Τὸ δὲ κεφάλαιον ἦν ὅτι μεγίστην πρόνοιαν ποιητέον ἐστὶν ὁμονοίας καὶ ἀνδρείας, ὡς διὰ μόνων τούτων τῆς ἐλευθερίας φυλάττεσθαι δυναμένης, ἧς χωρὶς οὐδὲν ὄφελος οὐδ᾽ ἄλλο τι11 τῶν παρὰ τοῖς πολλοῖς ὑπειλημμένων ἀγαθῶν12 ἔχειν ἑτέροις ὑπήκοον ὄντα· πάντα γὰρ τὰ τοιαῦτα τῶν ἡγουμένων, οὐ τῶν ὑποτεταγμένων ἐστίν· ὥστ᾽ εἴπερ τις ἑαυτῷ βούλεται καὶ μὴ τοῖς ἄλλοις κτήσασθαι τὰ ἀγαθά, πρῶτόν ἐστι κατασκευαστέον τὴν ἐλευθερίαν. 4 ἀμφοτέρων δὲ ἐκέλευσε ποιεῖσθαι πρόνοιαν, ὅτι θάτερα13 αὐτῶν κατ᾽ ἰδίαν οὐ δύναται τὸν περιποιησάμενον ὠφελῆσαι· οὐδὲν γὰρ ὄφελος ἀνδρείους ὄντας στασιάζειν ἢ ὁμονοεῖν βεβαίως δειλούς ὄντας.
@@ -148,7 +579,41 @@ p372
 5 Ὅτι ὁ αὐτὸς Λυκοῦργος ἤνεγκε χρησμὸν ἐκ Δελφῶν περὶ τῆς φιλαργυρίας τὸν ἐν παροιμίας μέρει μνημονευόμενον,
 
 
+
+
+
+ἁ φιλοχρηματία Σπάρταν ὀλεῖ,14 ἄλλο δὲ οὐδέν.
+		
+
+
+
 6 Ἡ Πυθία ἔχρησε τῷ Λυκούργῳ περὶ τῶν πολιτικῶν οὕτως,
+
+
+
+
+
+Ὧδε γὰρ ἀργυρότοξος ἄναξ ἑκάεργος Ἀπόλλων
+			
+χρυσοκόμης ἔχρη πίονος ἐξ ἀδύτου,
+			
+ἄρχειν μὲν βουλῆς15 θεοτιμήτους βασιλῆας,
+			
+οἷσι μέλει Σπάρτης ἱμερόεσσα πόλις,
+			p374
+πρεσβυγενεῖς δὲ γέροντας, ἔπειτα δὲ δημότας ἄνδρας,
+			
+εὐθείαις ῥήτραις ἀνταπαμειβομένους16
+
+μυθεῖσθαί τε17 τὰ καλὰ καὶ ἔρδειν πάντα δίκαια,
+			
+μηδέ τι βουλεύειν τῇδε πόλει σκολιόν,18
+
+δήμου τε πλήθει νίκην καὶ κάρτος ἕπεσθαι·
+			
+Φοῖβος γὰρ περὶ τῶν ὧδ᾽ ἀνέφηνε πόλει.
+		
+
 
 
 7 Ὅτι τοὺς μὴ διαφυλάττοντας τὴν πρὸς τὸ θεῖον εὐσέβειαν πολὺ μᾶλλον μὴ τηρεῖν τὰ πρὸς τοὺς ἀνθρώπους δίκαια. (Const. Exc. 4, pp272‑74)
@@ -169,6 +634,7 @@ p376ἐφ᾽ οἷς οἱ παῖδες αὐτοῦ διαγανακτοῦν�
 Κατέσχεν οὖν ἡ βασιλεία19 τῶν Ἀργείων ἔτη φμθ´, καθὼς καὶ Διόδωρος ὁ σοφώτατος συνεγράψατο. (Malalas, p68)
 
 
+
 15
 Cessante Assyriorum dynastia, post Sardanapalli ultimi regis Assyriorum mortem, Makedoniorum tempora succedunt.
 
@@ -187,9 +653,28 @@ Perdikas annis regnavit XLVIII imperiumque Argaeo reliquit. Huic uno supra XXX a
 
 	
 3 Makedonici regni generationem hoc pacto historicorum fideles ad Heraklem referunt. A Karano, qui primus in unum conflatam tenuit Makedoniorum potestatem, usque ad Alexandrum, qui Asianorum terram subegit, viginti quatuor reges recensentur, anni CCCCLIII. (Euseb. Chron. 1, p227)
+
 p380
 16
 Ὅτι Περδίκκας τὴν ἰδίαν βασιλείαν αὐξῆσαι βουλόμενος ἠρώτησεν εἰς Δελφούς. ἡ δὲ ἔφη,
+
+
+
+
+
+ἔστι κράτος βασίλειον ἀγαυοῖς Τημενίδαισι
+			
+γαίης πλουτοφόροιο· δίδωσι γὰρ αἰγίοχος Ζεὺς.
+			
+ἀλλ᾽ ἴθ᾽ ἐπειγόμενος Βοττηίδα20 πρὸς πολύμηλον·
+			
+ἔνθα δ᾽ ἂν ἀργικέρωτας ἴδῃς χιονώδεας αἶγας
+			
+εὐνηθέντας ὑπ᾽ ἠὼ,21 κείνης χθονὸς ἐν δαπέδοισι
+			
+θῦε θεοῖς μακάρεσσι καὶ ἄστυ κτίζε πόληος.
+		
+
 
 
 (Const. Exc. 4, p274)
@@ -197,45 +682,57 @@ p380
 17
 Γενεαλογοῦσι δ᾽ αὐτὸν οὕτως, ὡς φησιν ὁ Διόδωρος καὶ22 οἱ πολλοὶ τῶν συγγραφέων, ὧν εἷς καὶ Θεόπομπος. Κάρανος Φείδωνος τοῦ Ἀριστοδαμίδα τοῦ Μέροπος τοῦ Θεστίου τοῦ Κισσίου τοῦ Τημένου τοῦ Ἀριστομάχου τοῦ Κλεοδαίου23 τοῦ Ὕλλου τοῦ Ἡρακλέους. ἔνιοι δὲ ἄλλως, φησί, γενεαλογοῦσι, φάσκοντες εἶναι Κάρανον Ποίαντος τοῦ Κροίσου τοῦ Κλεοδαίου τοῦ Εὐρυβιάδα τοῦ Δεβάλλου τοῦ Λαχάρους τοῦ Τημένου, ὃς καὶ κατῆλθεν εἰς Πελοπόννησον. (Georgius Syncellus, p499)
 
+
+The Loeb Editor's Notes:
+	
+
 1
 Ed. Kiessling, Leipzig, 1826.
 
 
+❦
 
 2
 So Reiske: καθάπερ ὑπό.
 
 
+❦
 
 3
 So Wesseling: καθηγήσασθαι.
 
 
+❦
 
 4
 So Oldfather: ἀνανεούμενον.
 
 
+❦
 
 5
 So Wesseling: οἰκῆσαι.
 
 
+❦
 
 6
 Ed. Dindorf, Bonn, 1829.
 
 
+❦
 
 7
 So Dindorf: ὑφ᾽.
 
 
+❦
 
 8
 To this point from Const. Exc. 2 (1), p212.
 
 
+❦
 
 9
 Ll. 1‑4 of the oracle are taken from
@@ -243,71 +740,85 @@ Ll. 1‑4 of the oracle are taken from
 Herodotus, 1.65. The collection of excerpts entitled De sententiis (Const. Exc. 4, pp272 ff.), commonly known as Excerpta Vaticana, opens with the middle of l. 4 of the oracle.
 
 
+❦
 
 10
 εἰπούσης added by Dindorf.
 
 
+❦
 
 11
 τι added by Krebs.
 
 
+❦
 
 12
 So Krebs: ἀγαθόν.
 
 
+❦
 
 13
 θάτερον, the emendation of Dindorf and Vogel, is rejected by Boissevain.
 
 
+❦
 
 14
 So Dindorf: ἕλοι.
 
 
+❦
 
 15
 So Dindorf: βούλῃ.
 
 
+❦
 
 16
 Ll. 5‑6 of the oracle may be interpolated; cp. Schwartz in R.‑E. 5, p678.
 
 
+❦
 
 17
 So Dindorf: δέ.
 
 
+❦
 
 18
 σκολιὸν added by Wurm.
 
 
+❦
 
 19
 ἤτοι τοπαρχία after βασιλεία is probably a gloss.
 
 
+❦
 
 20
 So Dindorf: Βουτήιδα.
 
 
+❦
 
 21
 ὕπνῳ Herwerden (by error?), Vogel for ὑπ᾽ ἠὼ.
 
 
+❦
 
 22
 καὶ omitted by Vogel.
 
 
+❦
 
 23
 So Wesseling: Κλεοδάτους.
@@ -315,9 +826,111 @@ So Wesseling: Κλεοδάτους.
 
 
 	
+
+Thayer's Note:
+	
+
 a
 Sic. In the Loeb edition followed on this site, the Latin text reads trecentos, but the English has four hundred. The editor's note to the English
 	
 (q.v.)
 	
 suggests that the mistake was introduced by the editors into the Latin: but it's hard to see how a modern editorial error could have produced trecentos out of quadringentos. 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Διόδωρος
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+9 Apr 12

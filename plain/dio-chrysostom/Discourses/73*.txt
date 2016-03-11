@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος οβ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1951
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος οδ´
+				
+
+
+
+
+
+(Vol. V)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p194
+73. ΠΕΡΙ ΠΙΣΤΕΩΣ
+	
+
 1 Ἆρά γε τὸ πιστεύεσθαι τοῖς πιστευομένοις ἀγαθόν ἐστι καὶ τοιοῦτον οἷον τὸ πλουτεῖν καὶ τὸ ὑγιαίνειν καὶ τὸ τιμᾶσθαι τοῖς τιμωμένοις καὶ ὑγιαίνουσι καὶ πλουτοῦσιν, αὐτοῖς ἐκείνοις τινὰ φέρον ὠφέλειαν; λέγω δὲ οἷον εἴ τις δημοσίᾳ τύχοι πιστευόμενος ὑπὸ τῆς αὑτοῦ1 πόλεως ἢ ἑτέρας στρατιὰν2 ἢ χρήματα ἢ τείχη, καθάπερ ἤδη πολλοὶ τὰ τοιαῦτα ἐπετράπησαν, οἱ δὲ καὶ αὐτὰς τὰς πόλεις μετὰ παίδων καὶ γυναικῶν εἰρήνης τε οὔσης καὶ πολέμου καταλαβόντος ἐνίοτε· 2 καὶ νὴ Δία εἴ τις ὑπ᾽3 ἀνδρὸς βασιλέως ἢ τυράννου πιστεύοιτο χρυσίον ἢ ἀργύριον ἢ ναῦς ἦ ὅπλα ἢ ἀκρόπολιν ἢ ξύμπασαν τὴν ἀρχήν, ὥσπερ Λεπτίνης μὲν παρὰ τοῦ ἀδελφοῦ πολλάκις Συρακούσας παρέλαβε, Φίλιστος δὲ παρὰ τοῦ νεωτέρου Διονυσίου, μάγοι δὲ παρὰ Καμβύσου τὰ Περσῶν Βασίλεια, ὅτε εἰς Αἴγυπτον ἐστρατεύετο, παρὰ δὲ
 
 
@@ -42,63 +159,184 @@ p204ὅτι αἱ τὰ πράγματα ἐλάττω ἐστίν, ἀσχολ�
 10 Τί δὴ βουλόμενος ταῦτα ἐγὼ διῆλθον; οὐ γὰρ δὴ νουθετῶν σε τοιαύτην νουθεσίαν οὐδὲ ἀποτρέπων τοῦ πιστὸν εἶναι. πολὺ γὰρ ἂν εἴην τοῦ Ζήθου φαυλότερος τοιαῦτα ἐπιτιμῶν, ὡς ἐκεῖνος ἐνουθέτει τὸν ἀδελφὸν οὐκ ἀξιῶν φιλοσοφεῖν αὐτὸν οὐδὲ περὶ μουσικὴν διατρίβειν, ἐάσαντα τὴν τῶν ἰδίων ἐπιμέλειαν· ἔφη δὲ αὐτὸν ἄτοπόν τινα καὶ ἀσύμφορον μοῦσαν εἰσάγειν. ὥσπερ ἂν τυχὸν εἴποι τις καὶ σὲ τοιαύτην προῃρῆσθαι πρᾶξιν, οὐκ ἀργὸν οὐδὲ φίλοινον οὐδαμῶς, χρημάτων μέντοι τῶν αὑτοῦ ἀτημελῆ ἴσως· καὶ νὴ Δία λέγοι ἂν καὶ τόδε τὸ ἔπος·
 
 
+
+
+
+ἐξ ὧν κενοῖσιν ἐγκατοικήσεις δόμοις.
+		
+
+
+
+
+The Loeb Editor's Notes:
+	
+
 1
 αὑτοῦ Emperius: αὐτοῦ.
 
 
+❦
 
 2
 στρατιὰν Emperius: στρατείαν.
 
 
+❦
 
 3
 ὑπ᾽ Emperius: ἀπ᾽.
 
 
+❦
 
 4
 αὑτῶν Emperius: αὐτῶν.
 
 
+❦
 
 5
 δὲ Pflugk: δὴ.
 
 
+❦
 
 6
 γε added by Reiske.
 
 
+❦
 
 7
 καὶ after ταπεινῷ deleted by Emperius.
 
 
+❦
 
 8
 δ᾽ added by Capps.
 
 
+❦
 
 9
 ἂν added by Dindorf.
 
 
+❦
 
 10
 διὰ τὸ . . . πολιτῶν deleted by Emperius.
 
 
+❦
 
 11
 γεγηθέναι] γε σωθῆναι Wilamowitz.
 
 
+❦
 
 12
 ἀποδόντας Emperius: ἀποδόντων.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+3 Jul 12

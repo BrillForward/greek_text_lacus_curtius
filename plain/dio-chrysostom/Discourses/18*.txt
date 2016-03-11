@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ιζ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ιθ´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p212
+18. ΠΕΡΙ ΛΟΓΟΥ ΑΣΚΗΣΕΩΣ
+	
+
 1 Πολλάκις ἐπαινέσας τὸν σὸν τρόπον ὡς ἀνδρὸς ἀγαθοῦ καὶ ἀξίου πρωτεύειν ἐν τοῖς ἀρίστοις, οὐδέποτε πρότερον ἐθαύμασα ὡς νῦν. τὸ γὰρ ἡλικίας τε ἐν τῷ ἀκμαιοτάτῳ ὄντα καὶ δυνάμει οὐδενὸς λειπόμενον καὶ ἄφθονα κεκτημένον, καὶ πάσης ἐξουσίας οὔσης δι᾽ ἡμέρας καὶ νυκτὸς τρυφᾶν, ὅμως ἔτι παιδείας ὀρέγεσθαι καὶ φιλοκαλεῖν περὶ τὴν τῶν λόγων ἐμπειρίαν καὶ μὴ ὀκνεῖν, μηδὲ εἰ πονεῖν δέοι, σφόδρα μοι ἔδοξε γενναίας ψυχῆς καὶ οὐ φιλοτίμου μόνον, ἀλλὰ τῷ ὄντι φιλοσόφου ἔργον εἶναι. καὶ γὰρ τῶν παλαιῶν οἱ ἄριστοι οὐ μόνον ἀκμάζειν μανθάνοντες, ἀλλὰ καὶ γηράσκειν ἔφασκον. 2 πάνυ δὲ σύ μοι δοκεῖς φρονεῖν, ἡγούμενος πολιτικῷ ἀνδρὶ δεῖν λόγων ἐμπειρίας τε καὶ δυνάμεως. καὶ γὰρ πρὸς τὸ ἀγαπᾶσθαι καὶ πρὸς τὸ ἰσχύειν καὶ πρὸς τὸ τιμᾶσθαι καὶ πρὸς τὸ μὴ καταφρονεῖσθαι πλείστη ἀπὸ τούτου ὠφέλεια. τίνι μὲν γὰρ μᾶλλον ἄνθρωποι δείσαντες θαρροῦσιν ἢ λόγῳ; τίνι δὲ ἐξυβρίζοντες καὶ ἐπαιρόμενοι καθαιροῦνται καὶ κολάζονται;
 
 
@@ -76,40 +193,51 @@ p232πλείων ἡ ὠφέλεια γίγνοιτ᾽ ἄν, εἴ τις αὐ
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἢ οὗ Herwerden: οὐ.
 
 
+❦
 
 2
 εὐφραίνονται Reiske: εὐφραίνοντα UB, εὐφραίνοντας M.
 
 
+❦
 
 3
 γοῦν Wilamowitz: οὖν.
 
 
+❦
 
 4
 ἀναλίσκοντας Casaubon: ἀναδιδάσκοντας.
 
 
+❦
 
 5
 ἱκανὸς Goerlitz: κακὸς UB, κακῶς M.
 
 
+❦
 
 6
 λέγω added by Dindorf after πολλὰ.
 
 
+❦
 
 7
 ἀγωνιστικήν, ἑτέρων Capps: ὁ ἀγωνοτέρων M, ὁ ἀγὼν ἑτέρων UB, λόγων ἑτέρων T.
 
 
+❦
 
 8
 λόγων instead of ἔργων conjectured by Capps, cf. §17
@@ -117,129 +245,252 @@ p232πλείων ἡ ὠφέλεια γίγνοιτ᾽ ἄν, εἴ τις αὐ
 infra.
 
 
+❦
 
 9
 Instead of συλλήψει Casaubon conjectured συλλυπεῖ, Goerlitz συστέλλει, Emperius συννεφεῖ.
 
 
+❦
 
 10
 ὥσπερ Dindorf: ὡς.
 
 
+❦
 
 11
 ἀήθεσι τοῦ Pflugk: ἀήθεσι M, ἀηθίστοις UB.
 
 
+❦
 
 12
 σώμασιν Emperius: σώματος.
 
 
+❦
 
 13
 ἀλείψεως anonymous emendator in Reiske: ἀπολείψεως.
 
 
+❦
 
 14
 ἐπιμελείας Emperius: ἐπιμέλεια B, ἐπιμελείᾳ UM.
 
 
+❦
 
 15
 ἡδονῇ Emperius: ἡδονῆς.
 
 
+❦
 
 16
 ἀλλὰ δι᾽ added by Emperius.
 
 
+❦
 
 17
 ἀναγιγνώσκειν Valesius: γιγνώσκειν UM, γινώσκειν B.
 
 
+❦
 
 18
 ἀπαθανατισμοῦ Capps, cf. Longinus 16.3, ἀπαυθαδήματος Reiske, ἀπαυθαδίσματος Cobet, ἀναστήματος Wilamowitz: ἀπαιθήματος UBM, παθήματος T.
 
 
+❦
 
 19
 εὐφροσύνης σοι δεῖ Geel: εὐφροσύνης οἱ M, ἔφορόν σοι U, σύμφορόν σοι B.
 
 
+❦
 
 20
 ὀλίγωρος Reiske: ὀλίγος BM, ὁ λόγος U.
 
 
+❦
 
 21
 κἂν Arnim: καὶ.
 
 
+❦
 
 22
 ἡμεῖς Cohoon: ἢ BM, ᾗ U.
 
 
+❦
 
 23
 ἂν added by Arnim.
 
 
+❦
 
 24
 Arnim would add λόγων after οὕτως, unnecessarily.
 
 
+❦
 
 25
 δοκεῖ added by Emperius.
 
 
+❦
 
 26
 ὃν Reiske: ὃς.
 
 
+❦
 
 27
 τοσούτων τῶν Cohoon: τοσοῦτον τῶν M, τοσούτων U.
 
 
+❦
 
 28
 von Arnim inserts οὐ before κατὰ, wrongly.
 
 
+❦
 
 29
 τίνα Emperius: τινὰ.
 
 
+❦
 
 30
 ὁμοιότερος Reiske: ἑτοιμότερος.
 
 
+❦
 
 31
 ἐποίησαν Emperius: ἀνέπεισαν UB, ἂν ἔπεισαν M.
 
 
+❦
 
 32
 γενοίμεθα Emperius: ἐγενόμεθα.
 
 
+❦
 
 33
 τὰ added by Pflugk.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+25 Jun 12

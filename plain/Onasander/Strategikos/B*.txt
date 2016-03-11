@@ -1,7 +1,143 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Κεφάλαια
+			
+α´‑γ´
+				
+
+
+
+This webpage reproduces part of the
+				
+
+
+
+The General (Strategikos)
+				
+
+by
+				
+
+Onasander
+				
+
+
+
+(Loeb Classical Library edition,
+1928)
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Κεφάλαιον
+				
+ϝ´
+				
+
+
+
+
+
+This site is not affiliated with the US Military Academy.
+		
+
+
+
+
+
+
+
+
+
+USMAHome
+		
+
+
+
+
+
+
+ΟΝΑΣΑΝΔΡΟΥ
+	
+ΣΤΡΑΤΗΓΙΚΟΣ
+	
+
 p390
 
 IV. [Περὶ τοῦ ὅτι δεῖ τὴν ἀρχὴν τοῦ πολέμου ἐξ εὐλόγου αἰτίας ἐπάγειν]1
+
 
 1 Τὰς δ᾽ ἀρχὰς τοῦ πολέμου μάλιστά φημι χρῆναι φρονίμως συνίστασθαι καὶ μετὰ τοῦ δικαίου πᾶσι φανερὸν γίγνεσθαι πολεμοῦντα· τότε γὰρ καὶ θεοὶ συναγωνισταὶ τοῖς στρατεύουσιν εὐμενεῖς καθίστανται,2 καὶ ἄνθρωποι προθυμότερον ἀντιτάττονται τοῖς δεινοῖς·3 2 εἰδότες γάρ, ὡς οὐκ ἄρχουσιν ἀλλ᾽ ἀμύνονται,4 τὰς ψυχὰς ἀσυνειδήτους κακῶν ἔχοντες ἐντελῆ5 τὴν ἀνδρείαν6 εἰσφέρονται, ὡς, ὅσοι γε νομίζουσι νεμεσήσειν7 τὸ θεῖον ἐπὶ τῷ παρὰ τὸ δίκαιον ἐκφέρειν πόλεμον, αὐτῇ τῇ οἰήσει, κἂν μή τι δεινὸν ἀπὸ τῶν πολεμίων ἀπαντήσειν μέλλῃ,8 προκατορρωδοῦσιν. 3 διὰ τοῦτο δεῖ τὸν στρατηγόν, ὧν τε βούλεται τυχεῖν καὶ ὧν μὴ παραχωρῆσαι, λόγῳ καὶ πρεσβείαις προκαλεῖσθαι9 πρῶτον, ἵν᾽ ἐν τῷ μὴ συγκαταβαίνειν τοῖς ἀξιουμένοις τοὺς ἐναντίους10 ἀνάγκῃ δοκῇ,11 καὶ μὴ προαιρέσει τὴν δύναμιν ἐξάγειν πολεμήσουσαν,12 ἐπιμαρτυράμενος13 τὸ θεῖον, ὡς οὔτε καταφρονῶν ὧν συμβαίνει τοὺς πολεμοῦντας πάσχειν, ἀνεμεσήτως ἔπεισιν, οὔτε ἐκ παντὸς τρόπου τὰ δεῖνα δρᾶσαι προῃρημένος τοὺς πολεμίους.14 4 εἰδέναι δὲ χρή, καθότι οὐ μόνον οἰκίας
 
@@ -14,6 +150,7 @@ p392καὶ τείχους ἐδραιότερον ὑφίστασθαι δεῖ
 
 V. [Περὶ τοῦ ἐξιλεοῦσθαι πρῶτον ὑπὲρ τῶν ἁμαρτιῶν τὸ θεῖον27 ὁ στρατηγὸς ἐξάγων εἰς πόλεμον]28
 
+
 Ἐξαγέτω δὲ τὰς δυνάμεις ὁ στρατηγὸς καθαρὰς ἢ οἷς νόμοι29 ἱεροὶ ἢ οἷς μάντεις ὑφηγοῦνται καθαρσίοις,
 
 
@@ -23,8 +160,15 @@ p394πᾶσαν, εἴ τις ἢ δημοσίᾳ30 κηλὶς ἢ ἰδίου 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 Title om. F.
+
+
+
 
 
 
@@ -33,8 +177,14 @@ Title om. F.
 
 
 
+
+
+
 3
 ἐναντίοις Köchly.
+
+
+
 
 
 
@@ -43,8 +193,14 @@ Title om. F.
 
 
 
+
+
+
 5
 ἐντελεῖ corr. to ἐντελῆ F m2(?): ἐντελεῖ AB.
+
+
+
 
 
 
@@ -53,8 +209,14 @@ Title om. F.
 
 
 
+
+
+
 7
 μὴ νεμεσήσειν vGH.
+
+
+
 
 
 
@@ -63,8 +225,14 @@ Koraes: μέλλει Ω.
 
 
 
+
+
+
 9
 F (also conj. by Schwebel): προσκαλεῖσθαι vGH.
+
+
+
 
 
 
@@ -73,8 +241,14 @@ FCGH: τοὺς ἀξίους τοῖς ἐναντίοις ENPRV.
 
 
 
+
+
+
 11
 δοκεῖ v (incl. P) GH.
+
+
+
 
 
 
@@ -83,8 +257,14 @@ F (also conj. by Koraes): πολεμοῦσαν vGH.
 
 
 
+
+
+
 13
 ἐπιμαρτυρόμενος vGH.
+
+
+
 
 
 
@@ -93,8 +273,14 @@ FC: προηρημένος τοῖς πολεμίοις GH: προηρημένο
 
 
 
+
+
+
 15
 FENRGH: ὄντας PA m2 and "quidam libri" (Schwebel).
+
+
+
 
 
 
@@ -103,8 +289,14 @@ A m2 GH (v?): συγκαταρτισομένων F.
 
 
 
+
+
+
 17
 PGH: τοῦ πολέμου τὰς v: πολεμοῦντας F.
+
+
+
 
 
 
@@ -113,8 +305,14 @@ Köchly suggests ἀσφαλῶς.
 
 
 
+
+
+
 19
 Om. vGH.
+
+
+
 
 
 
@@ -123,8 +321,14 @@ Köchly: αὐτῷ ENR: αὐτῶν vGH: αὐτὸν F: παρ᾽ αὑτῷ 
 
 
 
+
+
+
 21
 F (and Leo, Tactica, XX.170 ἐπίτρεπε): ἐπιτρέχειν vGH.
+
+
+
 
 
 
@@ -133,13 +337,22 @@ F (and Leo, Tactica, XX.170 ἐπίτρεπε): ἐπιτρέχειν vGH.
 
 
 
+
+
+
 23
 Ω: κρούσασθαι Köchly, after the emendation in A.
 
 
 
+
+
+
 24
 κατεφρόνησαν F, followed by an interval, as though a chapter ended here, with the first letter of μὴ rubricated.
+
+
+
 
 
 
@@ -151,8 +364,14 @@ F (and Leo, Tactica, XX.170 ἐπίτρεπε): ἐπιτρέχειν vGH.
 
 
 
+
+
+
 26
 Added by Köchly.
+
+
+
 
 
 
@@ -161,8 +380,14 @@ Added by Köchly.
 
 
 
+
+
+
 28
 Om. F (whole title): in text GH.
+
+
+
 
 
 
@@ -171,8 +396,14 @@ Om. F (whole title): in text GH.
 
 
 
+
+
+
 30
 δημοσία Ω.
+
+
+
 
 
 
@@ -181,3 +412,128 @@ Köchly: ἢ  (or ἦ F) διαμολύσματος FPGH: διαμόλυσμα R
 
 
 
+
+
+
+◂ previous
+		
+
+
+next ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ:
+		
+
+
+
+Onasander
+			
+
+
+
+
+Ancient
+			
+Military History
+			
+
+
+
+
+Military
+			
+History
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+27 Jul 13

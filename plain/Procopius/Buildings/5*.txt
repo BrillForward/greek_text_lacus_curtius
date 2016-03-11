@@ -1,4 +1,128 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Βιβλίον δ´
+				
+Μέρος γ´
+				
+
+
+
+This webpage reproduces a section of
+				
+
+
+
+The Buildings
+				
+
+of
+				
+
+Procopius
+				
+
+
+
+published in the
+				
+Loeb Classical Library,
+				
+1940
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Βιβλίον ϝ´
+				
+
+
+
+
+
+
+
+(Vol. III)
+ΠΡΟΚΟΠΙΟΥ ΚΑΙΣΑΡΕΩΣ
+	
+ΠΕΡΙ ΚΤΙΣΜΑΤΩΝ
+	
+
+
+p316
+ΒΙΒΛΙΟΝ Ε´
+	
+
 1
 1 Τὰ μὲν δὴ ἐν πάσῃ Εὐρώπῃ δεδημιουργημένα Ἰουστινιανῷ βασιλεῖ ἐς ὅσον οἷόν τε ἦν ἐν τῷ ἔμπροσθεν λόγῳ ἐρρήθη. ἐς δὲ τῆς Ἀσίας τὰ λειπόμενα ἰτέον ἡμῖν. 2 ὅσα μὲν οὖν πόλεών τε καὶ φρουρίων ἐρύματα, ἑτέρας τε οἰκοδομίας κατὰ τὴν ἑῴαν πεποίηται χώραν, ἐξ ὁρίων τῶν Μηδικῶν ἄχρι που ἐς Παλμύραν πόλιν, ἣ ἐν Φοίνιξι τοῖς ἐπὶ Λιβάνου τυγχάνει οὖσα, ἤδη μοι ἔμπροσθεν δεδηλῶσθαι οἶμαι. 3 ἐν δέ γε τῷ παρόντι καὶ ὅσα κατὰ τὴν ἄλλην Ἀσίαν καὶ Λιβύην αὐτῷ εἴργασται ἢ τειχιζομένῳ ἢ τὰ1 κατὰ τὰς ὁδοὺς ἐπανορθοῦντι δυσπάριτα καὶ κινδύνων ἀτεχνῶς ἔμπλεα (πὴ μὲν ὀρῶν ἐπικειμένων κρημνώδη ὄντα, πὴ δὲ ποταμοῦ γειτονήματι τοὺς παραπίπτοντας ἀποπνίγοντα), ἢ πόλεων ἰωμένῳ παθήματα πάντα, ἐρῶν ἔρχομαι ἀρχόμενος ἐνθένδε.
 
@@ -242,191 +366,331 @@ p356ἀνθρωπείων ἁπάντων εἰσίν, οὐδέ τι κεκτ�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἢ τὰ Capps: τὰ V, ἢ A.
 
 
+❦
 
 2
 λοφώδη οὐ γεώδη Capps, cf. V.vi.2: οὐ γήλοφον.
 
 
+❦
 
 3
 δεδήλωται V: δεδιήγηται A.
+❦
 
 4
 τε Wahler: δὲ.
 
 
+❦
 
 5
 τιμὴ V: σπουδὴ A.
 
 
+❦
 
 6
 αὐτοσχεδιάζει Haury: αὐτὸς σχεδιάζει.
 
 
+❦
 
 7
 εὐπορίαν V: εὐπορίας A.
 
 
+❦
 
 8
 αὑτῷ Dewing: αὐτῷ.
 
 
+❦
 
 9
 ἀντιπεριάγων A: ἀντιρεῖ ἄγων V.
 
 
+❦
 
 10
 ἰοῦσι A: οὖσι V.
 
 
+❦
 
 11
 ἐπενόει V: ἐποίει A.
 
 
+❦
 
 12
 ἅπασαν V: ξύμπασαν A.
 
 
+❦
 
 13
 ἤδη V: om. A.
 
 
+❦
 
 14
 ὅτι V: om. A.
 
 
+❦
 
 15
 ἑτέροις V: om. A.
 
 
+❦
 
 16
 ταύτας A: ταύτην V.
 
 
+❦
 
 17
 ἑκαστάτω V: ἑκάστω A.
 
 
+❦
 
 18
 πρόμαχον V: πρόβολον A.
 
 
+❦
 
 19
 ταύτης δὲ ἰουλιοπόλεως V: τῆς δὲ ἡλιουπόλεως A.
 
 
+❦
 
 20
 δὴ Haury: δὲ.
 
 
+❦
 
 21
 καὶ τὰ V: κατὰ A.
 
 
+❦
 
 22
 δυοῖν Dindorf: δυεῖν.
 
 
+❦
 
 23
 ἦν ἡ ὥρα A.
 
 
+❦
 
 24
 ἐπεσέβαλλον V: ἐσέβαλλον A.
 
 
+❦
 
 25
 ἔχει V: ἀνέχει A.
 
 
+❦
 
 26
 ξυνειλεγμένοι V: ἐξειλεγμένοι A.
 
 
+❦
 
 27
 ἐπὶ V: ἐς A.
 
 
+❦
 
 28
 After προπύλαια Maltretus added δὲ.
 
 
+❦
 
 29
 δυοῖν Haury: δυεῖν.
 
 
+❦
 
 30
 πεπραγμένα added by Hoeschel.
 
 
+❦
 
 31
 ὄντα V: ὄντως A.
 
 
+❦
 
 32
 τοῦτο Maltretus: τούτω.
 
 
+❦
 
 33
 οὐδ᾽ ὡς Maltretus: οὐχ ὥς V, οὐδ᾽ ὅς A.
 
 
+❦
 
 34
 τείχισμα V: προτείχισμα A.
 
 
+❦
 
 35
 κόλπον V: πόντον A.
 
 
+❦
 
 36
 εἶχον Hoeschel: εἶχεν.
 
 
+❦
 
 37
 καὶ added by Hoeschel.
 
 
+❦
 
 38
 καὶ added by Maltretus.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Περὶ Κτισμάτων
+			
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+2 May 12

@@ -1,12 +1,149 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Κεφάλαια
+				
+ΛΒ´‑ΛΔ´
+				
+
+
+
+This webpage reproduces part of the
+				
+
+
+
+The General (Strategikos)
+				
+
+by
+				
+
+Onasander
+				
+
+
+
+(Loeb Classical Library edition,
+1928)
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Κεφάλαια
+			
+ΛΘ´‑ΜΒ´
+				
+
+
+
+
+
+This site is not affiliated with the US Military Academy.
+		
+
+
+
+
+
+
+
+
+
+USMAHome
+		
+
+
+
+
+
+
+ΟΝΑΣΑΝΔΡΟΥ
+	
+ΣΤΡΑΤΗΓΙΚΟΣ
+	
+
 p486
 
 XXXV. α´. [Ὅτι οὐ1 χρὴ πάντοτε ἐπιτρέπειν τὰς ἁρπαγάς, καὶ ὅτι τὰ σώματα οὐ χρὴ ἁρπάζειν, ἀλλὰ τὸν στρατηγὸν πιπράσκειν]2
+
 
 1 Τὰς δ᾽ ἁρπαγὰς οὔτ᾽ ἐπὶ πάσης μάχης ἐπιτρεπτέον, οὐδ᾽ αἰεὶ3 πάντων, ἀλλ᾽ ὧν μέν, ὧν δ᾽ p488οὔ, τῶν δὲ σωμάτων ἥκιστα· ταῦτα δὲ πιπράσκειν τὸν στρατηγόν. 2 εἰ δὲ χρημάτων δέοι καὶ δαπάνης κοινῆς καὶ μεγάλης, καὶ ὅσα ἄγεται καὶ φέρεται πάνθ᾽ ὡς αὐτὸν ἀναπέμπεσθαι κηρυττέτω. 3 γνώῃ4 δ᾽ ἂν αὐτὸς ἄριστα πρὸς τοὺς καιρούς, εἰ τὰ5 πάντα δέοι λαμβάνειν, εἴτ᾽ ἐκ μέρους, εἴτε μηθὲν ὧν6 ἔτυχεν· οὔ γε μὴν ἔστι7 πολέμου8 καὶ τοῖς κοινοῖς εἶναι χρημάτων δαψίλειαν καὶ τοῖς στρατιώταις ἀνεπικώλυτον9 ὠφέλειαν· ἤδη δὲ καὶ παρὰ τοὺς10 τῶν ἡττημένων11 πλούτους καὶ παρὰ τὰς τῶν τόπων εὐδαιμονίας αἱ ὠφέλειαί σφισι δαψιλέστεραι γίγνονται.12
 
 
 β´. [Περὶ αἰχμαλώτων]13
+
 
 4 Τοὺς δὲ αἰχμαλώτους, ἐὰν ὁ πόλεμος ἔτι συνεστὼς14 ᾖ, μή κτεινέτω, μάλιστα μὲν τῶν15 πρὸς οὕς ἐστιν ὁ πόλεμος, κἂν δοκῇ οἱ, τοὺς συμμάχους16 ἀναιρεῖν, ἥκιστα δὲ καὶ τοὺς17 ἐνδοξοτάτους καὶ λαμπροὺς παρὰ τοῖς πολεμίοις, ἐνθυμούμενος τὰ ἄδηλα τῆς τύχης καὶ τὸ παλίντροπον τοῦ δαιμονίου φιλοῦντος ὡς τὰ πολλὰ νεμεσᾶν, ἵν᾽ εἴ18 τινων αὐτοὶ19 ἢ σωμάτων, ὧν πολὺς πόθος, ἢ φρουρίου
 
@@ -19,6 +156,7 @@ p490κρατήσαιειν,20 ἱκανὰ ἀντικαταλλάγματα21 �
 
 XXXVI. α´. [Περὶ τοῦ θάπτειν τοὺς ἐν πολέμῳ ἀναιρουμένους]29
 
+
 1 Προνοείσθω δὲ τῆς τῶν νεκρῶν κηδείας, μήτε καιρὸν μήθ᾽ ὥραν μήτε τόπον30 μήτε φόβον προφασιζόμενος, ἄν τε τύχῃ νικῶν, ἄν τε ἡττώμενος· ὁσία31 μὲν γὰρ καὶ ἡ πρὸς τοὺς ἀποιχομένους εὐσέβεια, ἀναγκαία δὲ καὶ ἡ πρὸς τοὺς ζῶντας ἀπόδειξις. 2 ἕκαστος γὰρ τῶν στρατιωτῶν ὡς αὐτὸς ἀμελούμενος, εἰ πεσὼν ἔτυχεν, παρ᾽ ὀφθαλμοῖς ὁρῶν τὴν τύχην καὶ ὑπὲρ τοῦ μέλλοντος καταμαντευόμενος, ὡς οὐδ᾽ αὐτός, εἰ32 τεθναίη, ταφησόμενος ἐπαχθῶς φέρει τὴν ἀτύμβευτον33 ὕβριν.
 
 
@@ -27,12 +165,14 @@ p492
 
 β´. [Περὶ τοῦ ἐπανορθοῦσθαι τὴν ἐλάττωσιν]34
 
+
 3 Εἰ δὲ ἡττῷτο,35 παραμυθησάμενος36 τοὺς ἀνασωθέντας ἐκ τῆς μάχης37 ἐφεδρευέτω, καιρὸν38 ἔνθα που καὶ μᾶλλον οἰόμενος ἐπανορθώσασθαι τὴν ἐλάττωσιν. 4 εἰώθασι γὰρ ὡς τὰ πολλὰ μετ᾽ εὐπραγίας39 οἱ στρατιῶται ῥᾳθυμότερον ἐκλύεσθαι περὶ τὰς φυλακάς· ἡ γὰρ τῶν πέλας καταφρόνησις ἀμελείας40 σφίσι γίγνεται αἰτία41a τῶν οἰκείων, οὕτως τε πολλάκις τὰ εὐτυχήματα πλεῖον ἔβλαψε τῷ δυστυχημάτων. 5 ὁ μὲν γὰρ πταίσας ἐδιδάχθη καὶ φυλάξασθαι42 τὸ μέλλον, ἐξ ὧν ἔπαθεν, ὁ δὲ τοῦ δυστυχεῖν43 ἄπειρος οὐδ᾽,44 ὡς δεῖ φυλάξαι τὰς εὐπραγίας,45 ἔμαθεν. 6 εἶτ᾽46 αὖ νικῶν τὴν47 αὐτὴν ἐχέτω48 προμήθειαν ὑπὲρ τοῦ μὴ παθεῖν49 ἀμελῶν, ἣν ἂν εἰς τὸ50 δρᾶσαί τι41b τοὺς ἐχθροὺς ῥᾳθυμοῦντας εἰσενέγκαιτο.51 φόβος γὰρ εὔκαιρος52 ἀσφάλεια προμηθής, ὡς53 καὶ καταφρόνησις ἄκαιρος54 εὐεπιβούλευτος τόλμα.
 
 
 	
 
 XXXVII. [Περὶ τοῦ ἐν καιρῷ εἰρήνης μὴ ἀφυλάκτως55 εἶναι]56
+
 
 1 Ἀνοχὰς δὲ ποιησάμενος μηδ᾽57 ἐπιτιθέσθω μηδ᾽ αὐτὸς ἀφύλακτος ἔστω· ἀλλὰ τὸ μὲν ἥσυχον
 
@@ -46,6 +186,7 @@ p496
 
 XXXVIII. α´. [Περὶ τοῦ τὰς82 προσαγόμενος πόλεις ἐν ἀδείᾳ ἔχειν καὶ φιλανθρωπίᾳ]83
 
+
 1 Ταῖς δὲ προσχωρούσαις84 πόλεσιν, εἴ τινες ἐπιτρέποιεν αὑτὰς85 ἀρξάμεναι, φιλανθρώπως καὶ χρηστῶς προσφερέσθω·86 προσαγάγοιτο87 γὰρ ἂν οὕτως καὶ τὰς ἄλλας. ἡ γὰρ ἐλπὶς τοῦ τῶν αὐτῶν τεύξεσθαι88 δελεάζουσα προσάγεται89 τοὺς πολλοὺς αὑτοὺς ἑκόντας90 ἐγχειρίζειν. 2 ὅστις δὲ πικρῶς91 εὐθὺς καὶ πολεμικῶς92 προσφέρεται κύριος γενόμενος πόλεως ἢ διαρπάζων ἢ κτείνων ἢ κατασκάπτων,93 ἀλλοτριωτέρας διατίθησι τὰς ἄλλας πόλεις, ὥστε καὶ τὸν πόλεμον αὑτῷ94 ἐπίπονον καὶ τὴν νίκην δύσελπιν κατασκευάζειν· 3 εἰδότες γάρ, ὡς ἀπαραίτητόν95 ἐστιν ἡ τῶν ὑποχειρίων96 πρὸς τοῦ κρατήσαντος97 τιμωρία, πᾶν ὁτιοῦν ὑπομένουσι καὶ ποιεῖν καὶ πάσχειν ὑπὲρ τοῦ μὴ παραδοῦναι τὰς πόλεις. 4 οὐθὲν γὰρ οὕτως κατασκευάζει γενναίους, ὡς φόβος98 ὧν μέλλουσι πείσεσθαι κακῶν99 εἴξαντες· ἡ γὰρ προσδοκία τῶν δεινῶν ἐκ τοῦ καθυφεῖσθαι100 τὰ σφέτερα δεινὴν ἐντίθησι φιλοτιμίαν ἐν τοῖς κινδύνοις. 5 χαλεπαὶ δὲ101 αἱ πρὸς τοὺς ἀπεγνωσμένους πεῖραι μάχης· οὐδὲν γὰρ χρηστότερον ἐλπίζοντες ἐκ τοῦ παραχωρεῖν ὧν πείσονται κινδυνεύοντες αἱροῦνται μετὰ
 
 
@@ -57,13 +198,21 @@ p498τοῦ πολλὰ δρᾶν καὶ πάσχειν. 6 ὅθεν αἱ πο
 
 β´. [Πῶς χρηστέον προδόταις]108
 
+
 7 Τοῖς δὲ προδόταις τάς τε πίστεις καὶ τὰς ἐπαγγελίας φυλαττέτω, μὴ διὰ τοὺς γεγονότας, ἀλλὰ διὰ τοὺς ἐσομένους, ἵν᾽ εἰδότες, ὡς ὀφείλεταί σφισι χάρις, ἑλόμενοι109 τὰ τῶν πολεμίων ἐπὶ τὰς αὐτὰς εὐεργεσίας τρέπωνται·110 λαμβάνει γάρ τι μᾶλλον ὁ111 προδότῃ διδοὺς ἢ χαρίζεται.112 8 διὸ χρὴ προθύμως ἐκτίνειν113 τὰς ἀμοιβάς· οὐ γὰρ δικαστὴς τῆς ἀδικηθείσης πόλεώς ἐστιν, ἀλλὰ στρατηγὸς τῆς ἑαυτοῦ πατρίδος.
 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ὅτι οὐ om. V.
+
+
+
 
 
 
@@ -72,8 +221,14 @@ Title in VGHº only; om. Ω: in margin GH.
 
 
 
+
+
+
 3
 ἐπὶ vGH: ἀεὶ Köchly.
+
+
+
 
 
 
@@ -82,13 +237,22 @@ Title in VGHº only; om. Ω: in margin GH.
 
 
 
+
+
+
 5
 εἶτε vGH.
 
 
 
+
+
+
 6
 FGH: om. P Rigaltius "alii codd. ut vid."
+
+
+
 
 
 
@@ -101,8 +265,14 @@ om. G, by loss of one leaf in binding.
 
 
 
+
+
+
 8
 πολέμῳ Koraes.
+
+
+
 
 
 
@@ -111,8 +281,14 @@ om. G, by loss of one leaf in binding.
 
 
 
+
+
+
 10
 παρ᾽ αὐτοὺς F.
+
+
+
 
 
 
@@ -121,8 +297,14 @@ om. G, by loss of one leaf in binding.
 
 
 
+
+
+
 12
 γίγνωνται H.
+
+
+
 
 
 
@@ -131,8 +313,14 @@ Title om. FHA: without indication of break in FH.
 
 
 
+
+
+
 14
 FCH: συεστὸς P: συνετὸς EM (G missing) NV: συνεχῶς R (?).
+
+
+
 
 
 
@@ -141,8 +329,14 @@ Capps: τούς Ω.
 
 
 
+
+
+
 16
 δοκήσῃ (δοκήσει H) τοῖς συμμάχοις vH Saguntinus Camerarius: μάλιστα μέν, κἂν δοκῇ αὐτοῖς, πρὸς οὓς ἐστιν ὁ πόλεμος, τοὺς συμμάχους Köchly.
+
+
+
 
 
 
@@ -151,8 +345,14 @@ Capps: τούς Ω.
 
 
 
+
+
+
 18
 Köchly after C: νεμεσᾶν εἴ F: νεμεσᾶν ἢ  PH Rigaltius "ceteri codd. ut vid."
+
+
+
 
 
 
@@ -161,8 +361,14 @@ Köchly after C: νεμεσᾶν εἴ F: νεμεσᾶν ἢ  PH Rigaltius "cet
 
 
 
+
+
+
 20
 κρατῆσαι PH Rigaltius (κρατήσαι H).
+
+
+
 
 
 
@@ -171,8 +377,14 @@ Köchly after C: νεμεσᾶν εἴ F: νεμεσᾶν ἢ  PH Rigaltius "cet
 
 
 
+
+
+
 22
 ἔχει PH Rigaltius.
+
+
+
 
 
 
@@ -181,8 +393,14 @@ Köchly after C: νεμεσᾶν εἴ F: νεμεσᾶν ἢ  PH Rigaltius "cet
 
 
 
+
+
+
 24
 τό γε vH: τοῦτό γε Koraes.
+
+
+
 
 
 
@@ -191,8 +409,14 @@ Köchly after C: νεμεσᾶν εἴ F: νεμεσᾶν ἢ  PH Rigaltius "cet
 
 
 
+
+
+
 26
 ἐπιτρεπέσθωσαν vH.
+
+
+
 
 
 
@@ -201,8 +425,14 @@ Köchly after C: νεμεσᾶν εἴ F: νεμεσᾶν ἢ  PH Rigaltius "cet
 
 
 
+
+
+
 28
 τοὺς vH.
+
+
+
 
 
 
@@ -211,8 +441,14 @@ Title om. F without sign of break: in margin H without sign of break.
 
 
 
+
+
+
 30
 FPH: μήτε τόπον om. v.
+
+
+
 
 
 
@@ -221,8 +457,14 @@ FPH: μήτε τόπον om. v.
 
 
 
+
+
+
 32
 FC: οὐ H Rigaltius "ceteri codd. ut vid.": ὡς δ᾽ αὐτὸς τεθναίη R.
+
+
+
 
 
 
@@ -231,8 +473,14 @@ FC: οὐ H Rigaltius "ceteri codd. ut vid.": ὡς δ᾽ αὐτὸς τεθν�
 
 
 
+
+
+
 34
 Koraes: title om. Ω: without sign of a break FH: "de cladibus acceptis sarciendis" Rigaltius Schwebel.
+
+
+
 
 
 
@@ -241,8 +489,14 @@ Koraes: title om. Ω: without sign of a break FH: "de cladibus acceptis sarciend
 
 
 
+
+
+
 36
 παραμυθησόμενος vH.
+
+
+
 
 
 
@@ -251,8 +505,14 @@ Koraes: title om. Ω: without sign of a break FH: "de cladibus acceptis sarciend
 
 
 
+
+
+
 38
 καιρῷ Schwebel: ἐφεδρευέτῳ τῷ καιρῷ Koraes.
+
+
+
 
 
 
@@ -261,8 +521,14 @@ Koraes: title om. Ω: without sign of a break FH: "de cladibus acceptis sarciend
 
 
 
+
+
+
 40
 ἀμέλεια v (ἀμελεία H) defended by von Rohden.
+
+
+
 
 
 
@@ -272,8 +538,14 @@ Added by Köchly.
 
 
 
+
+
+
 42
 φυλάξας PH Rigaltius "alii codd. ut vid.": φυλάξαι EN.
+
+
+
 
 
 
@@ -282,8 +554,14 @@ Added by Köchly.
 
 
 
+
+
+
 44
 οὐχ vH.
+
+
+
 
 
 
@@ -292,8 +570,14 @@ Added by Köchly.
 
 
 
+
+
+
 46
 οὔτ᾽ vH.
+
+
+
 
 
 
@@ -302,8 +586,14 @@ Added by Köchly.
 
 
 
+
+
+
 48
 ἔχει vH.
+
+
+
 
 
 
@@ -312,8 +602,14 @@ Added by Köchly.
 
 
 
+
+
+
 50
 Koraes: ἣν ἀρ᾽ εἰς τὸ F: ἣν ἀρ᾽ ἐστὸ H: ἀρ᾽ ἐς τὸ Rigaltius Schwebel: ἀρεστὸν R.
+
+
+
 
 
 
@@ -322,8 +618,14 @@ Koraes: ἣν ἀρ᾽ εἰς τὸ F: ἣν ἀρ᾽ ἐστὸ H: ἀρ᾽ �
 
 
 
+
+
+
 52
 εὐκαίρως H.
+
+
+
 
 
 
@@ -332,8 +634,14 @@ Om. v: προμηθῶς καὶ H.
 
 
 
+
+
+
 54
 ἄκρος R (A m2).
+
+
+
 
 
 
@@ -342,8 +650,14 @@ Om. v: προμηθῶς καὶ H.
 
 
 
+
+
+
 56
 Title om. F: in margin H.
+
+
+
 
 
 
@@ -352,8 +666,14 @@ Title om. F: in margin H.
 
 
 
+
+
+
 58
 Del. A m2.
+
+
+
 
 
 
@@ -362,8 +682,14 @@ Del. A m2.
 
 
 
+
+
+
 60
 C: αὔτοπτον Ω (αὔτο πτον H).
+
+
+
 
 
 
@@ -372,8 +698,14 @@ C: αὔτοπτον Ω (αὔτο πτον H).
 
 
 
+
+
+
 62
 FC: ἀδικεῖσθαι ENPH Rigaltius "ceteri codd. ut vid.": ἀδικῆσθαι A m2.
+
+
+
 
 
 
@@ -382,8 +714,14 @@ FH: ἀπαχθὲς Rigaltius "quidam codd. ut vid."
 
 
 
+
+
+
 64
 οὕτως PH Rigaltius "alii codd. ut vid."
+
+
+
 
 
 
@@ -392,8 +730,14 @@ F: ἐπιλείποι H Schwebel: ἐπιλείπει Koraes: διαλείπο�
 
 
 
+
+
+
 66
 FH: τοὺς θεοὺς v.
+
+
+
 
 
 
@@ -402,8 +746,14 @@ FH: τοὺς θεοὺς v.
 
 
 
+
+
+
 68
 Added by Köchly.
+
+
+
 
 
 
@@ -412,8 +762,14 @@ FHV (?): ἀνόητόν v.
 
 
 
+
+
+
 70
 FK: τούτους H "cet. codd. ut vid." Rigaltius Schwebel.
+
+
+
 
 
 
@@ -422,8 +778,14 @@ FK: τούτους H "cet. codd. ut vid." Rigaltius Schwebel.
 
 
 
+
+
+
 72
 τοῦ . . . κινδύνου vH.
+
+
+
 
 
 
@@ -432,8 +794,14 @@ FK: τούτους H "cet. codd. ut vid." Rigaltius Schwebel.
 
 
 
+
+
+
 74
 τὸ R.
+
+
+
 
 
 
@@ -442,8 +810,14 @@ FK: τούτους H "cet. codd. ut vid." Rigaltius Schwebel.
 
 
 
+
+
+
 76
 FH (Leo, Tactica, XVI.20 ἔξεστιν): ἐξ ὧν v.
+
+
+
 
 
 
@@ -452,8 +826,14 @@ FR: om. v.
 
 
 
+
+
+
 78
 ἀσφαλείαις F.
+
+
+
 
 
 
@@ -462,8 +842,14 @@ FR: om. v.
 
 
 
+
+
+
 80
 Added by Oldfather.
+
+
+
 
 
 
@@ -472,8 +858,14 @@ Added by Oldfather.
 
 
 
+
+
+
 82
 Om. A.
+
+
+
 
 
 
@@ -482,8 +874,14 @@ Title om. F: in margin H without mark of break.
 
 
 
+
+
+
 84
 προχωρούσαις A m2.
+
+
+
 
 
 
@@ -492,8 +890,14 @@ Title om. F: in margin H without mark of break.
 
 
 
+
+
+
 86
 προσφερέσθων F.
+
+
+
 
 
 
@@ -502,8 +906,14 @@ Title om. F: in margin H without mark of break.
 
 
 
+
+
+
 88
 τεύξασθαι vH.
+
+
+
 
 
 
@@ -512,8 +922,14 @@ Title om. F: in margin H without mark of break.
 
 
 
+
+
+
 90
 C: ἔχοντας (om. αὑτοὺς) F: οὕτως ἔχοντας vH.
+
+
+
 
 
 
@@ -522,8 +938,14 @@ C: ἔχοντας (om. αὑτοὺς) F: οὕτως ἔχοντας vH.
 
 
 
+
+
+
 92
 πολεμικὸς vH: πολεμικός εὐθὺς R.
+
+
+
 
 
 
@@ -532,8 +954,14 @@ C: ἔχοντας (om. αὑτοὺς) F: οὕτως ἔχοντας vH.
 
 
 
+
+
+
 94
 αὐτῷ F: ἐπίπονον αὐτῷ or αὑτῷ v (ἐ. αὐτῶ H).
+
+
+
 
 
 
@@ -542,8 +970,14 @@ C: ἔχοντας (om. αὑτοὺς) F: οὕτως ἔχοντας vH.
 
 
 
+
+
+
 96
 FH: ὑποχείρων PA m2 Rigaltius "ceteri codd. ut vid."
+
+
+
 
 
 
@@ -552,8 +986,14 @@ Köchly (but no note): τοὺς κρατήσαντας FH Rigaltius Schwebel Ko
 
 
 
+
+
+
 98
 οὐθὲν . . . φόβος om. R Camerarius.
+
+
+
 
 
 
@@ -562,8 +1002,14 @@ Köchly (but no note): τοὺς κρατήσαντας FH Rigaltius Schwebel Ko
 
 
 
+
+
+
 100
 καθυφέσθαι F.
+
+
+
 
 
 
@@ -572,8 +1018,14 @@ With χαλεπαὶ δὲ G resumes.
 
 
 
+
+
+
 102
 τοιοῖσδε vGH.
+
+
+
 
 
 
@@ -582,8 +1034,14 @@ FGH: τεθηρωμένοις P Rigaltius "ceteri codd. ut vid.": τεθειρα
 
 
 
+
+
+
 104
 FCD: om. vGH.
+
+
+
 
 
 
@@ -592,8 +1050,14 @@ FCD: om. vGH.
 
 
 
+
+
+
 106
 πολὺ GH: πολλοὶ Rigaltius A m2: πολλαὶ Schwebel Koraes.
+
+
+
 
 
 
@@ -602,8 +1066,14 @@ Koraes: σφαλερώτεραι καὶ Ω.
 
 
 
+
+
+
 108
 Koraes: title om. FAGH without indication of a break in any one of these MSS.: "Fidem proditoribus esse servandam" Rigaltius Schwebel.
+
+
+
 
 
 
@@ -612,8 +1082,14 @@ Koraes: title om. FAGH without indication of a break in any one of these MSS.: "
 
 
 
+
+
+
 110
 τρέπονται PGH.
+
+
+
 
 
 
@@ -622,8 +1098,14 @@ Koraes: title om. FAGH without indication of a break in any one of these MSS.: "
 
 
 
+
+
+
 112
 χαρίζεσθαι R.
+
+
+
 
 
 
@@ -632,3 +1114,128 @@ Koraes: title om. FAGH without indication of a break in any one of these MSS.: "
 
 
 
+
+
+
+◂ previous
+		
+
+
+next ▸
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ:
+		
+
+
+
+Onasander
+			
+
+
+
+
+Ancient
+			
+Military History
+			
+
+
+
+
+Military
+			
+History
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+27 Jul 13
