@@ -1,4 +1,116 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ιε´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p124
+14. ΠΕΡΙ ΔΟΥΛΕΙΑΣ ΚΑΙ ΕΛΕΥΘΕΡΙΑΣ Α
+	
+
 1 Οἱ ἄνθρωποι ἐπιθυμοῦσι μὲν ἐλεύθεροι εἶναι μάλιστα πάντων, καί φασι τὴν ἐλευθερίαν μέγιστον τῶν ἀγαθῶν, τὴν δὲ δουλείαν αἴσχιστον καὶ δυστυχέστατον ὑπάρχειν, αὐτὸ δὲ τοῦτο ὅ τι ἐστὶ τὸ ἐλεύθερον εἶναι ἢ ὅ τι τὸ δουλεύειν, οὐκ ἴσασιν. καὶ τοίνυν οὐδὲ ποιοῦσιν οὐδέν, ὡς ἔπος εἰπεῖν, ὅπως τὸ μὲν αἰσχρὸν καὶ χαλεπὸν ἐκφεύξονται, τὴν δουλείαν, ὃ δὲ δοκεῖ αὐτοῖς πολλοῦ ἄξιον εἶναι, κτήσονται, τὴν ἐλευθερίαν, ἀλλὰ τοὐναντίον ταῦτα πράττουσιν ἐξ ὧν ἀνάγκη τοὺς ἐπιτηδεύοντας διατελεῖν δουλεύοντας τὸν ἅπαντα χρόνον καὶ μηδεπώποτε ἐλευθερίας ἐπιτυγχάνειν. 2 πλὴν τούτους οὐκ ἄξιον ἴσως θαυμάσαι ὅτι οὔτε ἑλεῖν οὔτε φυλάξασθαι δύνανται ὃ τυγχάνουσιν ἀγνοοῦντες. εἰ γοῦν ἐτύγχανον ἀγνοοῦντες πρόβατον καὶ λύκον ὅ τι1 ἐστὶν ἑκάτερον αὐτοῖν, ὅμως δὲ ἡγοῦντο2 τὸ μὲν ὠφέλιμον καὶ κτήσασθαι ἀγαθόν, τὸ δὲ βλαβερὸν καὶ ἀσύμφορον, οὐκ ἂν ἦν3 θαυμαστὸν οὐδέν, εἰ τὸ μὲν πρόβατον ἐφοβοῦντο καὶ ἔφευγον ἐνίοτε ὡς λύκον, τὸν δὲ λύκον προσίεντο καὶ ὑπέμενον, νομίσαντες πρόβατον· ἡ γὰρ ἄγνοια τοιαῦτα ἐργάζεται τοὺς οὐκ εἰδότας καὶ ἀναγκάζει τἀναντία φεύγειν καὶ διώκειν ὧν βούλονται καὶ τῶν συμφερόντων.
 
 	p126
@@ -123,109 +235,231 @@ p140Ἀντίνους καὶ ὁ Εὐρύμαχος, οὓς Ὅμηρος ὠ
 
 	
 
+The Loeb Editor's Notes:
+	
+
+
 1
 τι added by Morel.
 
 
+❦
 
 2
 ἡγοῦντο Reiske: ἡγοῖντο.
 
 
+❦
 
 3
 οὐκ ἂν ἦν Emperius: οὐ καλόν.
 
 
+❦
 
 4
 μόνον Cohoon: μὴ.
 
 
+❦
 
 5
 αὑτῷ Dindorf: αὐτῷ.
 
 
+❦
 
 6
 οὔκουν τὸ Reiske: διοικοῦντι M, δοκοῦντι UB.
 
 
+❦
 
 7
 ταῦτα Reiske: τὰ αὐτὰ.
 
 
 
+❦
 
 8
 οὐ δὴ Arnim: οὐδ᾽.
 
 
+❦
 
 9
 προστάττει Valesius: πράττει.
 
 
+❦
 
 10
 δὲ Dindorf: δαὶ.
 
 
+❦
 
 11
 ἄγνοιαν Capps: ἄνοιαν.
 
 
+❦
 
 12
 οὔκουν Dindorf: οὐκοῦν.
 
 
+❦
 
 13
 After βαρβάρῳ Arnim supposes a lacuna in which Dio opposed the buyer to the man who was bought with money.
 
 
+❦
 
 14
 ἐφειμένων Reiske: ἐφιεμένων.
 
 
+❦
 
 15
 ἄγνοιαν T, ἄνοιαν UBM.
 
 
+❦
 
 16
 δοκῶσιν Emperius: δοκοῦσιν.
 
 
+❦
 
 17
 περιειργμένον ἔστιν εἶναι βασιλέα Reiske: δεδεμένον ἔστιν εἶναι βασιλέα περιειργμένον.
 
 
+❦
 
 18
 οὐ καλὸν Wilamowitz: οὐκ ἐνὸν.
 
 
+❦
 
 19
 ὀρθὰς added by Casaubon.
 
 
+❦
 
 20
 αὑτοῦ Capps: αὐτοῦ.
 
 
+❦
 
 21
 δέῃ Emperius: δὴ BM, δεῖ U.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+28 Jun 12

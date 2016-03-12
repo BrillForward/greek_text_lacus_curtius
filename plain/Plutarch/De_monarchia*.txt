@@ -1,8 +1,122 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+This webpage reproduces the essay
+				
+
+
+On Monarchy, Democracy, and Oligarchy
+				
+
+by
+				
+
+(ps‑)Plutarch
+				
+
+
+as published in Vol. X
+				
+of the
+Loeb Classical Library edition,
+1936
+				
+
+The text is in the public domain.
+				
+
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+(Vol. X)
+Πλούταρχος
+	
+Ἠθικὰ
+	
+
+
+p304
+ΠΕΡΙ ΜΟΝΑΡΧΙΑΣ ΚΑΙ ΔΗΜΟΚΡΑΤΙΑΣ ΚΑΙ ΟΛΙΓΑΡΧΙΑΣ
+	
+
 1
 (826a)
 
 Εἰς1 τοῦτο δὴ τὸ δικαστήριον καὶ αὐτὸς εἰσάγων τὴν γενομένην μοι πρὸς ὑμᾶς διάλεξιν ἐχθές, ᾤμην τῆς πολιτικῆς ἀρετῆς ὕπαρ οὐκ2 ὄναρ ἀκοῦσαι λεγούσης
+
+
+
+
+
+κεκρότηται χρυσέα κρηπὶς ἱεραῖσιν ἀοιδαῖς,
+		
+
 
 
 ὁ3 προτρεπόμενος καὶ4 διαίρων5 ἐπὶ πολιτείαν βέβληται λόγος· "εἶα τειχίζωμεν6 ἤδη" τὴν ὀφειλομένην ἐποικοδομοῦντες τῇ προτροπῇ διδασκαλίαν, ὀφείλεται δὲ τῷ παραδεδεγμένῳ τὴν ἐπὶ τὸ πράττειν τὰ κοινὰ προτροπὴν καὶ ὁρμὴν ἑξῆς ἀκοῦσαι καὶ λαβεῖν παραγγέλματα πολιτείας, οἷς χρώμενος, ὡς ἀνυστόν ἐστιν ἀνθρώπῳ, δημωφελὴς ἔσται, μετ᾽ ἀσφαλείας ἅμα καὶ τιμῆς δικαίας εὖ τιθέμενος τὸ οἰκεῖον. ὃ δὲ προὔργου μέν ἐστιν εἰς τὰ μέλλοντα τοῖς δὲ προλελεγμένοις ἕπεται, σκεπτέον ἥτις ἀρίστη πολιτεία. καθάπερ γὰρ ἀνθρώπου βίοι πλείονες,7
@@ -32,75 +146,101 @@ p308διαφθορὰς κατ᾽ ἔλλειψιν καὶ ὑπερβολὴν
 p310ὀργάνων, τῶν πολιτειῶν, οὐκ ἂν ἄλλην ἕλοιτο πλὴν τὴν μοναρχίαν, Πλάτωνι πειθόμενος, τὴν μόνην δυναμένην τὸν ἐντελῆ καὶ ὄρθιον ἐκεῖνον ὡς ἀληθῶς τῆς ἀρετῆς τόνον ἀνασχέσθαι καὶ μήτε πρὸς ἀνάγκην μήτε πρὸς χάριν ἁρμόσαι12 τοῦ συμφέροντος. αἱ μὲν γὰρ ἄλλαι πολιτείαι τρόπον τινὰ κρατούμεναι κρατοῦσι καὶ φερόμεναι φέρουσι τὸν πολιτικόν, οὐκ ἔχοντα τὴν ἰσχὺν βέβαιον ἐπὶ τούτους,13 παρ᾽ ὧν ἔχει τὸ ἰσχῦον, ἀλλὰ πολλάκις ἀναγκαζόμενον τὸ Αἰσχύλειον ἀναφωνεῖν, ᾧ πρὸς τὴν τύχην ἐχρῆτο Δημήτριος ὁ πολιορκητὴς ἀποβαλὼν τὴν ἡγεμονίαν
 
 
+
+
+
+σύ τοί με φυσᾷς,14 σύ με καταίθειν μοι15 δοκεῖς.16
+
+
+
+
+
+The Loeb Editor's Notes:
+	
+
 1
 Wyttenbach assumes that the beginning is lost.
 
 
+❦
 
 2
 οὐκ Xylander: ἢ.
 
 
+❦
 
 3
 ὁ added by Wyttenbach.
 
 
+❦
 
 4
 καὶ] δὲ καὶ codex E.
 
 
+❦
 
 5
 διαίρων Salmasius: διαιρῶν.
 
 
+❦
 
 6
 εἶα τειχίζωμεν H. N. F. from Pindar, Frag. 194 (206), p465 ed. Schroeder; ἐκτίνωμεν Wyttenbach; αἱ ἀττικῷ μὲν.
 
 
+❦
 
 7
 πλείονες Bernardakis: πλέονες.
 
 
+❦
 
 8
 ἡ added by Reiske.
 
 
+❦
 
 9
 καὶ τὸ added by Patzig.
 
 
+❦
 
 10
 δ᾽ added by Reiske.
 
 
+❦
 
 11
 τρίγωνα Xylander from Plato: τρίβωνα.
 
 
+❦
 
 12
 ἁρμόσαι] ἁρμόσαι ἄνευ Wyttenbach; ἁρμόσαι τι Hutton; ἁρμόσαι ἀπὸ?
 
 
+❦
 
 13
 τούτους Meziriacus: τούτου.
 
 
+❦
 
 14
 με φυσᾷς frequently changed to μ᾽ ἔφυσας, but needlessly.
 
 
+❦
 
 15
 καταίθεν μοι Ziegler with some MSS. in
@@ -108,9 +248,108 @@ Wyttenbach assumes that the beginning is lost.
 Life of Demetrius, chap. xxxv: καταίθειν.
 
 
+❦
 
 16
 Wyttenbach, followed by Dübner and others, indicates a break at this point.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Plutarch
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+11 Jun 09

@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος μζ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος μθ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p274
+48. ΠΟΛΙΤΙΚΟΣ ΕΝ ΕΚΚΛΗΣΙΑΙ
+	
+
 1 Πρώτον μέν, ὦ ἄνδρες, τῷ κρατίστῳ Οὐαρηνῷ δεῖ χάριν ἡμᾶς εἰδέναι καὶ διὰ τὴν ἄλλην προθυμίαν ἣν ἐπιδέδεικται πρὸς τὴν πόλιν, καὶ ὅτι βουλομένοις ἡμῖν ἐκκλησιάσαι πάλιν ἐφῆκεν οὐ μόνον ἑτοίμως, ἀλλὰ καὶ ἡδέως. τοῦτο γὰρ ἦν πιστεύοντος ὑμῖν καὶ εἰδότος ὅτι πρὸς οὐδὲν ἄτοπον χρήσεσθε τῇ ἐξουσίᾳ. οὔτε γὰρ ξύλα χλωρὰ δήπουθεν οὐδεὶς συντίθησιν ὥστε κάεσθαι, προειδὼς ὅτι ἀνάγκη γενέσθαι καπνὸν πολὺν καὶ ἄτοπον, οὔτε τεταραγμένον δῆμον εἰς ταὐτὸ συνάγει νοῦν ἔχων ἡγεμών, ἀλλὰ ἂν μή τις μείζων ἀνάγκη καταλάβῃ. 2 νῦν οὖν ὑμέτερον ἔργον ἐστὶ μὴ ψεύασθαι αὐτοῦ τὴν διάνοιαν, ἀλλ᾽ ἐπιδεῖξαι σωφρόνως καὶ καλῶς αὑτοὺς ἐκκλησιάζοντας, καὶ πρῶτον, ἐμοὶ δοκεῖ, καλλωπίσασθαι τῇ φιλίᾳ τῇ πρὸς ἀλλήλους καὶ ὁμονοίᾳ, κἂν δεῦρο ἀφίκηται παρακληθείς, περὶ μὲν τῶν ἄλλων ὧν ἐβοᾶτε ὑπερθέσθαι· ζητήσει γὰρ αὐτὸς τὰ δημόσια, κἂν ὑμεῖς κωλύειν θέλητε. τὸ δὲ νῦν εὐχαριστήσατε καὶ δεξιώσασθε καὶ μετ᾽ εὐφημίας καὶ τιμῆς ὑποδέξασθε,
 
 
@@ -62,188 +179,326 @@ p290τὰς μελίττας. 16 οὐ μέντοι παρ᾽ ἡμῖν τυχ�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ὑμᾶς] ἡμᾶς Reiske.
 
 
+❦
 
 2
 προεξανίστασθαι] προεπανίστασθαι Wilamowitz.
 
 
+❦
 
 3
 τι added by Emperius, ἀκούειν Reiske.
 
 
+❦
 
 4
 δυσκολαίνομεν Emperius: δυσκολαίνειν.
 
 
+❦
 
 5
 δ᾽ added by Capps.
 
 
+❦
 
 6
 οὐχ Arnim: πῶς.
 
 
+❦
 
 7
 τὸ πονηροὺς ἔχειν πολίτας deleted by Arnim.
 
 
+❦
 
 8
 λόγων ἀεὶ συναγωγῶν Emperius: λόγον ἀεὶ συναγωγὸν.
 
 
+❦
 
 9
 After συμπαθῆ Emperius deletes κάλλιστον θεαμάτων εὐδαιμονέστατον δὲ ἁπάντων κτημάτων μία γνώμη περὶ πάντων φαινομένη, a manifest gloss. Arnim suspects also ὁμογνώμονα . . . συμπαθῆ.
 
 
+❦
 
 10
 ἀποφαίνοντας Reiske: ἀποφαίνοντος.
 
 
+❦
 
 11
 ἠθῶν Selden: ἤχων. In the MSS. there follows: τρόπον αὐλοῦ κατεαγότος διπλᾶς φωνάς, which Reiske deletes.
 
 
+❦
 
 12
 μήτε παρ᾽ ἑαυτοῖς μήτε παρὰ τοῖς ἡγεμόσιν Emperius: μήτε παρ᾽ ἑαυτοῖς ἡγεμόσιν M, μήτε παρὰ τοῖς ἡγεμόσιν UB.
 
 
+❦
 
 13
 After γὰρ Arnim adds τοὺς.
 
 
+❦
 
 14
 ἑώρων οὐ Capps: οὐχ ἑώρων.
 
 
+❦
 
 15
 διαμένοντας] διενεχθέντας Arnim.
 
 
+❦
 
 16
 οὐδὲ Emperius: οὔτε.
 
 
+❦
 
 17
 ἧς added by Casaubon.
 
 
+❦
 
 18
 κλυσθέντος Reiske: πλησθέντος.
 
 
+❦
 
 19
 αὑτῶν Emperius: αὐτῶν.
 
 
+❦
 
 20
 αὑτῶν Emperius: αὐτῶν.
 
 
+❦
 
 21
 After καὶ Arnim adds ἄδηλον ἔσται.
 
 
+❦
 
 22
 Before ἐγὼ Reiske inserts ἣν.
 
 
+❦
 
 23
 λέγω δὲ Selden: λέγων.
 
 
+❦
 
 24
 οἴεσθ᾽ ἐμὲ Crosby: οἴεσθέ με.
 
 
+❦
 
 25
 εὐθυμῶν] μεθ᾽ ὑμῶν Reiske.
 
 
+❦
 
 26
 After ταῦτα Emperius adds ἃ.
 
 
+❦
 
 27
 ἐπηγάγοντο] ἐπήγοντο Wilamowitz.
 
 
+❦
 
 28
 Before εἰς Casaubon inserts οὐκ.
 
 
+❦
 
 29
 ψάλιον Valesius: ψέλιον.
 
 
+❦
 
 30
 ἐμοὶ] καὶ ἐμοὶ Emperius, ἐμοὶ δὲ Arnim.
 
 
+❦
 
 31
 ναυπηγὸς] ναύκληρος Sonny.
 
 
+❦
 
 32
 ἐν νηὶ πλέων wrongly suspected by Herwerden.
 
 
+❦
 
 33
 ἀμελῶν] ἀμελοῖ Arnim.
 
 
+❦
 
 34
 ἀργός Jacobs: ἄγριος.
 
 
+❦
 
 35
 οὐδὲ] οὔτε Emperius.
 
 
+❦
 
 36
 ὕδατι] δᾳδί Baguet, χρίματι Naber.
 
 
+❦
 
 37
 εἴωθε Emperius: εἰώθει.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Oct 12

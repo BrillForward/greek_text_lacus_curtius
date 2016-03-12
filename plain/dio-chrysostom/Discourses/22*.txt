@@ -1,4 +1,116 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος κγ´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p292
+22. ΠΕΡΙ ΕΙΡΗΝΗΣ ΚΑΙ ΠΟΛΕΜΟΥ
+	
+
 1 Πολλὰ μὲν καὶ ἄλλα εὕροι τις ἂν καὶ ξύμπαντα ἀτεχνῶς τὰ ἔργου τινὸς ἔχόμενα καὶ πράξεως κοινὰ τοῖς φιλοσόφοις, καὶ ῥήτορσιν ὅσοι μὴ ἀγοραῖοι μηδὲ μίσθαρνοι, πρὸς χρήματα ὁρῶντες μόνον καὶ τὰς ἰδιωτικὰς ἀμφιλογίας περὶ συμβολαίων ἢ τινων δανείων ἐπὶ τόκῳ1 ἀλλὰ2 δημοσίᾳ συμβουλεύειν καὶ νομοθετεῖν ἀξιούμενοι· καθάπερ, οἶμαι, Περικλῆς καὶ Θουκυδίδης Ἀθήνησι καὶ Θεμιστοκλῆς ἔτι πρότερον καὶ Κλεισθένης, καὶ Πεισίστρατος ἕως ἔτι ῥήτωρ καὶ δημαγωγὸς ἠνείχετο καλούμενος· 2 Ἀριστείδην μὲν γὰρ καὶ Λυκοῦργον καὶ Σόλωνα καὶ Ἐπαμεινώνδαν, καὶ εἴ τις ἕτερος τοιοῦτος, φιλοσόφους3 ἐν πολιτείᾳ θετέον ἢ ῥήτορας κατὰ τὴν γενναίαν τε καὶ ἀληθῆ ῥητορικήν· λέγω δὲ οἷον περί τε ἀγωγῆς τῶν νέων συμβουλεύοντας καὶ νομοθετοῦντας, ὥσπερ
 
 
@@ -25,43 +137,152 @@ p298τυγχάνουσιν· ὥστε ἂν τις αὐτοὺς παρακα�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 δανείων ἐπὶ τόκῳ added by Cohoon, τοιούτων by Reiske.
 
 
+❦
 
 2
 ἀλλὰ added by Arnim.
 
 
+❦
 
 3
 φιλοσόφους Morel: φιλόσοφος.
 
 
+❦
 
 4
 πολεμικῶν Emperius: πολεμίων.
 
 
+❦
 
 5
 ἐπονομασθέντα Reiske: ἐπονομάσαντα.
 
 
+❦
 
 6
 περὶ added by Emperius.
 
 
+❦
 
 7
 βασιλείᾳ Reiske: βασιλεῖ.
 
 
+❦
 
 8
 τὸ added by Pflugk.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+13 Mar 08

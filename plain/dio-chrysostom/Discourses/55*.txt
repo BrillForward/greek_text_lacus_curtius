@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος νδ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος νϝ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p380
+54. ΠΕΡΙ ΟΜΗΡΟΥ ΚΑΙ ΣΩΚΡΑΤΟΥΣ
+	
+
 1 Ἐπεὶ φαίνῃ καὶ τἄλλα Σωκράτους ὢν ἐπαινέτης καὶ τὸν ἄνδρα ἐκπληττόμενος ἐν τοῖς λόγοις, ἔχεις μοι εἰπεῖν ὅτου μαθητὴς γέγονε τῶν σοφῶν· ὥσπερ Φειδίας μὲν ὁ ἀγαλματοποιὸς Ἡγίου,1 Πολύγνωτος δὲ ὁ ζωγράφος καὶ ὁ ἀδελφὸς ἄμφω τοῦ πατρὸς Ἀγλαοφῶντος, Πυθαγόρου δὲ Φερεκύδης λέγεται διδάσκαλος γενέσθαι, Πυθαγόρας δὲ Ἐμπεδοκλέους καὶ ἑτέρων· καὶ τῶν ἄλλων δὲ τῶν πλείστων ἔχομεν εἰπεῖν τοὺς διδασκάλους τῶν ἐνδόξων ἀνδρῶν, ὅτῳ ἕκαστος συγγενόμενος λόγου ἄξιος ἐγένετο, δίχα γε Ἡρακλείτου τοῦ Ἐφεσίου καὶ Ἡσιόδου τοῦ Ἀσκραίου. ὁ μὲν γάρ φησιν ποιμαίνων ἐν τῷ Ἑλικῶνι παρὰ τῶν Μουσῶν λαβεῖν2 ἐν δάφνης ὄζῳ τὴν ποίησιν, ἵνα μὴ πράγματα ἔχοιμεν ζητοῦντες αὐτοῦ τὸν διδάσκαλον· 2 Ἡράκλειτος δὲ ἔτι γενναιότερον αὐτὸς ἐξευρεῖν3 τὴν τοῦ παντὸς φύσιν ὁποῖα τυγχάνει οὖσα, μηδενὸς διδάξαντος,
 
 
@@ -72,10 +189,34 @@ p390τούτῳ καὶ μάλιστα ὀνήσων τοὺς ἀκούοντα
 15 Ὅταν δὲ περὶ τοῦ Πανδάρου, ὡς συνέχεε τὰς σπονδάς, ἐλπίσας δῶρα παρὰ Ἀλεξάνδρου τοῦ Πριάμου, καὶ οὔτε ἀπέκτεινε τὸν Μενέλεων βαλών, καίτοι τοξότης ἱκανὸς εἶναι δοκῶν, καὶ παραβὰς τὰ ὅρκια τοὺς Τρῶας ἀθυμοτέρους ἐποίησε πρὸς τὸν πόλεμον μεμνημένους ἀεὶ τῆς ἐπιορκίας·
 
 
+
+
+
+νῦν δ᾽ ὅρκια πιστὰ
+			
+ψευσάμενοι μαχόμεσθα· τῷ οὔ νύ τι κάλλιόν ἐστι·
+		
+
+
+
 16 καὶ ὃν τρόπον ἀπέθανεν οὐ μετὰ πολὺ τὴν γλῶτταν ἀποτμηθείς, πρὶν ἢ καὶ λόγῳ φῆσαι τὸν Ἀλέξανδρον αὐτῷ χάριν εἰδέναι· ταῦτα διεξιὼν οὕτως ἐπιμελῶς ὑπὲρ ἄλλου τοῦ δοκεῖ λέγειν ἢ δωροδοκίας καὶ ἀσεβείας καὶ τὸ ξύμπαν ἀφροσύνης; ὃς καὶ τοῖς βέλεσι κατηρᾶτο καὶ ἠπείλει διακλάσειν αὐτὰ καὶ κατακαύσειν, ὡς φοβουμένων αὐτὸν τῶν βελῶν.
 
 	
 17 Ὅταν δὲ περὶ Ἀσίου τοῦ Ὑρτάκου, ὅτι τοῦ στρατηγοῦ κελεύσαντος ἔξω τῆς τάφρου καταλιπεὶν τοὺς ἵππους μόνος οὐχ ὑπήκουσεν,
+
+
+
+
+
+ἀλλὰ σὺν αὐτοῖσιν πέλασεν νήεσσι θοῇσι
+			
+νήπιος· οὐδ᾽ ἄρ᾽ ἔμελλε, κακὰς ὑπὸ κῆρας ἀλύξας,
+			
+ἵπποισιν καὶ ὄχεσφιν ἀγαλλόμενος παρὰ νηῶν
+			
+ἂψ ἀπονοστήσειν προτὶ Ἴλιον ἠνεμόεσσαν·
+		
+
 
 
 18 εἰς τοσαύτην δυσχωρίαν τάφρου τε καὶ τείχους καὶ νεὼν εἰσελαύνων, ὅπου γε μηδὲ τοῖς πεζοῖς συνήνεγκε καταληφθεῖσιν ὑπὸ τῶν ἐναντίων, ἀλλὰ ὀλίγης ἐκβοηθείας γενομένης διεφθάρησαν οἱ πλείους·
@@ -101,100 +242,123 @@ p396πολυτελεῖ ἐσθῆτι καὶ ἔπινεν ἐκ χρυσῶν
 
 p398βυρσέων ἐμέμνητο καὶ σκυτοτόμων· εἰ δὲ Λυσικλεῖ διαλέγοιτο,18 ἀμνίων καὶ κωδίων, Λύκωνι δέ, δικῶν καὶ συκοφαντημάτων,19 Μένωνι δὲ τῷ Θετταλῷ περὶ ἐραστῶν καὶ ἐρωμένων.20
 
+
+The Loeb Editor's Notes:
+	
+
 1
 Ἡγίου O. Müller: ἦπου or ἵππου.
 
 
+❦
 
 2
 λαβεῖν Arnim: ἔλαβεν.
 
 
+❦
 
 3
 ἐξευρεῖν Reiske: ἐξεῦρε or ἐξεῦρεν.
 
 
+❦
 
 4
 After ἐμάνθανε Davis deletes λιθοξόος.
 
 
+❦
 
 5
 Οὐκ added by Warmington.
 
 
+❦
 
 6
 αὐτὸς Arnim: αὐτοῦ or αὑτοῦ.
 
 
+❦
 
 7
 κακίας καὶ περὶ Arnim: περὶ κακίας καὶ.
 
 
+❦
 
 8
 τοὺς deleted by Dindorf.
 
 
+❦
 
 9
 ἵν᾽ ἀνθρώπους ὠφελοῖ Arnim: ἀνθρώπους ὠφελεῖ.
 
 
+❦
 
 10
 ὄχλον] ὕθλον Meiser.
 
 
+❦
 
 11
 ᾤετο Geel: ὡς τὸ or ὡς τότε.
 
 
+❦
 
 12
 τὴν θάλατταν] τὸν χάρακα Emperius.
 
 
+❦
 
 13
 σὺν Geel: ἐν.
 
 
+❦
 
 14
 καὶ Geel: ἢ.
 
 
+❦
 
 15
 οὐχ ὡς ἔνιοι τῶν νῦν after ἀκόλαστος deleted by Crosby. Arnim retains, but suspects a lacuna following the phrase.
 
 
+❦
 
 16
 ὅμως] ὁμοίως Casaubon, τέλος Arnim.
 
 
+❦
 
 17
 καὶ τοῦτον] τοῦτον καὶ Arnim.
 
 
+❦
 
 18
 προβάτων καὶ καπήλων after διαλέγοιτο deleted by Hermann. Geel reads τῷ προβατοκαπήλῳ.
 
 
+❦
 
 19
 ἀμνίων καὶ κωδίων, Λύκωνι δέ, δικῶν καὶ συκοφαντημάτων Geel: γλύκωνι δέ, δικῶν καὶ συκοφαντημάτων καὶ ἀμιδίων καὶ κωδίων.
 
 
+❦
 
 20
 οὐ μέντοι ἀλλὰ καὶ ἄλλων ἐνίοτε παραδειγμάτων εὐπόρει, φίλους μὲν ὀνομάζων καὶ φιλίαν, ὅτε πρὸς Λύσιν διαλέγοιτο, περὶ σωφροσύνης δὲ Χαρμίδῃ διαλεγόμενος after ἐρωμένων deleted by Wilamowitz: Nay, but he had plenty of other illustrations at times, for he used to name friends and friendship
@@ -202,3 +366,101 @@ After ἐμάνθανε Davis deletes λιθοξόος.
 
 
 whenever he conversed with Lysis, but when he conversed with Charmides, it was about self-control.
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+28 Jun 12

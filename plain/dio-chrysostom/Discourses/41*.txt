@@ -1,4 +1,116 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος μβ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p150
+41. ΠΡΟΣ ΑΠΑΜΕΙΣ ΠΕΡΙ ΟΜΟΝΟΙΑΣ
+	
+
 1 Ὅτι μὲν ὑμεῖς, ὦ βουλὴ καὶ τῶν ἄλλων οἱ παρόντες οἱ μετριώτατοι, πρᾴως πρὸς ἐμὲ καὶ φιλικῶς ἔχετε, δοκῶ μοι τοῦτο γιγνώσκειν. αὐτός τε γὰρ ἐμαυτὸν οἶδα περὶ πολλοῦ ποιούμενον τὴν παρ᾽ ὑμῶν1 εὔνοιαν καὶ μηδέποτε μηδὲν ἐναντίον μήτε εἰπόντα μήτε πράξαντα, καὶ ὑμεῖς εὐθὺς ἐμὲ ἀφικόμενον ἐτιμήσατε δημοσίᾳ, ψήφισμά τι2 πέμψαντες, συνηδόμενοι τῆς καθόδου καὶ παρακαλοῦντες ἐπιδημῆσαι πρὸς αὑτούς. 2 καὶ ἴσως οὐδὲν ἐποιεῖτε θαυμαστόν· οὐ γὰρ μόνον αἱ λοιπαὶ πόλεις, ἀλλὰ καὶ τῶν ἰσοτίμων ὑμῖν αἱ πλεῖσται σχεδόν, ὅπου γέγονα, καὶ πολιτείας καὶ βουλῆς καὶ τῶν πρώτων τιμῶν οὐδὲν δεομένῳ μετέδωκαν, οὐκ ἀνωφελῆ σφισι3 νομίζοντες οὐδὲ ἀνάξιον τιμᾶσθαι. τὸ δὲ ὑμέτερον οὐκ ἔστιν ἀλλότριον ἀλλ᾽ ὡς ἂν εὐνοίᾳ καὶ χάριτι πατρίδος τιμώσης πολίτην αὑτῆς.4 τὸ δὲ εἶναί τινας, ὡς ἂν ἐν δήμῳ, τῶν ἐνθάδε ἐμοὶ σχεδὸν μὴ σφόδρα ἡδομένους οὐκ ἂν θαυμάσαιμι
 
 
@@ -46,133 +158,260 @@ p162δὲ ἥδιον τὸ εὐτυχεῖν ἢ ὅσοι μὴ μόνον α
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ὑμῶν Morel: ὑμῖν.
 
 
+❦
 
 2
 ψήφισμά τι Capps: ψηφίσματι.
 
 
+❦
 
 3
 ἀνωφελῆ σφισι Selden: ἀνωφελῆς φησὶ M, ἀνωφελῆ φησὶ UB.
 
 
+❦
 
 4
 αὑτῆς Emperius: αὐτης.
 
 
+❦
 
 5
 γὰρ Reiske: δὲ.
 
 
+❦
 
 6
 τῆς added by Wendland.
 
 
+❦
 
 7
 Following this sentence the MSS. read: τὸ γὰρ ἀπωτέρω δυοῖν βαθμοῖν ζητεῖν τὸ γένος οὐδαμῶς ἐπιεικές. οὐδεὶς γὰρ οὕτω τό γε ἀληθές ἐξ οὐδεμιᾶς εὐρεθήσεται πόλεως, For it is not at all suitable to try to trace one's birth farther back than two degrees, since by doing so no one, in truth, will be found to come from any city. This Crosby deletes as an interpolation.
 
 
+❦
 
 8
 τοῦτον added by Crosby.
 
 
+❦
 
 9
 ἐπήκουσα] ὑπήκουσα Geel.
 
 
+❦
 
 10
 ὁπότ᾽ ἔδει Crosby: ὁπότε δεῖ.
 
 
+❦
 
 11
 προτέρων with UBT: πρότερον.
 
 
+❦
 
 12
 ζητημάτων] ζηλωμάτων Geel, ἐγκλημάτων Emperius.
 
 
+❦
 
 13
 After φίλους Casaubon deletes δεῦρο.
 
 
+❦
 
 14
 πρὸς τοὺς with U corr.] τοὺς BTM.
 
 
+❦
 
 15
 After οὕτω Emperius adds καὶ.
 
 
+❦
 
 16
 αὐτοῖς Crosby: τοῖς.
 
 
+❦
 
 17
 ἀλλήλοις deleted by Arnim.
 
 
+❦
 
 18
 ἢ τὸν ἀέρα Reiske: ἢ τόνδε UB, ἧττον δὲ M.
 
 
+❦
 
 19
 ἔχθρα Reiske: ἔχθραν.
 
 
+❦
 
 20
 παρενοχλεῖ Selden: παρὸν ἐνοχλεῖ M, παρὼν ἐνοχλεῖ UB.
 
 
+❦
 
 21
 τοὺς πολλοὺς] τοὺς τοιούτους Geel.
 
 
+❦
 
 22
 βλάπτεσθαι Emperius: ἀνάπτεσθαι.
 
 
+❦
 
 23
 πόλιν Reiske: ἰδιώτην.
 
 
+❦
 
 24
 σύμβουλος] σύμβολος Arnim.
 
 
+❦
 
 25
 οὗτος καὶ σύμβολος Emperius: οὗτος σύμβουλος M, οὗτος ὁ σύμβουλος UB.
 
 
+❦
 
 26
 καὶ deleted by Emperius.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+27 Mar 12

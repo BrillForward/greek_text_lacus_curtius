@@ -1,4 +1,130 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Βιβλίον δ´
+				
+Μέρος β´
+				
+
+
+
+This webpage reproduces a section of
+				
+
+
+
+The Buildings
+				
+
+of
+				
+
+Procopius
+				
+
+
+
+published in the
+				
+Loeb Classical Library,
+				
+1940
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Βιβλίον ε´
+				
+
+
+
+
+
+
+
+(Vol. III)
+ΠΡΟΚΟΠΙΟΥ ΚΑΙΣΑΡΕΩΣ
+	
+ΠΕΡΙ ΚΤΙΣΜΑΤΩΝ
+	
+
+
+p278
+ΒΙΒΛΙΟΝ Δ´
+	
+(Μέρος γ´)
+	
+
 7
 1 Τὰ μὲν οὖν Ἰλλυριῶν ὀχυρώματα παρὰ ποταμὸν Ἴστρον ταύτῃ πη ἔχει. ἐπὶ Θρᾴκης δὲ νῦν ἰτέον ἡμῖν τὰ ἐρύματα, ὅσα δὴ παρὰ τὴν ἐκείνῃ ἀκτὴν Ἰουστινιανῷ βασιλεῖ εἴργασται. 2 οὐ γάρ μοι ἀπὸ τρόπου ἔδοξεν εἶναι, ἅπασαν πρότερον περιηγησαμένῳ τὴν ταύτῃ ἠϊόνα οὕτω δὴ ἐπελθεῖν καὶ τὰ κατὰ τὴν μεσόγαιαν αὐτῷ πεπραγμένα. 3 πρῶτον μὲν οὖν ἐπὶ Μυσοὺς ἐνθένδε ἴωμεν, οὕσπερ ἀγχεμάχους οἱ ποιηταὶ καλοῦσιν· ἐπεὶ καὶ χώραν τὴν Ἰλλυριοῖς ὅμορον ἔχουσι. 4 μετὰ τὸν χῶρον οὖν ὅνπερ Λουκερναριαβοῦργον καλοῦσι, Σεκούρισκα τὸ φρούριον ᾠκοδομήσατο Ἰουστινιανὸς βασιλεύς, καινουργήσας αὐτός. 5 ἐπέκεινά
 
@@ -500,261 +626,415 @@ p313Ἴστρον, κἀν τῇ μεσογείᾳ, οὕτως·
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 So Maltretus: Μαζεντίου V.
 
 
+❦
 
 2
 Κυντῶν Haury: Κυιντόν.
 
 
+❦
 
 3
 So Haury: τρασμακαρίσκας V, τρισμακαρίας A.
 
 
+❦
 
 4
 πεπονθότα V: πεπονηκότα A.
 
 
+❦
 
 5
 τῆς V, τε A.
 
 
+❦
 
 6
 ὀνομάζουσι V, ὀνομάζεται A.
 
 
+❦
 
 7
 ἐρῶν V, λέξων A.
 
 
+❦
 
 8
 οὗτος A, οὕτως V.
 
 
+❦
 
 9
 μυλίτας Haury: μυλίας V, om. A.
 
 
+❦
 
 10
 λίμνην V, ἠιόνα A.
 
 
+❦
 
 11
 ἡ λίμνη A, τὴν λίμνην V.
 
 
+❦
 
 12
 τόσον δὲ στενὴ A, τοσόνδε V.
 
 
+❦
 
 13
 ζευγνύων V, ξυνδέων A.
 
 
+❦
 
 14
 ξυνδιεφθείροντο Haury: διεφθείροντο.
 
 
+❦
 
 15
 πεπονθότα V: πεπονηκότα A.
 
 
+❦
 
 16
 ὑποκείμενον V: ἀποκείμενον A.
 
 
+❦
 
 17
 πύργων V: ἔργων A.
 
 
+❦
 
 18
 ταὐταº Haury: ταῦτα.
 
 
+❦
 
 19
 χωρία V: χωρία ξυμβαίνει A.
 
 
+❦
 
 20
 δυοῖν Haury: δυεῖν.
 
 
+❦
 
 21
 οὐδὲ Haury: οὔτε.
 
 
+❦
 
 22
 So V; ἐτεκτήνατο μίαν ἐκ τοῦ ἐδάφους A.
 
 
+❦
 
 23
 ἀπόχρη V: ἀπέχρη A.
 
 
+❦
 
 24
 ἐντὸς V: om. A.
 
 
+❦
 
 25
 σηλυβρίας V: μεσημβρίας A.
 
 
+❦
 
 26
 ἦν added by Haury.
 
 
+❦
 
 27
 ἐπ᾽ added by Haury.
 
 
+❦
 
 28
 τύχη V: τύχοι A.
 
 
+❦
 
 29
 ὑπερανεστηκὸς V: ἐπανεστηκὸς A.
 
 
+❦
 
 30
 κατηκόων V, A: κατοικούντων corrector in V.
 
 
+❦
 
 31
 αὐτῷ V: αὐτὸ A.
 
 
+❦
 
 32
 ἀνειλημμένη V: om. A.
 
 
+❦
 
 33
 τῇ Haury: τῷ.
 
 
+❦
 
 34
 οὓς μώλους καλοῦσιν after πεποίηται deleted by Haury.
 
 
+❦
 
 35
 ἐντέθειται χρῆμα V: σχῆμα ἐντέθειται A.
 
 
+❦
 
 36
 αὑτοῦ Dewing: αὐτοῦ MSS., editors.
 
 
+❦
 
 37
 εἰσιν Maltretus: ἐστιν V.
 
 
+❦
 
 38
 πρόβολοις: Haury would prefer περιβόλοις.
 
 
+❦
 
 39
 ἐς added by Haury.
 
 
+❦
 
 40
 ἀφ᾽ Braun: ὑφ᾽.
 
 
+❦
 
 41
 ἀποκειμένην V: ὑποκειμένην corrector in V.
 
 
+❦
 
 42
 ἔστι V: ἔτι A.
 
 
+❦
 
 43
 Here the MSS. except A have: Ὅσα φρούρια ὁ θειότατος ἡμῶν βασιλεὺς Ἰουστινιανὸς ἔκτισεν ἐν χώρᾳ τῇ καλουμένῃ Εὐρώπῃ καὶ ᾽Ροδόπῃ καὶ Θράκῃ καὶ Αἱμιμόντῳ οὕτως. Haury and editors omit.
 
 
+❦
 
 44
 Bessapara Itin. Ant. 136.3.
 
 
+❦
 
 45
 Itin. Ant. 231.5.
 
 
+❦
 
 46
 Burdipta Itin. Ant. 137.2.
 
 
+❦
 
 47
 Burtudizo Itin. Ant. 230.4.
 
 
+❦
 
 48
 Or Γητριστάοι MSS.
+❦
 
 49
 Odisso, Itin. Ant. 228.3.
 
 
+❦
 
 50
 Cf. Itin. Ant. 228.4.
 
 
+❦
 
 51
 Cf. Müller, F. G. H. III.674.16.
 
 
+❦
 
 52
 Cf. Itin. Ant. 224.4.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Περὶ Κτισμάτων
+			
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+29 Apr 12

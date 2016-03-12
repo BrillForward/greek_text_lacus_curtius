@@ -1,4 +1,118 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος κη´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+Vol. IIp374
+29. ΜΕΛΑΓΚΟΜΑΣ Α, ΤΗΙ ΤΑΞΕΙ Β
+	
+
 1 Ἀλλ᾽ ἐμοί, ὦ ἄνδρες, οὐδ᾽ ὁ τι εἴπω ἔπεισιν ὑπὸ λύπης ἅμα καὶ ἐκπλήξεως τοῦ αἰφνιδίου πάθους. οὐ γὰρ μόνον διὰ τὴν ἀρχὴν ἣν ἔχω μᾶλλον ἑτέρου μοι τῶν πολιτῶν οἰκεῖον τὸ συμβεβηκός, ἀλλὰ καὶ ἰδίᾳ μοι φίλος ἦν Μελαγκόμας ὑπὲρ ἅπαντας, ὥσπερ καὶ ὑμῶν ἐπίστανται οἱ πλείους. καὶ ἔμοιγε ἄτοπον φαίνεται τὸ1 ἐπὶ τοῖς τεθνεῶσιν ἔθος, ὅτι τοῖς πλεῖστα2 λυπουμένοις μάλιστα προσήκειν δοκεῖ τὸ ἐπ᾽ αὐτοῖς λέγειν. οἱ γὰρ σφοδρότατα ἀνιώμενοι ἀδύνατοι λέγειν ὑπ᾽ αὐτοῦ τούτου εἰσίν. 2 ἔτι δὲ καὶ ἡλικίας ἐν τούτῳ εἰμί, ἐν ᾧ ἡ μὲν τοῦ λόγου δύναμις ἧττον ἅπασιν ὑπάρχει, τὸ δὲ χαίρειν καὶ τὸ λυπεῖσθαι ἰσχυρότατον γίγνεται. ἀλλ᾽ ἐπειδὴ τιμιώτερος μὲν στρατηγοῦ ἔπαινος ἐπὶ στρατιώτῃ ἀγαθῷ τελευτήσαντι, τιμιώτερος δὲ παντὸς ἄρχοντος ἢ ἰδιώτου, κἀμοὶ λεκτέον τῆς ἀρχῆς ἕνεκεν ὡς ἂν δύνωμαι. πρέποι δ᾽ ἂν τῇ ἐκείνου ἀρετῇ καὶ τῇ ἐμῇ νεότητι μηδὲν μακρὸν ἀπαιτεῖν μηδὲ ἀκριβῆ μᾶλλον ἢ γενναῖον τὸν ἔπαινον.
 
 	p376
@@ -72,133 +186,260 @@ p392ὁ γὰρ εὐκλεοῦς δόξης τυχὼν μεστὸς ἄπε�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 φαίνεται τὸ Emperius: φαίνετο M, ἐφαίνετο τὸ UB.
 
 
+❦
 
 2
 πλεῖστα Emperius: ἥκιστα.
 
 
+❦
 
 3
 For ἐπῆλθεν Reiske proposed ἐπῆνθεν.
 
 
+❦
 
 4
 ἑωράθη Emperius: ὡράθη UB, ἐπράθη M.
 
 
+❦
 
 5
 καὶ σωφροσύνη added by Dindorf.
 
 
+❦
 
 6
 οὕτως Stobaeus: ὅμως.
 
 
+❦
 
 7
 ἀμφίλογον Reiske: ἀναμφίλογον.
 
 
+❦
 
 8
 γιγνώσκεται Emperius: γίγνεται.
 
 
+❦
 
 9
 ταύτῃ Wifstrand: ταύτης.
 
 
+❦
 
 10
 πολεμικὸν Arnim: πολιτικὸν M, πολέμων UB.
 
 
+❦
 
 11
 ἀήττητον Casaubon: αὐτὸν.
 
 
+❦
 
 12
 ἄρ᾽ Cohoon: ἂν, which Reiske deleted.
 
 
+❦
 
 13
 φαυλοτάτου Reiske: φαυλοτέρου.
 
 
+❦
 
 14
 κἀκεῖ Emperius: ἐκεῖ.
 
 
+❦
 
 15
 ἰσχυρότερος Emperius: ἰσχυρότατος.
 
 
+❦
 
 16
 οἶμαι Emperius: ἂν μοι.
 
 
+❦
 
 17
 καὶ Capps: ἢ.
 
 
+❦
 
 18
 δὲ added by Reiske.
 
 
+❦
 
 19
 Selden proposed to delete καὶ.
 
 
+❦
 
 20
 ὂν added by Capps.
 
 
+❦
 
 21
 γενέσθαι Emperius: γίνεσθαι.
 
 
+❦
 
 22
 καίτοι Capps: καὶ.
 
 
+❦
 
 23
 καὶ τοιούτῳ Sonny: καίτοι αὐτῷ τούτῳ.
 
 
+❦
 
 24
 Φάωνος Wifstrand: Ἰασίωνος Emperius: ἰάσονος.
 
 
+❦
 
 25
 οἵδε Arnim: οἶδε M, οἱ UB.
 
 
+❦
 
 26
 ἄνδρας Morel: ἀνδρὸς.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+25 Jun 12

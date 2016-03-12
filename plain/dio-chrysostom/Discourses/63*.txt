@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ξβ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1951
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ξδ´
+				
+
+
+
+
+
+(Vol. V)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p34
+63. ΠΕΡΙ ΤΥΧΗΣ ΠΡΩΤΟΣ ΛΟΓΟΣ
+	
+
 1 Οἱ ἄνθρωποι ἐοίκασι πρὸς τὴν τύχην διακεῖσθαι ὃν τρόπον οἱ πλέοντες πρὸς τοὺς ἀνέμους τοὺς φορούς·1 ἄσμενοι γὰρ προσκαρτεροῦσι τῷ δρόμῳ, καὶ2 οἷς ἂν ὁ ἄνεμος παρῇ, ἐκεῖνοι3 ἦλθον ὅπου ἤθελον, οἱ δὲ ἀπολειφθέντες ἐν πελάγει μέσῳ μάτην ὀδύρονται· οὕτως οὖν καὶ τῆς τύχης παρούσης μὲν χαίρειν καὶ ἥδεσθαι τοὺς ἀνθρώπους, μὴ παρούσης δὲ λύπην ἔχειν καὶ ἀπορίαν. πάντα γὰρ ἐκ τῆς δαίμονος ταύτης· καὶ γὰρ τὸ ἄπορον εὔπορον φαίνεται4 καὶ τὸ ἀσθενὲς ἰσχυρὸν καὶ τὸ αἰσχρὸν καλὸν καὶ ἡ πενία γίγνεται πλοῦτος.
 
 	
@@ -27,83 +144,200 @@ p38ψαύοντες ἀνὰ μέρος τῆς γῆς. καὶ ὁ ἡνίοχ
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 φορούς Reiske: σφοδρούς.
 
 
+❦
 
 2
 καὶ deleted by Arnim.
 
 
+❦
 
 3
 ἐκεῖνοι] ἐκεῖ τε Arnim.
 
 
+❦
 
 4
 φαίνεται deleted by Arnim.
 
 
+❦
 
 5
 αἰωρουμένη Emperius: γεωργουμένη.
 
 
+❦
 
 6
 περίεισιν with UBM: περιΐησιν PH, περίεστιν Emperius.
 
 
+❦
 
 7
 εὐδοκιμεῖ PH: ἐπαινεῖν δοκεῖ UBM, εὐπορεῖ Sonny.
 
 
+❦
 
 8
 οὐκ ἦλθε] οὐ προῆλθε Gasda.
 
 
+❦
 
 9
 τῳ Bally: τῷ.
 
 
+❦
 
 10
 διαρριπτεῖ· καὶ] διαρριπρεῖται· Reiske.
 
 
+❦
 
 11
 τοῦτο γῆς . . . τύχης deleted by van Herwerden.
 
 
+❦
 
 12
 ὡς γὰρ Budé, ὡς δὲ Wilamowitz: ὥσπερ.
 
 
+❦
 
 13
 τοῖς ῥήτορσιν ἠδικήθησαν Capps, εἰς ῥήτορας ἠδίκησαν Emperius: εἰς ῥήτορας ἠδικήθησαν.
 
 
+❦
 
 14
 ὁπόταν Dindorf: ὁπότε ἂν.
 
 
+❦
 
 15
 ὑπεφέροντο Arnim: ἐπεφέροντο or ἀνεφέροντο.
 
 
+❦
 
 16
 τῇ γραφῇ Reiske: τῆς γραφῆς.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+30 Mar 12

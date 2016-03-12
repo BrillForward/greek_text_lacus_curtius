@@ -1,4 +1,109 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+This webpage reproduces part of
+				
+
+
+
+The Months (de Mensibus)
+				
+
+of
+				
+
+John Lydus
+				
+
+
+
+
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+
+
+Ἰωάννου τοῦ Λυδοῦ
+	
+Περὶ μηνῶν
+	
+
+
+p126
+Μάϊος
+	
+
 76
 
 Οὐ μικρὰν ἐν ἀριθμοῖς εδεικνθμεν τὴν τῆς τετράδος1 δύναμιν, ἣν ἄν τις καὶ τετρακτύν καὶ πυραμίδα καλέσοι· τετρακτὺν μὲν κατὰ τὸν τῶν στοιχείων ὅρον, πυραμίδα δὲ κατὰ τὸν ἐν θεωρίᾳ λόγον· ἡ γὰρ πυραμὶς ὑπὸ τεσσάρων βάσεων καὶ τεσσάρων γωνιῶν μόνη περιεχομένη, καὶ πρώτη τριχῆ διαστάτη κατὰ τὸ στοιχειωδέστατον τοῦ τριγώνου ἐπίπεδον, ὡς ὁ Πλάτων
@@ -16,7 +121,23 @@ p128ὀνομασθῆναι τὸν Μάϊον πρὸς ἕτερον βλέπ
 p129κινήσει γὰρ τοῦ ὑποβρυχίου ὕδατος γίνεσθαι σάλον τοῖς φιλοσόφοις δοκεῖ· πρώτη δὲ ἑορτῇ τοῦ Μαΐου παρὰ Ῥωμαίοις αἱ περὶ σεισμῶν ἱκεσίαι. ταύτῃ γὰρ Ἄτλαντος παῖδα τὴν Μαῖαν οἱ μυθικοὶ ποιοῦσι, καὶ ἔφορον δὲ τῶν ὑδάτων τὸν Ἑρμῆν εἶναι παραλαμβάνομεν, καὶ διὰ ταύτην τὴν αἰτίαν ἐν τοῖς αὐτοῦ πηγαὶ ἀνατίθενται ἢ φρέατα ὀρύττεται. εἰσὶ δὲ οἵ φασιν Διὸς καὶ Μαίας τὸν Ἑρμῆν εἶναι ἀλληγορικῶς υἱόν, νοῦν μὲν εἶναι τὸν Δία, Μαῖαν δὲ τὴν φρόνησιν, παῖδα δὲ ἐξ ἀμφοῖν Ἑρμῆν λόγιον αἰνιττόμενοι, πάντων δὲ νεώτατον εἰργάσαντο, ἅτε δὴ μὴ γηράσκοντος τοῦ Λακεδαιμονίου· ἔτι μὴν ὠκύτατον πεποίηνται τοῦτον ταρσώσαντες πτεροῖς, νοῦ ὀξύτητα καὶ τάχος Λακεδαιμονίου διὰ τῆς τοιᾶσδε τέχνης αἰνιττόμενοι. ὁ γοῦν ποιητὴς φησιν·
 
 
+
+
+
+ἔπεα πτερόεντα,
+		
+
+
+
 καὶ
+
+
+
+
+
+ὡσεὶ πτερὸν ἠὲ νόημα
+		
+
 
 
 εἶτα δὲ τετράγωνον σχήματι Ἕλληνες ἀναπλάττουσι τοῦτον, τεκμήριον μέγιστον παρεχόμενοι λόγον εἶναι τοῦτον, καὶ λόγον ἀληθῆ. ἔστι γὰρ καὶ λόγου σχήματα, ὁ μὲν ψευδὴς λόγος . . ., ὁ δὲ ἀπατηλὸς πολυγωνότερος,
@@ -97,149 +218,177 @@ p136καὶ ἀκραιφνέστατον. κατὰ δὲ ἱστορίαν Μ�
 
 
 
+
+The Editor's Notes:
+	
+
 [1]
 cf. Plato Tim. p55a.
 
 
 
+❦
 
 [2]
 Hesiodus Op. et Dies V.802.
 
 
 
+❦
 
 [3]
 Procli comment. in Plat. Alc. I p87 Creuzer
 
 
 
+❦
 
 [4]
 cf. Censor. de die nat. c. 22. Ovidii Fast. ••ed. Merkel p. clxxxii
 
 
 
+❦
 
 [5]
 Hom. Il. Α 201 et passim
 
 
 
+❦
 
 [6]
 Od. η 36
 
 
 
+❦
 
 [nnn]
 cf. Aristoteles Meteor. III.7 p378 Bekker
 
 
 
+❦
 
 [nnn]
 Tages cf. Wachsmuth de ost. p110, 7
 
 
 
+❦
 
 [nnn]
 Empedocles Diels Doxogr. gr. p321a 13
 
 
 
+❦
 
 [nnn]
 Democritus ibid. 16
 
 
 
+❦
 
 [nnn]
 Plato ibid. 10 et 18
 
 
 
+❦
 
 [nnn]
 Heraclitus ibid. p322a 2
 
 
 
+❦
 
 [nnn]
 Plato ibid. 5
 
 
 
+❦
 
 [nnn]
 Stoici ibid. 9
 
 
 
+❦
 
 [nnn]
 heralcitus ibid. p323a 2
 
 
 
+❦
 
 [nnn]
 Chrysippus ibid. 9
 
 
 
+❦
 
 [nnn]
 Posidonius ibid. p324a 4
 
 
 
+❦
 
 [nnn]
 Aristoteles et heraclides Diels Doxogr. gr. p382a 16. Rose Aristot. pseudep. p604
 
 
 
+❦
 
 [nnn]
 Pytheas Doxogr. gr. p383a 1
 
 
 
+❦
 
 [nnn]
 Plato ibid. 5
 
 
 
+❦
 
 [nnn]
 Plato: immo Stato, Doxogr. gr. p421a 1
 
 
 
+❦
 
 [nnn]
 Empedocles ibid. p420a 20
 
 
 
+❦
 
 [nnn]
 cf. Plut. de aud. poet. c. 6 p23c
 
 
 
+❦
 
 [nnn]
 Manetho: cf. frg. 1, F. H. G. II p526
 
 
 
+❦
 
 [nnn]
 Manetho frg. 82, F. H. G. II p615
@@ -247,3 +396,204 @@ Manetho frg. 82, F. H. G. II p615
 
 
 	
+
+Critical Apparatus:
+	
+ 1
+τριάδος B
+❦
+ 2
+γωνεῶν B
+❦
+ 3
+τριχῆ λιαστάτη A, τριχιλιαστάτη B, τριχῆ διαστάτη ci. Nokkius
+
+
+❦
+ 4
+ὅτι ταῖς τῶν προγόνων — τιμῆς ὠνόμασαν S, μάϊος ἀπὸ τοῦ μαιάδος ἐρμοῦ, ὧ καὶ ἀνακεῖται ὡς εἰς τιμὴν τῆς γερουσίας τεθέντος Y, κατὰ τὸν μάϊον τοὺς αὐτῶν προγόνους ῤωμαῖοι τιμῶντες, μαίους δὲ τοὺς προγόνους πατρίως καλοῦσι, μάϊον τὸν μῆνα ἐκ τῆς ἐκείνων τιμῆς ὠνόμασαν. οἱ δὲ ἀπὸ τῆς μαΐας μάϊον τοῦτον ὀνομασθῆναί φασιν H f. 165v
+❦
+ 5
+μετὰ — πάλαι omis. S.
+
+
+❦
+ 6
+ἑαυτὸν  B
+❦
+ 7
+οἱ πάλαι· μάϊον δὲ μῆνα ἐκ τῆς ἐκείνων τιμῆς ὠνόμασαν, πατρίως καλοῦντες τὴν τιμήν· οἱ δὲ X
+❦
+ 8
+ΠΙΑΟΙΝΠΕϹ S, μαίορες scripsi
+
+
+❦
+ 9
+<μητρὸς> add. g0wissowa
+
+
+❦
+ 10
+<αὐτῆς> add. Rr
+❦
+ 11
+ἡ Μαῖα] ἡ omis. B
+❦
+ 12
+ἧκον A
+❦
+ 13
+ἐν τῷ ἀφανεῖ A, ἀφανῆ B
+❦
+ 14
+ἀκυλλίνος B
+❦
+ 15
+αὐτῆς X, τῆς ci. Gu. Kroll, ἀντία ὕλης a0dieterich
+
+
+❦
+ 16
+πρόδου A, προδοῦσα A2B, προόδου ci. Gu. Kroll
+
+
+❦
+ 17
+διατατικοῦ ci. Rr
+❦
+ 18
+πρόδον A
+❦
+ 19
+προσαγορεύεται omis. B
+❦
+ 20
+ὡς καὶ] καὶ omis. B
+❦
+
+ 21
+κόποις A
+❦
+ 22
+τῇ omis. B
+❦
+ 23
+δεσίθεος A, δωσίθεος A2, δοσίθεος B
+❦
+ 24
+ὅτι πλεονάσαντος — ἐγένετο Y, ὅτι πλεονάσαντος — ὀνομάζεται omis. D
+❦
+ 25
+τρόμος τε καὶ G
+❦
+ 26
+<γὰρ> addidi
+
+
+❦
+ 27
+ὅτι τὸ λόγιον — παρεγγυᾶ S
+❦
+ 28
+μῆνα omis. B
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Ἰωάννης Λυδός·
+			
+Περὶ μηνῶν
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+21 May 14

@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος με´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος μζ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p228
+46. ΠΡΟ ΤΟΥ ΦΙΛΟΣΟΦΕΙΝ ΕΝ ΤΗΙ ΠΑΤΡΙΔΙ
+	
+
 1 Ἐγὼ οὐχ οὕτως ἐκπέπληγμαι ἐφ᾽ οἷς ποιεῖτε, ὦ ἄνδρες, τοιούτοις οὖσιν, ἀλλ᾽ ἐπεὶ οὐδεμίαν αἰτίαν ὁρῶ τῆς ὑμετέρας ὀργῆς πρὸς ἐμέ, τοῦτό ἐστι τὸ εἰς ἀπορίαν ἄγον. ὀργὴν μὲν γὰρ δικαίαν ἔστι παραιτήσασθαι ἀνθρώπων, μῖσος δὲ ἄδικον τίς ἂν θεραπεύσαι; ἀξιῶ δὲ ὑμᾶς ἀκοῦσαί μου λέγοντος οὐκ ἐμοῦ ἕνεκα μᾶλλον ἢ ὑμῶν αὐτῶν. εἰ μὲν γὰρ οὐδὲν ἀδικῶ, οὐδὲ ὑμεῖς βούλεσθε δήπου ἀναιτίως μισεῖν τινα τῶν ὑμετέρων πολιτῶν· εἰ δὲ ἀδικῶ, κατ᾽ ἐμοῦ ὁ λόγος ἔσται, οὐχ ὑπὲρ ἐμοῦ· καὶ οὕτως γε μείζω ὑμῖν ὑφέξω τιμωρίαν ἢ αὐτοὶ ζητεῖτε. τὸ γὰρ ἐξελεγχθῆναι πονηρὸν ὄντα τῷ παντὶ δεινότερον τοῦ λευσθῆναι ἢ καταφλεγῆναι. 2 καὶ πρῶτον μὲν μάθετε ὅτι ἂ1 δοκεῖ ὑμῖν φοβερά, οἱ λίθοι καὶ τὸ πῦρ, οὐδενὶ φοβερά ἐστιν, οὐδ᾽ ἐστέ γε τούτοις ἰσχυροί, ἀλλὰ πάντων ἀσθενέστατοι, ἐκτὸς εἰ μή τις ἠρίθμει2 τὴν τῶν λῃστῶν καὶ τῶν μαινομένων δύναμιν. πόλεως δὲ καὶ δήμου ἰσχὺς ἐν ἑτέροις ἐστί, καὶ πρῶτόν γε ἐν τῷ φρονεῖν3 καὶ τὰ δίκαια ποιεῖν.
 
 	p230
@@ -51,116 +168,240 @@ p240ἀλλὰ τούτου γε ἕνεκα πολλὴ ὑμῖν ἀσφάλ�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἃ added by Casaubon.
 
 
+❦
 
 2
 ἠρίθμει] ἀρίθμει Emperius.
 
 
+❦
 
 3
 φρονεῖν] σωφρονεῖν Emperius ex marg. Morel.
 
 
+❦
 
 4
 κατέλιπε Reiske: ἀπέλιπε.
 
 
+❦
 
 5
 αὑτοῦ Emperius: αὐτοῦ.
 
 
+❦
 
 6
 ἀπόχρη τὰ Casaubon: αὐτὸ χρὴ M, χρὴ UB.
 
 
+❦
 
 7
 παραβάλλοντες τοσούτων Arnim, παραβάλλοντες τούτων Reiske: παραβάλλοιτ᾽ ἐνοσούντων M, παραβάλοιθ᾽ ἑνὸς τούτων UB.
 
 
+❦
 
 8a
 8b
 οὔτε Emperius: οὐδὲ.
 
 
+❦
 
 9
 τῷ] deleted by Arnim.
 
 
+❦
 
 10
 τὴν added by Reiske.
 
 
+❦
 
 11
 τοσούτοις] τοιούτοις Reiske.
 
 
+❦
 
 12
 οὔκουν Emperius: οὐκοῦν.
 
 
+❦
 
 13
 ἐν ἀγρῷ αὑτοῦ Emperius: ἢ ἀγρὸν αὐτοῦ.
 
 
+❦
 
 14
 παρὰ τοῦθ᾽ ὁ σῖτος πλέονός ἐστι Casaubon: παρὰ τοῦτο σῖτος πλέονός ἐστι M, ὅτι παρὰ τούτῷ σῖτος πλείων ἐστί UB.
 
 
+❦
 
 15
 μοχθηρός Casaubon: μοχθηρά.
 
 
+❦
 
 16
 ἂν added by Hertlein.
 
 
+❦
 
 17
 χείροσι Morel: χείρον.
 
 
+❦
 
 18
 καὶ added by Reiske.
 
 
+❦
 
 19
 καί τινας Selden: τινὰ καὶ.
 
 
+❦
 
 20
 ἡ λεγομένη] ἐλάττομεν ἢ M, ἡ πλαττομένη Arnim.
 
 
+❦
 
 21
 πράττοιτε Emperius: πράττετε.
 
 
+❦
 
 22
 After καὶ Capps deletes τοὺς.
 
 
+❦
 
 23
 τε Reiske: δὲ.
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Oct 12

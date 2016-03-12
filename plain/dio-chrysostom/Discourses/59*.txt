@@ -1,4 +1,116 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος νη´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p440
+59. ΦΙΛΟΚΤΗΤΗΣ
+	
+
 1 ΟΔΥΣΣΕΥΣ. Φοβοῦμαι μήποτε μάτην κατ᾽ ἐμοῦ φανῶσι ταύτην οἱ σύμμαχοι τὴν δόξαν εἰληφότες ὡς ἀρίστον δὴ καὶ σοφωτάτου τῶν Ἑλλήνων. καίτοι ποία τις ἡ τοιαύτη σοφία καὶ φρόνησις, δι᾽ ἥν τις ἀναγκάζεται πλείω τῶν ἄλλων1 πονεῖν ὑπὲρ τῆς κοινῆς σωτηρίας καὶ νίκης, ἐξὸν ἕνα τοῦ πλήθους δοκοῦντα μηδενὸς ἔλαττον ἐν τούτοις ἔχειν τῶν ἀρίστων; ἀλλὰ γὰρ ἴσως χαλεπὸν εὑρεῖν οὕτω μεγαλόφρον καὶ φιλότιμον ὅτιοῦν ὡς ἀνὴρ πέφυκεν. τοὺς γὰρ φανεροὺς καὶ πλειόνων ἅπτεσθαι τολμῶντας σχεδὸν τούτους ἅπαντες2 θαυμάζομεν καὶ τῷ ὄντι ἄνδρας ἡγούμεθα.
 
 	
@@ -108,68 +220,182 @@ p448θύσαντες κρατήσειν ἔμελλον τῶν πολεμίων
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἄλλων Valckenaer: Ἑλλήνων.
 
 
+❦
 
 2
 ἅπαντες Dindorf: ἅπαντας (πάντες S).
 
 
+❦
 
 3
 ὡς] ὃς UB, ὅτε Casaubon.
 
 
+❦
 
 4
 τοῦ added by Post.
 
 
+❦
 
 5
 ὁράματος οὕτως. τό] ὁράματος. οὕτως τό Hartung.
 
 
+❦
 
 6
 Hartung moves γὰρ so as to follow δοραὶ.
 
 
+❦
 
 7
 εἴη Casaubon: εἰ.
 
 
+❦
 
 8
 μάλα Dindorf, μάλα σὺ Wyttenbach: μάλιστα.
 
 
+❦
 
 9
 Οὐ γὰρ . . . ἡγεμόσιν assigned to Philoctetes by Wilamowitz.
 
 
+❦
 
 10
 πέπονθε Emperius: πεπόνθει.
 
 
+❦
 
 11
 ἔγωγ᾽ ἐν ὅσῃ] ἐν ὅσῃ ἔγωγε Emperius.
 
 
+❦
 
 12
 παρόντων] προσόντων Hartung.
 
 
+❦
 
 13
 ἕλκους added by Emperius.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+20 Mar 08

@@ -1,4 +1,116 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1932
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος θ´
+				
+
+
+
+
+
+(Vol. I)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p376
+8. ΔΙΟΓΕΝΗΣ Η ΠΕΡΙ ΑΡΕΤΗΣ
+	
+
 1 Διογένης ὁ Σινωπεὺς ἐκπεσὼν ἐκ τῆς πατρίδος, οὐδενὸς διαφέρων τῶν πάνυ φαύλων Ἀθήναζε ἀφίκετο, καὶ καταλαμβάνει συχνοὺς ἔτι τῶν Σωκράτους ἑταίρων· καὶ γὰρ Πλάτωνα καὶ Ἀρίστιππον καὶ Αἰσχίνην καὶ Ἀντισθένην καὶ τὸν Μεγαρέα Εὐκλείδην· Ξενοφῶν δὲ ἔφευγε διὰ τὴν μετὰ Κύρου στρατείαν. τῶν μὲν οὖν ἄλλων ταχὺ κατεφρόνησεν, Ἀντισθένει δὲ ἐχρῆτο, οὐκ αὐτὸν οὕτως ἐπαινῶν ὡς τοὺς λόγους οὓς ἔλεγεν, ἡγούμενος μόνους εἶναι ἀληθεῖς καὶ μάλιστα δυναμένους ἄνθρωπον ὠφελῆσαι. 2 ἐπεὶ αὐτόν γε τὸν Ἀντισθένην παραβάλλων πρὸς τοὺς λόγους ἐνίοτε ἤλεγχεν ὡς πολὺ μαλακώτερον, καὶ ἔφη αὐτὸν εἶναι σάλπιγγα λοιδορῶν· αὑτοῦ γὰρ οὐκ ἀκούειν φθεγγομένου μέγιστον. καὶ ὁ Ἀντισθένης ὑπέμενεν αὐτὸν ταῦτα ἀκούων· πάνυ γὰρ ἐθαύμαζε τοῦ ἀνθρώπου τὴν φύσιν. 3 ἔλεγεν οὖν ἀμυνόμενος ἀντὶ τῆς σάλπιγγος τοῖς σφηξὶν αὐτὸν ὅμοιον εἶναι· καὶ γὰρ τῶν σφηκῶν εἶναι τὸν μὲν ψόφον τῶν πτερῶν μικρόν, τὸ δὲ κέντρον δριμύτατον. ἔχαιρεν οὖν τῇ παρρησίᾳ τοῦ Διογένους, ὥσπερ οἱ ἱππικοί, ὅταν ἵππον θυμοειδῆ λάβωσιν, ἄλλως δὲ ἀνδρεῖον καὶ φιλόπονον,
 p378οὐδὲν ἧττον ἀποδέχονται τὸ χαλεπὸν τοῦ ἵππου· τοὺς δὲ νωθροὺς καὶ βραδεῖς μισοῦσι καὶ ἀποδοκιμάζουσιν. 4 ἐνίοτε μὲν οὖν ἐπέτεινεν αὐτόν, ἐνίοτε δὲ ἐπειρᾶτο ἀνιέναι, ὥσπερ οἱ χορδοστρόφοι τὰ νεῦρα τείνουσι, προσέχοντες μὴ ῥαγῇ.
 
@@ -31,6 +143,18 @@ p384εὐωχεῖσθαι, καθάπερ οἶμαι τὰ τῶν κητῶν
 
 	p388
 20 Ἑτέρα δὲ δεινοτέρα μάχη καὶ ἀγών ἐστιν οὐ μικρός, ἀλλὰ πολὺ τούτου μείζων καὶ ἐπικινδυνότερος, ὁ πρὸς τὴν ἡδονήν,13 οὐχ οἵαν Ὅμηρός φησιν,
+
+
+
+
+
+αὖθις δὲ δριμεῖα μάχη παρὰ νηυσὶν ἐτύχθη.
+			
+ὀξέσι δὴ πελέκεσσι καὶ ἀξίναις ἐμάχοντο
+			
+καὶ ξίφεσιν μεγάλοισι.
+		
+
 
 
 οὐχ οὗτος ὁ τρόπος τῆς μάχης· 21 οὐδὲ γὰρ ἄντικρυς βιάζεσθαι τὴν ἡδονήν, ἀλλ᾽ ἐξαπατᾶν καὶ γοητεύειν δεινοῖς φαρμάκοις, ὥσπερ Ὅμηρός φησι τὴν Κίρκην τοὺς τοῦ Ὀδυσσέως ἑταίρους καταφαρμάξαι, κἄπειτα τοὺς μὲν σῦς αὐτῶν, τοὺς δὲ λύκους γενέσθαι, τοὺς δὲ ἄλλ᾽ ἄττα θηρία. τοιοῦτόν ἐστι τὸ χρῆμα τῆς ἡδονῆς, οὐχ ἁπλῶς ἐπιβουλευούσης, ἀλλὰ πάντα τρόπον, διά τε τῆς ὄψεως καὶ ἀκοῆς ἢ ὀσφρήσεως ἢ γεύσεως ἢ ἁφῆς, ἔτι δὲ σιτίοις καὶ ποτοῖς καὶ ἀφροδισίοις διαφθεῖραι πειρωμένης, ὁμοίως μὲν ἐγρηγορότας, ὁμοίως δὲ κοιμωμένους. 22 οὐδὲ γὰρ ὥσπερ πρὸς τοὺς πολεμίους ἔστι14 φυλακὰς καταστήσαντας καθεύδειν, ἀλλὰ μάλιστα δὴ πάντων τότε ἐπιτίθεται, τὰ μὲν αὐτῷ τῷ ὕπνῳ μαραίνουσα καὶ δουλουμένη, τὰ δὲ ἐπιπέμπουσα ὀνείρατα πανοῦργα καὶ ἐπίβουλα, ἀναμιμνῄσκοντα αὐτῆς.
@@ -69,118 +193,242 @@ p398ἐννοήσας δὲ οἶμαι τὸ τοῦ Ἡρακλέους, το�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ὡς Weil: καὶ.
 
 
+❦
 
 2
 δεῖν Aldine edition: δεῖ.
 
 
+❦
 
 3
 ἐπιδημεῖν Reiske: ἀποδημεῖν.
 
 
+❦
 
 4
 ὑπ᾽ ἐκείνων Casaubon: ἐκεῖνοι.
 
 
+❦
 
 5
 καὶ Geel: ἢ.
 
 
+❦
 
 6
 δελφάκων Capps: δελφίνων.
 
 
+❦
 
 7
 αἶγες Jacobs: γυναῖκες.
 
 
+❦
 
 8
 μαλακὸν Ruhnken: μᾶλλον.
 
 
+❦
 
 9
 εὑρήσει by Arnim but before δειλοὺς.
 
 
+❦
 
 10
 ἐκκλίνουσιν Wyttenbach: κρίνουσιν.
 
 
+❦
 
 11
 ἀπέβησαν Reiske: ἐπέβησαν.
 
 
+❦
 
 12
 ὑποχωρῶσι Geel: ἀποχωρῶσι.
 
 
+❦
 
 13
 After ἡδονήν the MSS. have οὐκ ἄντικρυς βιαζομένην, ἀλλ᾽ ἐξαπατῶσαν καὶ γοητεύουσαν δεινοῖς φαρμάκοις, "not using open force but deceiving and enchanting with baleful drugs"; bracketed as an interpolation by Geel.
 
 
+❦
 
 14
 ἔστι Reiske: εἶναι.
 
 
+❦
 
 15
 τὸ added by Reiske.
 
 
+❦
 
 16
 ἄλλο added by Capps.
 
 
+❦
 
 17
 δὴ Capps: δὲ, Wilamowitz would delete κράτιστος δὲ.
 
 
+❦
 
 18
 ἄλλως Emperius: ἄλλους.
 
 
+❦
 
 19
 καὶ before νῦν deleted by Arnim.
 
 
+❦
 
 20
 Wilamowitz, followed by Arnim and Bude, assumes a lacuna after φοβήσας. Cohoon suggests φρενώσας, "Taught him wisdom."
 
 
+❦
 
 21
 τὰ χρυσᾶ ἃ Emperius: ἃ χρυσέα.
 
 
+❦
 
 22
 λόγου added by Cohoon.
 
 
+❦
 
 23
 μόνον added by Reiske.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+28 Jun 12

@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος μβ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος μδ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p174
+43. ΠΟΛΙΤΙΚΟΣ ΕΝ ΤΗΙ ΠΑΤΡΙΔΙ
+	
+
 1 Λυδῷ, φασί, πράγματα οὐκ ἦν, ὁ δὲ ἐξελθὼν ἐπρίατο. οὐκοῦν ὁ μὲν Λυδὸς δικαίως πράγματα εἶχεν αὐτὸς ἐπιθυμήσας, ἐγὼ δὲ οὐκ ἐπιθυμῶν πράγματα ἔχω δι᾽ οὐδὲν ἕτερον ὑπὸ ἀνθρώπων ἀδυνάτων1 καὶ φθονερῶν ἢ ὅτι δοκῶ στέργειν ὑμᾶς καὶ τὰ μὲν εὖ πεποίηκα τὴν πατρίδα, ταῖς πρώταις ἴσην αὐτὴν ἀποδείξας τιμῆς ἕνεκα, τὰ2 δὲ ποιήσω θεοῦ διδόντος. 2 καὶ τοῦτο εἶπον οὐκ ἀλαζονευόμενος ἄλλως — αὐτοὶ γὰρ ἴστε οὐδεπώποτε ὑπὲρ τούτῶν μνησθέντα με ἐν τοσούτοις λόγοις οὓς εἴρηκα ἐν ὑμῖν — ἀλλ᾽ ἀμυνόμενος τοὺς ἐμοὶ καὶ ὑμῖν βασκαίνοντας, ἵνα, ἐὰν μὲν δυνατὸν ᾖ, διαρραγῶσιν, ὃ τῇ πόλει πάσῃ βέλτιστόν ἐστιν· εἰ δὲ μή, ἀλλ᾽ οὖν3 ὀδυνηθῶσιν. ὅτι δὲ οἱ αὐτοὶ4 πρὸς ἐμὲ ἀηδῶς ἔχουσι καὶ πρὸς τὴν πόλιν αὐτοὶ μάρτυρές
 
 
@@ -26,6 +143,14 @@ p178πράττοντες κατὰ τῶν πολιτῶν καὶ τότε ἦ�
 p182ὑμετέρας μετέλαβον. 8 καὶ νῦν δεῖ με ἀποδημεῖν, οὐχ ὡς πρότερον ἀλύπως, πάντων με ἀγαπώντων καὶ θαυμαζόντων, ἀλλὰ μετ᾽ ἔχθρας τινῶν· ἐπεὶ αὐτός γε οὐδὲν ἔπαθον κακόν·
 
 
+
+
+
+οὐ γὰρ πώποτ᾽ ἐμᾶς βοῦς ἤλασαν οὐδὲ μὲν ἵππους.
+		
+
+
+
 Οὐ μέντοι θαυμάζω τὰ παρόντα πράγματα· ἐπεὶ καὶ Σωκράτης ἐκεῖνος, οὗ μέμνημαι πολλάκις, ἐν μὲν τῇ τυραννίδι τῶν τριάκοντα ἔπραττε πάντα ὑπὲρ τοῦ δῆμου καὶ τῶν κακῶν οὐδενὸς ἐκοινώνησεν, ἀλλὰ καὶ πεμφθεὶς ὑπ᾽ αὐτῶν ἐπὶ Λέοντα τὸν Σαλαμίνιον οὐχ ὑπήκουσε, καὶ τοῖς τυράννοις ἄντικρυς ἐλοιδορεῖτο, λέγων ὁμοίους εἶναι τοῖς πονηροῖς βουκόλοις, οἳ παραλαβόντες ἰσχυρὰς τὰς βοῦς14 καὶ πολλάς, ὀλίγας καὶ ἀσθενεστέρας ποιοῦσιν· 9 ἀλλ᾽ ὅμως ὑπὸ τοῦ δήμου, δι᾽ ὃν ἐκινδύνευεν, ὕστερον εὖ πράττοντος διαβληθεὶς ὑπὸ συκοφαντῶν τινων ἀπέθανεν. ἦν δὲ ὁ κατήγορος Μέλητος, βδελυρὸς ἄνθρωπος καὶ συκοφάντης. Ἀδικεῖ, φησί, Σωκράτης, τοὺς νέους διαφθείρων καὶ οὓς μὲν ἡ πόλις θεοὺς τιμᾷ μὴ τιμῶν, ἔτερα δὲ εἰσάγων καινὰ δαιμόνια· σχεδὸν αὐτὰ τἀναντία15 οἷς ἐποίει Σωκράτης. 10 ἐτίμα τε γὰρ τοὺς θεοὺς ὡς οὐδεὶς
 
 
@@ -45,63 +170,79 @@ p186καὶ κατὰ κράτος παραλήψεται τὰς πόλεις �
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἀδυνάτων] ἀξυνετῶν Herwerden.
 
 
+❦
 
 2
 τὰ Morel: τὸ.
 
 
+❦
 
 3
 ἀλλ᾽ οὖν Emperius: μᾶλλον.
 
 
+❦
 
 4
 οἱ αὐτοι Casaubon: αὐτοι.
 
 
+❦
 
 5
 εἶναι added by Reiske.
 
 
+❦
 
 6
 ἀεί ποτε ὅμοια. οἱ Reiske: ἀεί ποτε ὅμοιοι UB, ἂ εἵπεται ὅμοιοι M.
 
 
+❦
 
 7
 μὴν οἱ Capps, μὴν Arnim: νῦν.
 
 
+❦
 
 8
 νῦν δὲ ἐλάττους added by Reiske.
 
 
+❦
 
 9
 πεποιηκὼς] πεποιηκότων Reiske.
 
 
+❦
 
 10
 ψευδόμενος] τοιοῦτος Arnim.
 
 
+❦
 
 11
 αὑτοῦ Arnim] αὐτοῦ
+❦
 
 12
 ὅμοιως τῷ Selden: ὁμοίως τῶν UB, ὅμως τῶν M.
 
 
+❦
 
 13
 καὶ διὰ τοῦτο . . . ἐπιδηνοῦντα placed by Arnim
@@ -109,59 +250,168 @@ p186καὶ κατὰ κράτος παραλήψεται τὰς πόλεις �
 after μετέλαβον (top of p182), as being inappropriate to its present setting. Wilamowitz would delete καὶ.
 
 
+❦
 
 14
 βοῦς Dindorf: βόας.
 
 
+❦
 
 15
 τἀναντία Dindorf: ταῦτα ἐναντία.
 
 
+❦
 
 16
 ἔτι καὶ added by Capps.
 
 
+❦
 
 17
 τοῦτον . . . ᾄδω deleted by Emperius.
 
 
+❦
 
 18
 ἐπ᾽ Valesius: ἐν.
 
 
+❦
 
 19
 κρυφαία] κρύφα M, κορυφαία Morel.
 
 
+❦
 
 20
 δὲ Reiske: τε.
 
 
+❦
 
 21
 τοῦ ἔθνους Arnim: τοὺς θεοὺς.
 
 
+❦
 
 22
 αὐτὸν Crosby: αὐτὸς.
 
 
+❦
 
 23
 ἀπονίας Geel: ἀπορίας.
 
 
+❦
 
 24
 τρυφῆς Reiske: τροφῆς.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Oct 10

@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος κε´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος κζ´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p338
+26. ΠΕΡΙ ΤΟΥ ΒΟΥΛΕΥΕΣΘΑΙ
+	
+
 1 Πάλαι, καθήμενος καὶ ὑμῶν ἀκούων, ὅτε πολλὰς ὥρας1 διετρίβετε παρά τινι τῶν πολιτικῶν βουλευόμενοι περί τινων πραγμάτων, σκοπῶ παρ᾽ ἐμαυτῷ καὶ ἀναζητῶ τί ἐστι τοῦτο ὅ φατε βουλεύεσθαι ἢ αὐτὸ δὴ τὸ βουλεύεσθαι.2 ἆρα γὰρ περὶ τούτου τις βουλεύεται τοῦ πράγματος ὃ οἶδέ τε καὶ ἐπίσταται;
 
 	
@@ -48,78 +165,194 @@ p342ὄντα; πῶς;9 δυνάμεθα ποιῆσαι μὴ εἶναι ο�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 πολλὰς ὥρας Cobet: πολλαῖς ὥραις.
 
 
+❦
 
 2
 The phrase ἢ αὐτὸ δὴ τὸ βουλεύεσθαι was deleted by Emperius, followed by Arnim and Budé, as being a repetition of the preceding. It may well be, however, Dio's own closer definition of the problem: ἢ ὅ τι U, ἢ omitted by M.
 
 
+❦
 
 3
 ἃ after οὐδὲ deleted by Reiske.
 
 
+❦
 
 4
 The phrase μὴ ἄρα τοῦτο ᾗ τὸ βουλεύεσθαι of the MSS. was deleted by Arnim followed by Budé. ἄρα Emperius: ἆρα.
 
 
+❦
 
 5
 ἢ added by Wegehaupt.
 
 
+❦
 
 6
 Sonny would add ἢ τοσοῦτον.
 
 
+❦
 
 7
 ἀγνοοῦμεν Emperius: ποιῦμεν.
 
 
+❦
 
 8
 ἔστιν Dindorf: ἐοτὶ.
 
 
+❦
 
 9
 πῶς; δυνάμεθα Capps: πῶς δυνάμεθα.
 
 
+❦
 
 10
 ὄντι added by Capps.
 
 
+❦
 
 11
 ὅστις ἄρα Wilamowitz: ἄρα ὅστις.
 
 
+❦
 
 12
 οὔτε . . . οὔτε Emperius: οὐδὲ . . . οὐδὲ.
 
 
+❦
 
 13
 τεχνικῶς or μετὰ τέχνης Cohoon: ἀτεχνῶς.
 
 
+❦
 
 14
 ἱκανοὶ added by Reiske.
 
 
+❦
 
 15
 δὴ Emperius: δεῖ M, δὲ UB.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Oct 10

@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ιδ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1939
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ιϝ´
+				
+
+
+
+
+
+(Vol. II)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p144
+15. ΠΕΡΙ ΔΟΥΛΕΙΑΣ ΚΑΙ ΕΛΕΥΘΕΡΙΑΣ Β
+	
+
 1 Ἀλλὰ μὴν ἔναγχος παρεγενόμην τισὶ διαμφισβητοῦσι περὶ δουλείας καὶ ἐλευθερίας, οὐκ ἐπὶ δικαστῶν οὐδ᾽ ἐν τῇ ἀγορᾷ, οὑτωσὶ δὲ κατ᾽ οἰκίαν, ἐπὶ χρόνον πάμπολυν. καὶ παρῆσαν ἑκατέρῳ τοῖν ἀνδροῖν οὐκ ὀλίγοι σπουδάζοντες. ἐτύγχανον γὰρ ὑπὲρ ἄλλων πρότερον ἀντιλέγοντες, ὡς ἐμοὶ δοκοῦσιν· ἡττώμενος δὲ ἐν τοῖς λόγοις ἅτερος καὶ διαπορῶν εἰς λοιδορίαν ἐτράπετο, ὥσπερ εἴωθε τοῦτο συμβαίνειν πολλάκις, καὶ ὠνείδισεν οὐχ ὡς1 ἐλεύθερον ὄντα τὸν ἕτερον. καὶ ὃς πάνυ πρᾴως ἐμειδίασέ τε καὶ εἶπε.
 
 	
@@ -157,186 +274,324 @@ p172γενναῖον λέγεσθαι, κἂν μηθεὶς ἐπίστητα�
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 οὐχ ὡς successfully defended by Wifstrand.
 
 
+❦
 
 2
 ἀνδρεῖοι Emperius: ἄνδρες οἱ M, nothing in UB.
 
 
+❦
 
 3
 ὅτι Cobet: εἰ M, nothing in UB.
 
 
+❦
 
 4
 ἂν Geel: ἀλλὰ UB, nothing in M.
 
 
+❦
 
 5
 ὀμόσαις ὡς Geel: ὀμόσαι ἴσως.
 
 
+❦
 
 6
 κακηγορίας Reiske: κατηγορίας.
 
 
+❦
 
 7
 θρέψουσι Wilamowitz: θρέψωσι.
 
 
+❦
 
 8
 ἐνίοτε Dindorf: ἔτι.
 
 
+❦
 
 9
 ὁμοίως Wilamowitz: ὅμως.
 
 
+❦
 
 10
 μᾶλλον σοὶ Arnim: μᾶλλόν σοι.
 
 
+❦
 
 11
 εἶναι added by Capps.
 
 
+❦
 
 12
 δουλεύειν added by Cohoon.
 
 
+❦
 
 13
 μὴ added by Pflugk.
 
 
+❦
 
 14
 ἡλλήνιζεν Morel: ἑλλήνιζεν.
 
 
+❦
 
 15
 After καὶ the MSS. have τῶν, which Wifstrand deletes.
 
 
+❦
 
 16
 φύσει τὸν Wifstrand, τὸν φύσει Morel φησὶ τὸν.
 
 
+❦
 
 17
 τότε Emperius: ποτὲ.
 
 
+❦
 
 18
 The MSS. word-order ἐνίοτε ὥστε is successfully defended by Wifstrand.
 
 
+❦
 
 19
 μυλῶνα Dindorf: μύλωνα.
 
 
+❦
 
 20
 δῆσαι Wifstrand: δὴ καὶ.
 
 
+❦
 
 21
 ὃ ἔτι Pflugk, τὸ ἔτι Wilamowitz: ὅ τι.
 
 
+❦
 
 22
 οὐ added by Emperius.
 
 
+❦
 
 23
 δοῦλος Reiske: δοῦλοι.
 
 
+❦
 
 24
 συμπολεμήσοντας Kayser: συμπολεμήσαντας.
 
 
+❦
 
 25
 λυχνοφόρος Hercher: λυχνοποιὸς.
 
 
+❦
 
 26
 ὁπότε γ᾽ ἐνεθυμήθη Emperius:º
+❦
 
 27
 διακρινεῖ Arnim: διακρίνει U, διακρίνῃ BM.
 
 
+❦
 
 28
 ἀεὶ Cohoon: εἶναι.
 
 
+❦
 
 29
 πάρ᾽ ἄλλων Reiske: γὰρ ἄλλως.
 
 
+❦
 
 30
 κληρονομήσαντες ἢ πριάμενοι Reiske: κληρονομήσαντος ἢ πριαμένου.
 
 
+❦
 
 31
 πολέμῳ Dindorf: πολέμου.
 
 
+❦
 
 32
 παρὰ Λακεδαιμονίοις Reiske: γὰρ Λακεδαιμόνιοι.
 
 
+❦
 
 33
 οἱ πολλοὶ Reiske: ὁ ἐλεύθερος.
 
 
+❦
 
 34
 ἔστι δὲ ὡς περὶ Emperius: ἔτι δὲ ὥσπερ.
 
 
+❦
 
 35
 ἵππον added by Reiske.
 
 
+❦
 
 36
 αὐτὸν Venetian edition: αὐτοῦ.
 
 
+❦
 
 37
 πᾶσα Reiske: πάντα.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+30 Jun 12

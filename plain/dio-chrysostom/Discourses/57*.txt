@@ -1,5 +1,145 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος νη´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p418
+57. ΝΕΣΤΩΡ
+	
+
 1 Διὰ τί ποτε δοκεῖ ὑμῖν Ὅμηρος Νέστορα1 ποιῆσαι τάδε τὰ ἔπη εἰπεῖν2 πρὸς Ἀγαμέμνονα καὶ Ἀχιλλέα, παραμυθούμενον3 αὐτοὺς καὶ διδάσκοντα μὴ διαφέρεσθαι ἀλλήλοις·
+
+
+
+
+
+ἤδη γάρ ποτ᾽ ἐγὼ καὶ ἀρείοσιν ἠέπερ ὑμῖν
+			
+ἀνδράσιν ὡμίλησα, καὶ οὔποτέ μ᾽ οἵ γ᾽ ἀθέριζον.
+			
+οὐ γάρ πω τοίους ἴδον ἀνέρας οὐδὲ ἴδωμαι,
+			
+οἷον Πειρίθοόν τε Δρύαντά τε ποιμένα λαῶν,
+			
+Καινέα τ᾽ Εξάδιόν τε καὶ ἀντίθεον Πολύφημον,
+			
+Θησέα τ᾽ Αἰγείδην ἐπιείκελον ἀθανάτοισι.
+			
+κάρτιστοι δὴ κεῖνοι ἐπιχθονίων τράφεν ἀνδρῶν·
+			
+κάρτιστοι μὲν ἔσαν καὶ καρτίστοις ἐμάχοντο
+			
+φηρσὶν ὀρεσκῴοισι, καὶ ἐκπάγλως ἀπόλεσσαν.
+			
+καὶ μέν μευ βουλέων ξύνιον πείθοντό τε μύθῳ.
+			
+ἀλλὰ πίθεσθε καὶ ὔμμες, ἐπεὶ πείθεσθαι ἄμεινον
+		
+
 
 
 2 ἆρα μὴ ἀλαζόνα πεποίηκε τὸν Νέστορα λέγοντα περὶ τοῦ Πειρίθου καὶ Δρύαντος καὶ τῶν ἄλλων ὅτι θαυμαστοί τε φύσει ὄντες καὶ πολὺ κρείττους
@@ -23,6 +163,14 @@ p422πείθεσθαι τοῖς λόγοις, οὐκ ἂν ὤκνησε λο�
 p424δὴ τούτων ὁρῶν αὐτοὺς διεφθαρμένους καὶ μὴ δυναμένους ὁμονοεῖν ἀλλήλοις, ἀλλὰ τὰς ψυχὰς οἰδοῦντας, ὡς ὕστερόν φησιν ὁ Ἀχιλλεύς,
 
 
+
+
+
+ἀλλά μοι οἰδάνεται κραδίη χόλῳ·
+		
+
+
+
 ἐβούλετο ταπεινῶσαι καὶ τοῦ φρονήματος, εἰ δύναιτο, καθελεῖν, ὥσπερ οἱ τὰ οἰδοῦντα νύξαντες ἦ πιέσαντες. διὰ τοῦτο ἐμέμνητο ἀνδρῶν ἐνδόξων καὶ δυνατῶν, ἔτι δέ, οἶμαι, πρότερον γεγονότων, εἰδὼς ἐκείνοις μᾶλλον συνεπομένην τὴν δόξαν. 8 καὶ μέντοι γε οὐκ ἐπ᾽ αὐτοῖς ἐποιήσατο τίνα γνώμην ἔξουσι περὶ τῶν ἀνδρῶν, ἀλλ᾽ αὐτὸς ἀποφαίνεται ἄντικρυς ὡς πολὺ κρείττονας ἐκείνους14 ὄντας, εἰ δύναιντο ὀλίγον ὑφεῖναι τοῦ τύφου καὶ τῆς μανίας.
 
 	
@@ -42,93 +190,212 @@ p428ἄτοπον δόξομεν ποιεῖν, ἐπειδὴ βούλεσθε 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 Ὅμηρος Νέστορα Crosby: Νέστορος ὅμηρος (περὶ νέστορος U, ὁ Ὅμηρος UB).
 
 
+❦
 
 2
 εἰπεῖν added by Crosby.
 
 
+❦
 
 3
 παραμυθούμενον] παραμυθούμενα or παραμυθούμενου Reiske.
 
 
+❦
 
 4
 ἐκείνων Gasda: ἐκείνου.
 
 
+❦
 
 5
 αὑτοῦ Crosby: αὐτοῦ.
 
 
+❦
 
 6
 τί Crosby: ἔτι, which Arnim suspected.
 
 
+❦
 
 7
 τὸ added by Capps.
 
 
+❦
 
 8
 ἀπειθεῖ Emperius: πείθει or πείθεται.
 
 
+❦
 
 9
 αὑτῶν Crosby: αὐτῶν.
 
 
+❦
 
 10
 αὑτὸν Emperius: αὐτὸν.
 
 
+❦
 
 11
 τὰ added by Reiske.
 
 
+❦
 
 12
 καὶ τὸν Arnim: ἧ καὶ τὸν or ἢ καὶ τὸν or ἢ τὸν or ἣ τὸν.
 
 
+❦
 
 13
 αὑτῷ Arnim: αὐτῷ.
 
 
+❦
 
 14
 ἐκείνους Post: ἐκείνων.
 
 
+❦
 
 15
 After τύχης the MSS. read: ἢ δοκεῖ ὑμῖν τὰ παιδία, ὧν νέμεται τὸ στόμα καὶ διεφθαρμένον ἐστὶν ὑπὸ ἑλκῶν, οὐκ ἀγανακτεῖν καὶ βοᾶν, μέλιτος γευόμενα; Or do you think that children whose mouths are ravaged and ruined by sores do not exhibit distress and cry out when they taste honey? Emperius suspected the passage and Crosby deletes.
 
 
+❦
 
 16
 ἔχοι Wilamowitz: ἔχῃ or ἔχει.
 
 
+❦
 
 17
 τὰς αὐτὰς Casaubon: τοσαύτας.
 
 
+❦
 
 18
 ἐκεῖνοι Emperius: ἱκανοὶ.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+24 Mar 12

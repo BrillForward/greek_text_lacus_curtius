@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ξ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1951
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος ξβ´
+				
+
+
+
+
+
+(Vol. V)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p2
+61. ΧΡΥΣΗΙΣ
+	
+
 1 Ἐπεὶ τυγχάνεις οὐ φαύλως ἐπαινοῦσα Ὅμηρον οὐδέ, ὥσπερ οἱ πολλοί, πιστεύουσα τῇ δόξῃ προσποιῇ θαυμάζειν, ὃ δὲ δεινότατός ἐστιν ᾔσθησαι τοῦ ποιητοῦ, τὴν περὶ τὰ πάθη τῶν ἀνθρώπων ἐμπειρίαν, τἄλλα μὲν ἐάσωμεν, εἰ ἐθέλεις, τὰ νῦν, τὰ τῶν βασιλέων καὶ στρατηγῶν, περὶ δὲ μιᾶς γυναικὸς σκεψώμεθα τῶν αἰχμαλώτων, ὁποίαν τινὰ πεποίηκε τὴν θυγατέρα τοῦ ἱερέως, ἧς εὐθὺς ἐμνήσθη κατ᾽ ἀρχὰς τῆς ποιήσεως. ὁ μὲν γὰρ Ἀγαμέμνων οὐ μόνον τὸ εἶδος, ἀλλὰ καὶ τὸν τρόπον ἐπαινεῖν ἔοικε τῆς παιδίσκης, λέγει γὰρ ὡς οὐδὲν εἴη τὰς φρένας χειρῶν τῆς αὐτοῦ γυναικός· δῆλον δὲ ὡς ἐκείνην οἰόμενος νοῦν ἔχειν.
 
 	
@@ -69,6 +186,18 @@ p14ὁποῖα συνέπεσεν. οὐδὲ γὰρ ἐκεῖνα ἥδετ�
 14 Ἅμα δὲ καὶ πρὸς αὑτὴν12 ᾐσθάνετο αὐτὸν ὑβριστικῶς ἔχειν,13 καὶ ταῦτα ὅτε μάλιστα ἤρα. τὸ γὰρ οὕτως ἀπελάσαι τὸν14 πατέρα τῆς ἐρωμένης καὶ μὴ φείσασθαι δι᾽ αὐτὴν καὶ οὐχ ὅπως παραμυθήσασθαι τὸν πρεσβύτην εἰπόντα ὡς οὐδὲν αὐτοῦ τῇ θυγατρὶ δεινὸν εἴη, τοὐναντίον δὲ μὴ μόνον ἐκείνῳ ἀπειλεῖν, ἀλλὰ καὶ τὴν Χρυσηίδα ἀτιμάζειν λέγοντα,
 
 
+
+
+
+τὴν δ᾽ ἐγὼ οὐ λύσω πρίν μὶν καὶ γῆρας ἔπεισιν
+			
+ἡμετέρῳ ἑνὶ οἴκῳ ἐν Ἄργεϊ, τηλόθι πάτρης,
+			
+ἱστὸν ἐποιχομένην καὶ ἐμὸν λέχος ἀντιόωσαν
+		
+
+
+
 πόσης τινὸς ὑπερηφανίας; τί γὰρ ἂν ὕστερον ἐποίησεν, ὅτε ἐρῶν οὕτως ὑπὲρ αὐτῆς διαλέγεται;
 
 
@@ -86,6 +215,16 @@ p16ταῦτα οὖν φυλάξασθαι καὶ προϊδεῖν οὐδα�
 
 	
 Ὅτι καὶ τοῦτο σωφρονοῦσα ἔπραττεν, ὅπως μὴ παροξύναι τὸν Ἀγαμέμνονα μηδὲ εἰς φιλονικίαν ἀγάγοι. δηλοῖ δὲ ὅμως, ὅπου φησὶν αὐτὴν ὑπὸ τοῦ Ὀδυσσέως τῷ πατρὶ δοθῆναι παρὰ τὸν βωμόν·
+
+
+
+
+
+ὡς εἰπὼν ἐν χερσὶ τίθει, ὁ δ᾽ ἐδέξατο χαίρων
+			
+παῖδα φίλην.
+		
+
 
 
 οὐ γὰρ ἄν,16 οἶμαι, λυπουμένην αὐτὴν ὁ πατὴρ ἐδέχετο
@@ -120,123 +259,248 @@ p18χαίρων· οὐδ᾽ ἂν φίλην εἶπε τυχόν, εἰ μὴ 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 Τί δέ; Wilamowitz: εἰ δὲ.
 
 
+❦
 
 2
 Πότερον οὖν Selden: ποτὲ.
 
 
+❦
 
 3
 οἰώμεθα Reiske: οἰόμεθα.
 
 
+❦
 
 4
 δέκα added by Reiske.
 
 
+❦
 
 5
 πρὸς added by Reiske.
 
 
+❦
 
 6
 τῶν Pflugk: λόγων.
 
 
+❦
 
 7
 γιγνομένους Dindorf: γενομένους.
 
 
+❦
 
 8
 τῶν θεῶν Pflugk: τὸν θεόν.
 
 
+❦
 
 9
 ὑπερεῖχε] ὑπερεῖδε Arnim.
 
 
+❦
 
 10
 ἠτίμασεν] ἠτίμαζεν Arnim.
 
 
+❦
 
 11
 ὁρῶσι] ὑφορῶσι Geel.
 
 
+❦
 
 12
 αὑτὴν Emperius: αὐτὴν.
 
 
+❦
 
 13
 ἔχειν] ἔχοντα Arnim.
 
 
+❦
 
 14
 After τὸν Arnim deletes Χρύσην.
 
 
+❦
 
 15
 ἐπαίρεσθαι added by Reiske.
 
 
+❦
 
 16
 ἄν added by Jacobs.
 
 
+❦
 
 17
 τὸν πατέρα deleted by Wendland.
 
 
+❦
 
 18
 ἀλλὰ τί Emperius, ἀλλ᾽ οἴει Pflugk: ἀλλ᾽ εἰ UBM (εἰ in ras. M).
 
 
+❦
 
 19
 After ἢ Wilamowitz adds ὁ.
 
 
+❦
 
 20
 ἦν Pflugk: εἶναι.
 
 
+❦
 
 21
 εἰ δὲ added by Wilamowitz.
 
 
+❦
 
 22
 ἔχειν] ἕξειν Arnim.
 
 
+❦
 
 23
 After ὥσπερ Emperius adds καὶ.
 
 
+❦
 
 24
 γέγονε πάντως] γέγονεν ὄντως Emperius.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+21 Jun 12

@@ -1,4 +1,130 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Βιβλίον α´
+				
+Μέρος β´
+				
+
+
+
+This webpage reproduces a section of
+				
+
+
+
+The Buildings
+				
+
+of
+				
+
+Procopius
+				
+
+
+
+published in the
+				
+Loeb Classical Library,
+				
+1940
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+Βιβλίον β´
+				
+
+
+
+
+
+
+
+(Vol. III)
+ΠΡΟΚΟΠΙΟΥ ΚΑΙΣΑΡΕΩΣ
+	
+ΠΕΡΙ ΚΤΙΣΜΑΤΩΝ
+	
+
+
+p60
+ΒΙΒΛΙΟΝ Α´
+	
+Μέρος γ´
+	
+
 6
 1 Τὰ μὲν οὖν τοῦ κόλπου τοῦδε τοιαῦτά ἐστι. βασιλεὺς δὲ Ἰουστινιανὸς κάλλος ἀμφ᾽ αὐτὸν ἐξ οἰκοδομίας πεποιημένος ἐπιφανέστερον ἐξειργάσατο. 2 τό τε γὰρ ἐν ἀριστερᾷ τοῦ κόλπου Λαυρεντίου ἁγίου μαρτύριον ἀφεγγές τε τὰ πρότερα ὂν καὶ σκότους ἀτεχνῶς ἔμπλεων μεθαρμοσάμενος, ὡς διὰ βραχέων εἰπεῖν, ἐς τὸν νῦν φαινόμενον ἀνέθηκε τρόπον. 3 καὶ αὐτοῦ ἐπίπροσθεν τὸν τῆς θεοτόκου νεὼν ἐν χώρῳ καλουμένῳ Βλαχέρναις τοιοῦτον δεδημιούργηκεν οἷός μοι ἔναγχος δεδιήγηται. 4 ἐπέκεινά τε Πρίσκῳ τε καὶ Νικολάῳ ἁγίοις ἱερὸν ᾠκοδομήσατο, καινουργήσας αὐτός, οὗ δὴ οἱ Βυζάντιοι ἐμφιλοχωροῦντες ἐνδιατρίβουσιν ἐκ τοῦ ἐπὶ πλεῖστον, πὴ μὲν σέβοντές τε καὶ τεθηπότες τοὺς ἁγίους
 
@@ -126,178 +252,315 @@ p96τινὰ ἢ πιέζουσαν ἢ ἐγκειμένην ἢ μέλλουσ
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 σφίσι l: σφ/// V, om. A.
 
 
+❦
 
 2
 πέρας A: κέρας V.
 
 
+❦
 
 3
 πικρότατα V: πικρῶ. A.
 
 
+❦
 
 4
 εἶτα V: om. A.
 
 
+❦
 
 5
 δὴ V: δὴ τὸν A.
 
 
+❦
 
 6
 ξυνενεχθὲν Hoeschel: ξυνεχθὲν V.
 
 
+❦
 
 7
 δυοδεκάτῃ Haury: δυοδεκάτω or δυωδεκάτω.
 
 
+❦
 
 8
 διηνεκὲς om. A.
 
 
+❦
 
 9
 δύο omitted by A.
 
 
+❦
 
 10
 ἐς τὸ ἔδαφος V: ἕως ἐδάφους A.
 
 
+❦
 
 11
 χιόσιν Maltretus: κίοσιν V.
 
 
+❦
 
 12
 ἰουστινιανὸς V: οὗτος A.
 
 
+❦
 
 13
 ἀνατέθεικε V: ἀνέθηκε A.
 
 
+❦
 
 14
 δὲ Maltretus: τε.
 
 
+❦
 
 15
 ἐλευθέραν Haury: ἐλευθερίαν. Hoeschel proposed δόντες, ἐλευθέραν.
 
 
+❦
 
 16
 δὴ Dewing: δὲ.
 
 
+❦
 
 17
 παρὰ . . . ἀκτὴν V: ἐπὶ ταύτης δὲ τῆς ἀκτῆς A.
 
 
+❦
 
 18
 ἐσόμενα l: ἐσομένην VA.
 
 
+❦
 
 19
 καταπεπτωκός V: καταπεπονηκός A.
 
 
+❦
 
 20
 Ἄρεως Haury, cf. Wars I.xxiv.9: Ἄρεος Maltretus, ἀρέας V, ἀραιᾶς A.
 
 
+❦
 
 21
 κόσμου A: κόσμον V.
 
 
+❦
 
 22
 παρὰ A: περὶ V.
 
 
+❦
 
 23
 τῷ V: τῶν A.
 
 
+❦
 
 24
 βασιλεῖ: βασιλεῦσι Maltretus.
 
 
+❦
 
 25
 ἕστηκε V: ὑψηλοῦ ἵσταται A.
 
 
+❦
 
 26
 τῷ κάλλει: τὸ κάλλος Maltretus.
 
 
+❦
 
 27
 οὖσα Maltretus for ὅσα.
 
 
+❦
 
 28
 δειμαμένοις Maltretus for δημαμένοις.
 
 
+❦
 
 29
 λιμένων V: om. A.
 
 
+❦
 
 30
 ταραχῇ τοῦ ῥοθίου V: τῶ ῥοθίῶ A.
 
 
+❦
 
 31
 ἐπιβολὴν V: ὑπερβολὴν A.
 
 
+❦
 
 32
 ἀγορὰς V: ἀγυιὰς A.
 
 
+❦
 
 33
 οἰκίαν A: οἰκείαν V.
 
 
+❦
 
 34
 στάδιον V: om. A.
 
 
+❦
 
 35
 ξενῶνας A: καὶ ξενῶνας V.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Περὶ Κτισμάτων
+			
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Apr 12

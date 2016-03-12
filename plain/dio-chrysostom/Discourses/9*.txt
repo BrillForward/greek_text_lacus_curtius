@@ -1,4 +1,116 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος η´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1932
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+
+(Vol. I)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p402
+9. ΔΙΟΓΕΝΗΣ Η ΙΣΘΜΙΚΟΣ
+	
+
 1 Ἰσθμίων ὄντων κατέβη Διογένης εἰς τὸν Ἰσθμόν, ὡς ἔοικεν, ἐν Κορίνθῳ διατρίβων. παρετύγχανε δὲ ταῖς πανηγύρεσιν οὐχ ὧνπερ οἱ πολλοὶ ἕνεκα, βουλόμενοι θεάσασθαι τοὺς ἀθλητὰς καὶ ἵνα ἐμπλησθῶσιν, ἀλλ᾽ ἐπισκοπῶν οἶμαι τοὺς ἀνθρώπους καὶ τὴν ἄνοιαν αὐτῶν. ᾔδει γὰρ ὅτι φανερώτατοί εἰσιν ἐν ταῖς ἑορταῖς καὶ ταῖς πανηγύρεσιν· ἐν δὲ πολέμῳ καὶ στρατοπέδῳ λανθάνουσι μᾶλλον διὰ τὸ κινδυνεύειν καὶ φοβεῖσθαι. 2 καὶ μέντοι ἐνόμιζε τούτους εὐιατοτέρους εἶναι· καὶ γὰρ τὰ νοσήματα τοῦ σῶματος, ὅταν ἔκδηλα ᾖ, ῥᾷον θεραπεύεσθαι ὑπὸ τῶν ἰατρῶν ἢ μέχρι ὑποστέλλεται· τοὺς μέντοι ἀμελουμένους τῶν ἀνθρώπων ἐν ταῖς τοιαύταις διατριβαῖς τάχιστα ἀπόλλυσθαι. διὰ ταῦτα παρέβαλλεν εἰς τὰς πανηγύρεις. 3 ἔλεγε δὲ ἐπισκώπτων, ὅτε1 ἐπιπλήττοιτο τὸ τοῦ κυνός·2 τοὺς γὰρ κύνας ἕπεσθαι μὲν εἰς τὰς πανηγύρεις, μηδένα δὲ ἀδικεῖν τῶν ἐκεῖ γιγνομένων, ὑλακτεῖν δὲ καὶ μάχεσθαι τοῖς κακούργοις καὶ λῃσταῖς,3 καὶ ὅταν οἱ ἄνθρωποι μεθυσθέντες καθεύδωσιν, αὐτοὺς ἐγρηγορότας φυλάττειν.º
 p404
 4 Ὡς δὲ ἐφάνη ἐν τῇ πανηγύρει, Κορινθίων μὲν οὐδεὶς αὐτῷ προσεῖχε τὸν νοῦν, ὅτι πολλάκις αὐτὸν ἑώρων ἐν τῇ πόλει καὶ περὶ τὸ Κράνειον. οἱ γὰρ ἄνθρωποι οὓς ἂν ἀεὶ4 βλέπωσι καὶ οἷς νομίζουσιν εἶναι ὁπότε βούλονται προσελθεῖν, τούτων οὐ πάνυ φροντίζουσιν· οὓς δ᾽ ἂν διὰ χρόνου ἴδωσιν ἢ μηδεπώποτε ἑωρακότες, πρὸς ἐκείνους τρέπονται. ὅθεν ἥκιστα ὠφελοῦντο ὑπὸ τοῦ Διογένους Κορίνθιοι, καθάπερ εἰ5 νοσοῦντες ἐπιδημοῦντος ἰατροῦ μὴ προσῄεσαν ἀλλ᾽ ἐνόμιζον ἱκανὸν εἶναι καὶ τὸ ὁρᾶν αὐτὸν ἐν τῇ πόλει.
@@ -46,10 +158,15 @@ p414ἐπὶ τάχει; τί δέ; 20 εἰ χωλοὶ πάντες ἦσαν 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ὅτε Emperius and Schwartz: ὅτι.
 
 
+❦
 
 2
 After κυνός the MSS. have διὰ τὴν χαλεπότητα καὶ τὸ λοιδορεῖσθαι κύνα αὐτὸν ἀπεκάλουν. "On account of his harshness
@@ -59,74 +176,186 @@ After κυνός the MSS. have διὰ τὴν χαλεπότητα καὶ τ�
 and abusive language they called him a cur." Deleted by Arnim.
 
 
+❦
 
 3
 λῃσταῖς Emperius: κακίστοις.
 
 
+❦
 
 4
 ἀεὶ Jacobs: αὐτοὶ.
 
 
+❦
 
 5
 εἰ Schwartz: οἱ.
 
 
+❦
 
 6
 καὶ . . . λέγοντος occurs in the MSS. after γενέσθαι: moved by Emperius.
 
 
+❦
 
 7
 ἔπαιζεν Stobaeus 3.13.37: ἔπαιεν.
 
 
+❦
 
 8
 ἢ Arnim: καὶ.
 
 
+❦
 
 9
 ὅλως Herwerden: ὅμως.
 
 
+❦
 
 10
 Before θηρίον the MSS. have ἢ καὶ δυσμαχώτατον, which Emperius brackets.
 
 
+❦
 
 11
 πεποίηκα Emperius: πεποίηκε.
 
 
+❦
 
 12
 τάχιστά, ἐστι Capps: ἐστὶ τάχιστα. Emperius proposed κάκιστα for τάχιστα. Wilamowitz deletes τάχιστα καὶ.
 
 
+❦
 
 13
 βραδύτερος Emperius: βραδύτατος.
 
 
+❦
 
 14
 κακούργους Pflugk: στρατηγοὺς.
 
 
+❦
 
 15
 οὐ before χωλὸς deleted by Arnim. Emperius proposed ὁ for οὐ.
 
 
+❦
 
 16
 For στίξαντες some MSS. have στήσαντες or σείσαντες.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+28 Jun 12

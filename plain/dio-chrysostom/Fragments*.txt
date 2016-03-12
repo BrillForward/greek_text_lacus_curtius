@@ -1,70 +1,190 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+(Vol. V)
+Δίων Χρυσόστομος
+	
+
+p346
+Fragmenta
+	
+
+I. Stob. Flor. 3, VII 28 p316 Hense
+	
+(VII 29 Meineke)
+	
+
 Ἐκ τῶν Δίωνος Χρειῶν·
 	
 Λάκαινα γυνὴ τοῦ υἱοῦ αὐτῆς ἐν παρατάξει χωλωθέντος καὶ δυσφοροῦντος ἐπὶ τούτῳ, Μὴ λυποῦ, τέκνον, εἶπεν· καθ᾽ ἕκαστον γὰρ βῆμα τῆς ἰδίας ἀρετῆς ὑπομνησθήσῃ.
 
 
 	
+II. Stob. Flor. 3, XIII 42 p462 Hense
+			
+(XIII 24 Mein.)
+	
+
 Ἐκ τῶν Δίωνος Χρειῶν·
 	
 Τὴν ἐπιτίμησιν ὁ Διογένης ἀλλότριον ἀγαθὸν ἔλεγεν εἶναι.
 
 
 	
+III. Stob. Flor. 3, XXXIV 16 p686 Hense
+			
+(XXXIV 16 Mein.)
+	
+
 Ἐκ τῶν Δίωνος Χρειῶν·
 	
 Τῶν συνόντων τις μειρακίων Διογένει ἐρωτώμενος ὑπ᾽ αὐτοῦ ἐσιώπα. ὁ δὲ ἔφη, Οὐκ οἴει τοῦ αὐτοῦ εἶναι εἰδέναι ἅ τε λεκτέον καὶ ποτε καὶ τίνα σιωπητέον καὶ πρὸς τίνα;
 
 
 	
+p348
+IV. Stob. Flor. 3, XLII 12 p762 Hense
+	
+(XLII 12 Mein.)
+	
+
 Δίωνος ἐκ τοῦ Οἰκονομικοῦ·
 	
 Ἀρξόμεθα δὲ ἀπὸ τοῦ μάλιστα ὠφελοῦντος οἰκίαν· εἴη δ᾽ ἂν τοῦτο ἐπιτίμησις διαβολῆς· διαβολὴ γὰρ κακῶν τὸ ὀξύτατον καὶ ἐπιβουλότατον.
 
 
 	
+V. Stob. Flor. 4, XIX 46 p430 Hense
+	
+(LXII 46 Mein.)
+	
+
 Δίωνος ἐκ τοῦ Οἰκονομικοῦ·
 	
 Χρὴ οὖν δεσπόζειν ἐπιεικῶς καὶ ἀνεθῆναί ποτε βουλομένοις ἐπιτρέπειν. αἱ γὰρ ἀνέσεις παρασκευαστικαὶ πόνων εἰσί, καὶ τόξον καὶ λύρα καὶ ἄνθρωπος ἀκμάζει δι᾽ ἀναπαύσεως.
 
 
 	
+VI. Stob. Flor. 4, XXIII 59 p588 Hense
+	
+(LXXIV 59 Mein.)
+	
+
 Δίωνος ἐκ τοῦ Οἰκονομικοῦ·
 	
 Εὐσέβεια δὲ γυναικεία ὁ πρὸς τὸν ἄνδρα ἔρως.
 
 
 	
+VII. Stob. Flor. 4, XXIII 60 p588 Hense
+	
+(LXXIV 60 Mein.)
+	
+
 Ἐν ταὐτῷ·
 	
 Γέλως δὲ συνεχὴς καὶ μέγας θυμοῦ κακιῶν· διὰ τοῦτο μάλιστα ἑταίραις ἀκμάζων καὶ παίδων τοῖς ἀφρονεστέροις. ἐγὼ δὲ κοσμεῖσθαι πρόσωπον ὑπὸ δακρύων ἡγοῦμαι μᾶλλον ἢ ὑπὸ γέλωτος. δάκρυσι μὲν γὰρ ὡς ἐπὶ τὸ πλεῖστον σύνεστι καὶ μάθημά που χρηστόν, γέλωτι δὲ ἀκολασία. καὶ κλάων μὲν οὐδεὶς προυτρέψατο ὑβριστήν, γέλων δὲ ηὔξησεν αὐτοῦ τὰς ἐλπίδας.
 
 
 	
+p350
+VIII. Stob. Flor. 4, XXVIII 12 p679 Hense
+	
+(LXXXV 12 Mein.)
+	
+
 Δίωνος ἐκ τοῦ Οἰκονομικοῦ·
 	
 Μέγα γὰρ δυσώπημα σωφροσύνης τέκνωσις.
 
 
 	
+IX. Stob. Flor. 4, XXVIII 13 p679 Hense
+	
+(LXXXV 13 Mein.)
+	
+
 Ἐν ταὐτῷ·
 	
 Τὸ μὲν γὰρ τίκτειν ἀνάγκης ἐστὶν ἔργον, τὸ δὲ ἐκτρέφειν φιλοστοργίας.
 
 
 	
+X. Maxim. Flor. (Vatic. gr. 397 f. 81b)
+	
+
 Δίωνος τοῦ Χρυσοστόμου·
 	
 Πῶς οὐ δεινὸν τοῖς μὲν θεοῖς ἐνοχλεῖν, αὐτοὺς δὲ μὴ βούλεσθαι πράττειν ἅ γε ἐφ᾽ ἡμῖν εἶναι δοκεῖ τοῖς θεοῖς.
 
 
 	
+XI. Maxim. Flor. (Vatic. gr. 397 f. 159b)
+	
+
 Δίωνος τοῦ Χρυσοστόμου·
 	
 Κινδύνων ἐλπὶς ἄνευ κινδύνων τίθησι τὸν ἐλπίζοντα τῷ προησφαλίσθαι τῶν δυσχερῶν τῇ δοκήσει τὰ πράγματα.
 
 
 	
+XII. Maxim. Flor. (Vatic. gr. 739 f. 217a)
+	
+
 Δίωνος τοῦ Χρυσοστόμου·
 	
 Πονηρίαν γὰρ ἀρχομένην μὲν κωλῦσαι τάχα τις κολάζων ἂν1 δυνηθείη· ἐγκαταγεγηρακυῖαν δὲ καὶ γεγενημένην τῶν εἰθισμένων διὰ2 τιμωριῶν ἀδύνατον εἶναι λέγουσιν.
@@ -72,13 +192,116 @@
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἂν added by Arnim.
 
 
+❦
 
 2
 διὰ added by Crosby, κρατῆσαι διί τινῶν ἐπικειμένων Arnim.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+7 Apr 12

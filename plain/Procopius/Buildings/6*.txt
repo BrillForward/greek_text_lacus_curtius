@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Βιβλίον ε´
+				
+
+
+
+This webpage reproduces a section of
+				
+
+
+
+The Buildings
+				
+
+of
+				
+
+Procopius
+				
+
+
+
+published in the
+				
+Loeb Classical Library,
+				
+1940
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+
+
+(Vol. III)
+ΠΡΟΚΟΠΙΟΥ ΚΑΙΣΑΡΕΩΣ
+	
+ΠΕΡΙ ΚΤΙΣΜΑΤΩΝ
+	
+
+
+p360
+ΒΙΒΛΙΟΝ Ϝ´
+	
+
 1
 1 Ταῦτα μὲν Ἰουστινιανῷ βασιλεῖ τῇδε πεποίηται. ἐν δὲ Ἀλεξανδρείᾳ ἐξείργασται τάδε. Νεῖλος ποταμὸς οὐκ ἄχρι ἐς τὴν Ἀλεξάνδρειαν φέρεται, ἀλλ᾽ ἐπὶ πόλισμα ἐπιρρεύσας ὃ δὴ Χαιρέου ἐπονομάζεται, ἐπ᾽ ἀριστερὰ τὸ λοιπὸν ἵεται, ὅρια τά γε Ἀλεξανδρέων ἀπολιπών. 2 διὸ δὴ οἱ πάλαι ἄνθρωποι, ὡς μὴ ἀμοιροίη τὸ παράπαν ἡ πόλις, διώρυχα ἐκ τῆς Χαιρέου κατορύξαντες βαθεῖάν τινα βραχείᾳ τοῦ ποταμοῦ ἐς αὐτὴν ἐκροῇ διεπράξαντο ἐσιτητὰ εἶναι. οὗ δὴ καὶ
 
@@ -132,158 +249,291 @@ p392θεοτόκῳ ἀνέθηκεν, ἀναψάμενος μὲν ἐπ᾽ α
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 ἐκροῇ . . . τινας, omitted in V, supplied in its margin.
 
 
+❦
 
 2
 μεταβιβάσαντες V: καταβιβάσατεςº A.
 
 
+❦
 
 3
 δυοῖν A: δυεῖν V.
 
 
+❦
 
 4
 πεποιημένος V: πεποιημένους A.
 
 
+❦
 
 5
 μεταπορευόμενος Maltretus: μεταπορευομένους.
 
 
+❦
 
 6
 δασμολόγοι A: δασμοφόροι V.
 
 
+❦
 
 7
 Σολομῶνος Maltretus: σολομῶντος V.
 
 
+❦
 
 8
 ἑαυτὴν V: ἑαυτῆς A.
 
 
+❦
 
 9
 πάκεν V: πάκα A.
 
 
+❦
 
 10
 καὶ ταύτης δὲ V: ἀλλὰ καὶ ταύτης A.
 
 
+❦
 
 11
 ἐπικαλοῦνται V: καλοῦνται A.
 
 
+❦
 
 12
 κατὰ added by Haury, κατὰ for καὶ Maltretus.
 
 
+❦
 
 13
 ἐν before ὀκνήσει deleted by Braun.
 
 
+❦
 
 14
 τῶ A: τῶν V.
 
 
+❦
 
 15
 After αὐτοῖς V has καὶ αὐτὰ δὲ διεφθάρη τῷ χρόνῳ.
 
 
+❦
 
 16
 διαφθορεῖν Maltretus: διαφθορεῖ.
 
 
+❦
 
 17
 τὴν Haury: τῶν.
 
 
+❦
 
 18
 ἐπετεχνήσατο V: μετετεχνήσατο A.
 
 
+❦
 
 19
 ἁγίων added by Maltretus.
 
 
+❦
 
 20
 ἐπωνύμως V: ὁμωνύμως A.
 
 
+❦
 
 21
 οὖν A: αὐτῶι V.
 
 
+❦
 
 22
 διασώσασθαι οἵαν τε εἶναι V: διεσώσατο A.
 
 
+❦
 
 23
 οὗτος V: αὐτὸς A.
 
 
+❦
 
 24
 πόλις A: πόλιν V.
 
 
+❦
 
 25
 ἑκάστην Haury: ἑκάστη.
 
 
+❦
 
 26
 ἀπελίπετο V: ἀπελείπετο A.
 
 
+❦
 
 27
 So Haury: βενερία V.
 
 
+❦
 
 28
 φρούριον before Φόρον deleted by Haury.
 
 
+❦
 
 29
 οὐδὲν V: οὐδενὶ A.
 
 
+❦
 
 30
 εἴ τω V: ὅτω A.
 
 
+❦
 
 31
 πεπραχέναι corrector in V: πεπραγέναι or πεποιηκέναι.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Περὶ Κτισμάτων
+			
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+2 May 12

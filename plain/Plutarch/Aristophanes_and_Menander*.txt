@@ -1,4 +1,117 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Français
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+This webpage reproduces the essay
+				
+
+
+Summary of a Comparison between
+				
+Aristophanes and Menander
+				
+
+by
+				
+
+Plutarch
+				
+
+
+as published in Vol. X
+				
+of the
+Loeb Classical Library edition,
+1936
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+(Vol. X)
+Πλούταρχος
+	
+Ἠθικὰ
+	
+
+
+p462
+ΣΥΓΚΡΙΣΕΩΣ ΑΡΙΣΤΟΦΑΝΟΥΣ ΚΑΙ ΜΕΝΑΝΔΡΟΥ ΕΠΙΤΟΜΗ
+	
+
 (853)
 1
 
@@ -7,25 +120,99 @@
 B"Τὸ φορτικόν," φησίν, "ἐν λόγοις καὶ θυμελικὸν1 καὶ βάναυσον ὥς ἐστιν2 Ἀριστοφάνει, Μενάνδρῳ δ᾽ οὐδαμῶς. καὶ γὰρ ὁ μὲν ἀπαίδευτος καὶ ἰδιώτης, οἷς ἐκεῖνος λέγει, ἁλίσκεται· ὁ δὲ πεπαιδευμένος δυσχερανεῖ· λέγω δὲ τὰ ἀντίθητα καὶ ὁμοιόπτωτα καὶ παρωνυμίας. τούτοις γὰρ ὁ μὲν μετὰ τοῦ προσήκοντος λόγου καὶ ὀλιγάκις χρῆται ἐπιμελείας αὐτὰ ἀξιῶν, ὁ δὲ καὶ πολλάκις καὶ οὐκ εὐκαίρως καὶ ψυχρῶς· ἐπαινεῖται γάρ," φησίν,
 
 
+
+
+
+ὅτι τοὺς ταμίας ἐβάπτισεν,
+			
+οὐχὶ ταμίας ἀλλὰ Λαμίας
+		
+
+
+
 ὄντας. καὶ
 
 
-καὶ
 
 
-καὶ
 
+p464
+Cοὗτος ἤτοι καικίας ἢ συκοφαντίας πνεῖ
+		
 
-καὶ
-
-
-καὶ
 
 
 καὶ
 
 
+
+
+
+γάστριζε καὶ τοῖς ἐντέροις καὶ τοῖς κόλοις3
+
+
+
+
 καὶ
+
+
+
+
+
+ὑπὸ τοῦ4 γέλωτος εἰς Γέλαν5 ἀφίξομαι
+		
+
+
+
+καὶ
+
+
+
+
+
+τί δῆτα6 δράσω σ᾽,7 ὦ κακόδαιμον, ἀμφορεὺς
+			
+ἐξοστρακισθείς;
+		
+
+
+
+καὶ
+
+
+
+
+
+ἄγρια γὰρ ἡμᾶς, ὦ γυναῖκες, δρᾷ8 κακά,
+			
+ἅτ᾽ ἐν ἀγρίοισι9 τοῖς λαχάνοις αὐτὸς τραφείς
+		
+
+
+
+καὶ
+
+
+
+
+
+ἀλλ᾽ ἦ τριχόβρωτες10 τὸν λόφον μου κατέφαγον
+		
+
+
+
+καὶ
+
+
+
+
+
+p466
+φέρε δεῦρο γοργόνωτον ἀσπίδος κύκλον.
+			
+κἀμοὶ πλακοῦντος τυρόνωτον11 δὸς κύκλον
+		
+
 
 
 καὶ πολλὰ τοιαῦτα. ἔνεστι μὲν οὖν ἐν τῇ κατασκευῇ τῶν ὀνομάτων αὐτῷ τὸ τραγικὸν τὸ κωμικὸν τὸ σοβαρὸν τὸ πεζόν, ἀσάφεια, κοινότης, ὄγκος καὶ δίαρμα, σπερμολογία καὶ φλυαρία ναυτιώδης. Dκαὶ τοσαύτας διαφορὰς ἔχουσα καὶ ἀνομοιότητας ἡ λέξις οὐδὲ τὸ πρέπον ἑκάστῃ καὶ οἰκεῖον ἀποδίδωσιν· οἷον λέγω βασιλεῖ τὸν ὄγκον ῥήτορι τὴν δεινότητα γυναικὶ τὸ ἁπλοῦν ἰδιώτῃ τὸ πεζὸν ἀγοραίῳ τὸ φορτικόν· ἀλλ᾽ ὥσπερ ἀπὸ κλήρου ἀπονέμει τοῖς προσώποις τὰ προστυχόντα τῶν ὀνομάτων, καὶ οὐκ ἂν διαγνοίης εἴθ᾽ υἱός ἐστιν εἴτε πατὴρ εἴτ᾽ ἄγροικος εἴτε θεὸς εἴτε γραῦς εἴθ᾽ ἥρως ὁ διαλεγόμενος.
@@ -61,108 +248,230 @@ p472καὶ τὸ ἐρωτικὸν οὐχ ἱλαρὸν ἀλλ᾽ ἀκόλ
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 θυμελικὸν] Kronenberg suggests βωμολόχον; cf. Moralia 68C τὸ γέλοιον καὶ βωμολόχον.
 
 
+❦
 
 2
 ὥς ἐστιν] πρόσεστιν Bernardakis.
 
 
+❦
 
 3
 γάστριζε and κόλοις Wyttenbach from Aristophanes: γαστρὶ ζῇ and κώλοις.
 
 
+❦
 
 4
 τοῦ added by Elmsley.
 
 
+❦
 
 5
 Γέλαν Xylander: τὸ γέλαν.
 
 
+❦
 
 6
 δῆτα Meineke: δέ.
 
 
+❦
 
 7
 δράσω σ᾽, ὦ Bergk: σὲ δράσω Reiske: σοι δράσω.
 
 
+❦
 
 8
 δρᾷ Wyttenbach and Reiske from Aristophanes: ἄρα.
 
 
+❦
 
 9
 ἀγρίοισι Bernardakis: ἀγρίοις.
 
 
+❦
 
 10
 ἀλλ᾽ ἧ τριχόβρωτες Aristophanes: ἀλλ᾽ αἱ τριχοβόστρυχες.
 
 
+❦
 
 11
 τυρόνωτον Xylander from Aristophanes: γυρόνωτον.
 
 
+❦
 
 12
 ἔμιξε Herwerden: ἔδειξε.
 
 
+❦
 
 13
 ὑπομένουσιν Reiske: περιμένουσιν.
 
 
+❦
 
 14
 κωμικοῦ Wyttenbach: ἢ κωμικοῦ.
 
 
+❦
 
 15
 φιλολόγοις Wyttenbach: φιλοπόνοις.
 
 
+❦
 
 16
 ἀκράτων Reiske: ἀκροατῶν.
 
 
+❦
 
 17
 ὑποκριτὰς] ποιητὰς Haupt; perhaps προστάτας Post.
 
 
+❦
 
 18
 A gap here was first suggested by Wyttenbach; μόναι was added by Schönemann.
 
 
+❦
 
 19
 καὶ ἱλαρῶν Emperius; κἀπίκρων Bernardakis; καὶ πράων Kronenberg, who suggests rendering ἀφθόνων by "sine invidia," cf. Plato, Republic 500A: καὶ ἱερῶν.
 
 
+❦
 
 20
 ἧς Haupt: ὧν.
 
 
+❦
 
 21
 ἀφελὲς Bryan: ἀσφαλὲς.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Plutarch
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+28 Sep 09

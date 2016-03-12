@@ -1,8 +1,123 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+This webpage reproduces the essay
+				
+
+
+Virtue and Vice
+				
+
+by
+				
+
+Plutarch
+				
+
+
+as published in Vol. II
+				
+of the
+Loeb Classical Library edition,
+1928
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+
+(Vol. II)
+Πλούταρχος
+	
+Ἠθικὰ
+	
+
+
+p94
+ΠΕΡΙ ΑΡΕΤΗΣ ΚΑΙ ΚΑΚΙΑΣ
+	
+
 1
 (100)
 
 Τὰ ἱμάτια δοκεῖ θερμαίνειν τὸν ἄνθρωπον, οὐκ αὐτὰ δήπου θερμαίνοντα καὶ προσβάλλοντα τὴν θερμότητα (καθ᾽ ἑαυτὸ γὰρ ἕκαστον αὐτῶν ψυχρόν ἐστιν, ᾗ καὶ πολλάκις καυματιζόμενοι καὶ πυρέττοντες ἐξ ἑτέρων ἕτερα μεταλαμβάνουσιν), cἀλλ᾽ ἣν ὁ ἄνθροπος ἀναδίδωσιν ἐξ ἑαυτοῦ θερμότητα, ταύτην ἡ ἐσθὲς τῷ σώματι προσπεσοῦσα συνέχει καὶ περιστέλλει, καὶ καθειργνυμένην εἰς τὸ σῶμα οὐκ ἐᾷ πάλιν σκεδάννυσθαι. ταὐτὸ δὴ τοῦτο τοῖς πράγμασιν ὑπάρχον ἐξαπατᾷ τοὺς πολλούς, ὡς, ἂν οἰκίας μεγάλας περιβάλωνται καὶ πλῆθος ἀνδραπόδων καὶ χρημάτων συναγάγωσιν, ἡδέως βιωσομένους. τὸ δ᾽ ἡδέως ζῆν καὶ ἱλαρῶς οὐκ ἔξωθέν ἐστιν, ἀλλὰ τοὐναντίον ὁ ἄνθρωπος τοῖς περὶ αὑτὸν πράγμασιν ἡδονὴν καὶ χάριν ὥσπερ ἐκ πηγῆς τοῦ ἤθους προστίθησιν.
+
+
+
+
+
+dαἰθομένου δὲ πυρὸς γεραρώτερος οἶκος ἰδέσθαι,
+		
+
 
 
 
@@ -15,15 +130,54 @@
 
 
 
+
+
+νώτου καταστάζοντα βύσσινον φάρος,
+		
+
+
+
+
 οὕτω μετ᾽ ἀρετῆς καὶ δίαιτα πᾶσα καὶ βίος ἄλυπός ἐστι καὶ ἐπιτερπής, ἡ δὲ κακία καὶ τὰ λαμπρὰ φαινόμενα eκαὶ πολυτελῆ καὶ σεμνὰ μιγνυμένη λυπηρὰ καὶ ναυτιώδη καὶ δυσπρόσδεκτα παρέχει τοῖς κεκτημένοις.
+
+
+
+
+
+οὗτος μακάριος ἐν ἀγορᾷ νομίζεται·
+			
+ἐπὰν δ᾽ ἀνοίξῃ τὰς θύρας, τρισάθλιος,
+			
+γυνὴ κρατεῖ πάντων, ἐπιτάττει, μάχετ᾽ ἀεί·
+		
+
 
 
 
 καίτοι γυναικὸς οὐ χαλεπῶς ἄν τις ἀπαλλαγείη πονηρᾶς ἀνὴρ ὤν, μὴ ἀνδράποδον· πρὸς δὲ τὴν ἑαυτοῦ κακίαν οὐκ ἔστι γραψάμενον ἀπόλειψιν ἤδη πραγμάτων ἀφεῖσθαι καὶ ἀναπαύεσθαι γενόμενον καθ᾽ αὑτόν, ἀλλ᾽ ἀεὶ συνοικοῦσα τοῖς σπλάγχνοις καὶ προσπεφυκυῖα νύκτωρ καὶ μεθ᾽ ἡμέραν
 
 
+
+
+
+εὕει ἄτερ δαλοῖο1 καὶ ὠμῷ γήραϊ δῶκεν,2
+
+
+
+
 f
 βαρεῖα συνέκδημος οὖσα δι᾽ ἀλαζονείαν καὶ πολυτελὴς σύνδειπνος ὑπὸ λιχνείας καὶ σύγκοιτος ὀδυνηρᾴ, φροντίσι καὶ μερίμναις καὶ ζηλοτυπίαις ἐκκόπτουσα τὸν ὕπνον καὶ διαφθείρουσα. καὶ γὰρ ὃ καθεύδουσι τοῦ σώματος ὕπνος ἐστὶ καὶ ἀνάπαυσις, τῆς δὲ ψυχῆς πτοῖαι καὶ ὄνειροι καὶ ταραχαὶ διὰ δεισιδαιμονίαν.
+
+
+
+
+
+p98
+ὅταν δὲ νυστάζοντά μ᾽ ἡ λύπη λάβῃ,
+			
+ἀπόλλυμ᾽ ὑπὸ τῶν ἐνυπνίων
+		
+
 
 
 
@@ -47,14 +201,118 @@ c
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 δαλοῦ most MSS.
+❦
 
 2
 καὶ ἐν ὠμῷ . . . θῆκεν Plut. Moral. 527a. For the various MS. readings cf. Rzach's Hesiod ad loc.
+❦
 
 3
 ἐσθίοντες Iannotius: ἔσθοντες.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Plutarch
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+25 Jun 08

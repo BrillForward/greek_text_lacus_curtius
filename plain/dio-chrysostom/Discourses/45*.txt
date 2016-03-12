@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος μδ´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος μϝ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p206
+45. ΑΠΟΛΟΓΙΣΜΟΣ ΟΠΩΣ ΕΣΧΗΚΕ ΠΡΟΣ ΤΗΝ ΠΑΤΡΙΔΑ
+	
+
 1 Ἄνδρες πολῖται, βούλομαι ὑμῖν ἀποδοῦναι λόγον τῆς ἐπιδημίας ταύτης, ἐπειδὴ καὶ βραχὺν οἴομαι τὸν λοιπὸν ἔσεσθαί μοι χρόνον. τὴν μὲν γὰρ φυγὴν ὅπως διήνεγκα, μὴ φίλων ἐρημίας ἡττηθείς, μὴ χρημάτων ἀπορίας, μὴ σώματος ἀσθενείας, πρὸς δὲ τούτοις ἅπασιν ἐχθρὸν ἀνεχόμενος οὐ τὸν δεῖνα οὐδὲ τὸν δεῖνα τῶν ἴσων τινὰ καὶ τῶν ὁμοίων1 ἐνίοτε φθεγγομένων, ἀλλὰ τὸν ἰσχυρότατον καὶ βαρύτατον καὶ δεσπότην ὀνομαζόμενον καὶ θεὸν παρὰ πᾶσιν Ἕλλησι καὶ βαρβάροις, τὸ δὲ ἀληθὲς ὄντα δαίμονα πονηρόν, καὶ ταῦτα οὐ θωπεύων αὐτὸν οὐδὲ τὴν ἔχθραν παραιτούμενος, ἀλλὰ ἐρεθίζων ἄντικρυς καὶ τὰ2 προσόντα κακά, μὰ Δί᾽, οὐ μέλλων νῦν ἐρεῖν ἢ γράψειν,3 ἀλλὰ εἰρηκὼς ἤδη καὶ γεγραφώς, καὶ τούτων πανταχῇ τῶν λόγων καὶ τῶν γραμμάτων ὄντων, οὐχ ὑπὸ μανίας καὶ ἀπονοίας ταῦτα πράττειν ἐπαιρόμενος, ἀλλὰ κρείττονι πεποιθὼς δυνάμει καὶ βοηθείᾳ τῇ4 παρὰ τῶν θεῶν,
 
 
@@ -58,258 +175,410 @@ p222ἐνθάδε ἀνθρώπων ἐνίων καὶ τὴν ἐμαυτοῦ
 
 p224συμπράττων, ἀλλὰ πάντες ὡς ἐπ᾽ ἀγαθοῖς οὖσι καὶ συμφέρουσιν οὐ λόγῳ μόνον50 συμπράττοντες καὶ συνεισφέροντες· καὶ τὸ πρᾶγμα ὡς καλὸν καὶ μεγαλοπρεπὲς καὶ τῇ πόλει συμφέρον οὕτως ἐγένετο.51
 
+
+The Loeb Editor's Notes:
+	
+
 1
 ὁμοίων] ὁμοίως UBT. After ὁμοίων Emperius ads τῶν δεινὰ.
 
 
+❦
 
 2
 τὰ added by Emperius.
 
 
+❦
 
 3
 γράψειν Cobet: γράφειν.
 
 
+❦
 
 4
 τῇ added by Reiske.
 
 
+❦
 
 5
 τοσαύτη Emperius: τοιαύτη.
 
 
+❦
 
 6
 μὲν Emperius: μόνοι.
 
 
+❦
 
 7
 δὲ εἰ] δ᾽ ὅτι Arnim.
 
 
+❦
 
 8
 καὶ added by Reiske.
 
 
+❦
 
 9
 ἢ] deleted by Arnim.
 
 
+❦
 
 10
 ἀλλὰ Crosby: ἀλλ᾽ ἢ.
 
 
+❦
 
 11
 δ᾽ added by Selden.
 
 
+❦
 
 12
 τούτων Crosby, τούτου Emperius: τοῦτο.
 
 
+❦
 
 13
 ἐπεθυμεῖτε Reiske: ἐπιθυμεῖτε.
 
 
+❦
 
 14
 ἐξηπάτησθε Emperius: ἐξηπάτησθαι.
 
 
+❦
 
 15
 ἰδιωτῶν Emperius: ἡγεμόνων.
 
 
+❦
 
 16
 ἀπαντῶντες Selden: ἅπαντες.
 
 
+❦
 
 17
 καὶ added by Selden, ἢ Emperius.
 
 
+❦
 
 18
 τοῦτο ἴσως Emperius: τούτοις ὡς.
 
 
+❦
 
 19
 τῶν ἡγεμόνων deleted by Emperius.
 
 
+❦
 
 20
 οὐδέποτε Crosby, ὡς οὐδέποτε ἂν Emperius: ὡς οὐδέποτε.
 
 
+❦
 
 21
 πρότερον Emperius: πρᾳότερον or πρᾳώτερον.
 
 
+❦
 
 22
 ἂν added by Pflugk.
 
 
+❦
 
 23
 οὕτως] αὑτοὺς Arnim.
 
 
+❦
 
 24
 εἰσι Reiske: ἐπὶ UM, omitted by B.
 
 
+❦
 
 25
 καὶ κομισθέντων ἐνταῦθα, σκοπεῖτε Emperius: ἐνταῦθα, σκοπεῖτε καὶ κομισθέντων.
 
 
+❦
 
 26
 οὐκ ἔλαττον Reiske: ἔλαττον οὐχ or ἐλαττῶν οὐχ.
 
 
+❦
 
 27
 μᾶλλον ἂν προσθεμένων Reiske, προσθεμένων ἂν Pflugk: προσθεμένων.
 
 
+❦
 
 28
 ἐκώλυον] ἐκέλευον Naber.
 
 
+❦
 
 29
 καταστάντα Wyttenbach: καταστάντας καὶ.
 
 
+❦
 
 30
 καίπερ Arnim: καὶ παρ᾽.
 
 
+❦
 
 31
 προσείχετε Morel: προείχετε.
 
 
+❦
 
 32
 ἐπιστεῖλαι Reiske: ἐπιτελέσαι.
 
 
+❦
 
 33
 γ᾽ Reiske: δ᾽.
 
 
+❦
 
 34
 γενομένης] γιγνομένης Reiske.
 
 
+❦
 
 35
 οὐδ᾽ ἔμελλον Emperius: οὐδὲ μᾶλλον.
 
 
+❦
 
 36
 ἔχειν Emperius: ἔχων.
 
 
+❦
 
 37
 εἰσαχθείσης Capps: ἀχθείσης.
 
 
+❦
 
 38
 δέον Emperius: δεῖν.
 
 
+❦
 
 39
 μᾶλλον] μόνον Pflugk.
 
 
+❦
 
 40
 ὥστε Reiske: τε.
 
 
+❦
 
 41
 καταλαβόντας Emperius: καταλιπόντας or καταλιπόντος.
 
 
+❦
 
 42
 οὕτως] ὄντως Emperius, ὅλως Arnim, deleted by Reiske.
 
 
+❦
 
 43
 Μυτιληναῖοι C. Fr. Hermann: μειλήσιοι or μιλήσιοι.
 
 
+❦
 
 44
 αὑτῶν Emperius: αὐτῶν.
 
 
+❦
 
 45
 αὐτοὶ] ἀεὶ Geel, ἀεί τι Jacobs, ἀεί ποτε Wilamowitz.
 
 
+❦
 
 46
 After τοιούτων Reiske deletes τοιαῦτα.
 
 
+❦
 
 47
 ὧν added by Selden.
 
 
+❦
 
 48
 τοῦ Reiske: τοῦτο.
 
 
+❦
 
 49
 συναγαγόντος Pflugk: συνάγοντος.
 
 
+❦
 
 50
 After μόνον Reiske adds ἀλλὰ καὶ ἔργῳ εὑρέθησαν.
 
 
+❦
 
 51
 Arnim regards the sentence as incomplete.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+1 Nov 10

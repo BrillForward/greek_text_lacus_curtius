@@ -1,29 +1,158 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+This webpage reproduces a section of
+				
+
+
+
+The Fragments
+				
+
+of
+				
+
+Manetho
+				
+
+
+
+(Loeb Classical Library edition,
+1940)
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though,
+				
+
+please let me know!
+				
+
+
+
+
+
+
+
+
+Manetho
+	
+
+p208
+Appendix I
+	
+Pseudo-Manetho
+	
+
+(Syncellus, p72)
+	
+
 Πρόκειται δὲ λοιπὸν καὶ περὶ τῆς τῶν Αἰγυπτίων δυναστείας μικρὰ διαλαβεῖν ἐκ τῶν Μανεθῶ τοῦ Σεβεννύτου, ὃς ἐπὶ Πτολεμαίου τοῦ Φιλαδέλφου ἀρχιερεὺς τῶν ἐν Αἰγύπτῳ εἰδωλείων χρηματίσας
 	
 ἐκ τῶν ἐν τῇ Σηριαδικῇ γῇ κειμένων στηλῶν ἱερᾷ, φησι, διαλέκτῳ καὶ ἱερογραφικοῖς γράμμασι κεχαρακτηρισμένων ὑπὸ Θὼθ τοῦ πρώτου Ἑρμοῦ, καὶ ἑρμηνευθεισῶν μετὰ τὸν κατακλυσμὸν [ἐκ τῆς ἱερὰς διαλέκτου εἰς τὴν Ἑλληνίδα φωνὴν]1 γράμμασιν ἱερογλυφικοῖς, καὶ ἀποτεθέντων2 ἐν βίβλοις ὑπὸ τοῦ Ἀγαθοδαίμονος, υἱοῦ τοῦ δευτέρου Ἑρμοῦ, πατρὸς δὲ τοῦ Τάτ, ἐν τοῖς ἀδύτοις τῶν ἱερῶν Αἰγύπτου,a προσεφώνησε τῷ αὐτῷ Φιλαδέλφῳ βασιλεῖ δευτέρῳ Πτολεμαίῳ ἐν τῇ βίβλῳ τῆς Σώθεος γράφων ἐπὶ λέξεως οὕτως·
 
 
 	
+p210
+Ἐπιστολὴ Μανεθῶ τοῦ Σεβεννύτου πρὸς Πτολεμαῖον τὸν Φιλάδελφον.
+	
+
+
+"Βασιλεῖ μεγάλῳ Πτολεμαίῳ Φιλαδέλφῳ σεβαστῷ Μανεθῶ ἀρχιερεὺς καὶ γραμματεὺς τῶν κατ᾽ Αἴγυπτον ἱερῶν ἀδύτων, γένει Σεβεννύτης ὑπάρχων Ἡλιουπολίτης, τῷ δεσπότῃ μου Πτολεμαίῳ χαίρειν.
+	
+Ἡμᾶς δεῖ λογίζεσθαι, μέγιστε βασιλεῦ, περὶ πάντων ὧν ἐὰν βούλῃ ἡμᾶς ἐξετάσαι πραγμάτων. ἐπιζητοῦντι οὖν3 σοι περὶ τῶν μελλόντων τῷ κόσμῳ γίγνεσθαι, καθὼς ἐκέλευσάς μοι, παραφανήσεταί σοι ἃ ἔμαθον ἱερὰ βιβλία γραφέντα ὑπὸ τοῦ προπάτορος, τρισμεγίστου Ἑρμοῦ. ἔρρωσό μοι, δέσποτά μου βασιλεῦ."
+
+
 Ταῦτα περὶ τῆς ἑρμηνείας τῶν ὑπὸ τοῦ δευτέρου Ἑρμοῦ γραφέντων βιβλίων λέγει. μετὰ δὲ ταῦτα καὶ περὶ ἐθνῶν Αἰγυπτιακῶν πέντε ἐν τριάκοντα δυναστείαις ἱστορεῖ4 . . .
 
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 The words bracketed are probably a later interpolation.
 
 
+❦
 
 2
 ἀποτεθεισῶν conj. Scaliger, Müller.
 
 
+❦
 
 3
 οὖν add. Boeckh.
 
 
+❦
 
 4
 For the continuation of this, see
@@ -33,6 +162,10 @@ Fr. 2, p10.
 
 
 	
+
+Thayer's Note:
+	
+
 a
 For the passage marked in color, see
 	
@@ -40,3 +173,109 @@ the note to the English translation.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Manetho
+			
+
+
+
+
+Readings in Egyptian History
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+LacusCurtius
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+1 Oct 12

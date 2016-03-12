@@ -1,4 +1,121 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος με´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος μζ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p246
+47. ΔΗΜΗΓΟΡΙΑ ΕΝ ΤΗΙ ΠΑΤΡΙΔΙ
+	
+
 1 Πρῶτον μέν, ὦ ἄνδρες, ὅταν ἀναστῶ, μὴ πάντως ἡγεῖσθε λόγων ἀκούσεσθαι θαυμαστῶν μηδὲ ἐπισήμων· λέγω δὲ οἷον πρὸς ἡδονήν τινα ἢ κάλλος ἢ σοφίαν εἰργασμένων. ἴσως μὲν γὰρ οὐδ᾽ ἂν1 ἄλλως ἦμεν ἱκανοὶ πρὸς τὸ τοιοῦτον, ἀλλὰ τύχῃ τινὶ τὸ πλῆθος καὶ τὰς πόλεις πάσας ἐξηπατήσαμεν· εἰ δ᾽ οὖν, ἀλλὰ νῦν πολλὴν ἀπορίαν καὶ λήθην εἰκὸς ἡμῖν γεγονέναι τῶν τοιούτων λόγων. ὁποῖα γὰρ ἂν πράττῃ τις καὶ ἐν ὁποίοις ἂν ᾖ πράγμασιν, ἀνάγκη καὶ τοὺς λόγους εἶναι παραπλησίους· ἡμεῖς δὲ πολὺν ἤδη χρόνον σμικρὰ καὶ ἄδοξα πράττομεν.
 
 	
@@ -78,6 +195,16 @@ p266τῆς στοὰς ἐπιβοῶντες. ἐμοὶ γὰρ εἷς ἀν
 p268παρ᾽ οὓς ἂν ἀφίκωμαι καὶ δεομένων λέγειν καὶ συμβουλεύειν καὶ περὶ49 τὰς ἐμὰς θύρας ἰόντων50 ἐξ ἑωθινοῦ, μηδὲν ἀναλώσαντα μηδὲ προστιθέντα, ὥστε θαυμάζειν ἅπαντας καὶ τυχὸν ἂν εἰπεῖν τινας,
 
 
+
+
+
+ὦ πόποι, ὡς ὅδε πᾶσι φίλος καὶ τίμιός ἐστιν
+			
+ἀνθρώποις, ὅτεών κε51 πόλιν καὶ δῆμον ἵκηται·
+		
+
+
+
 23 ἀλλὰ μὴ δαπανᾶν μὲν ἐξ ὀλίγων ὑπαρχόντων, ἀσχολεῖσθαι δὲ ἀσχολίας ἀνωφελεῖς, τὸ δὲ σῶμα, θεραπείας δεόμενον καὶ πολλῆς προσοχῆς, καταφθείρειν ἀμελοῦντα, τὴν δὲ ψυχὴν τοσοῦτον χρόνον ἐᾶν ἄγευστον52 φιλοσοφίας καὶ τῶν τοιούτων μαθημάτων, πρὸς δὲ τὸν δεῖνα ἐξετάζεσθαι ἢ τὸν δεῖνα καὶ κακῶς ἀκούειν ἐνίοτε καὶ δάκνεσθαι.
 
 	
@@ -93,240 +220,291 @@ p270δὲ τυράννων τὸν δεῖνα55 ἀκήκοα ταὐτὰ56 π
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 οὐδ᾽ ἂν Crosby: οὐδὲ.
 
 
+❦
 
 2
 τοῦτο ἴσως Emperius: τούτοις ὡς.
 
 
+❦
 
 3
 After σοφοῖς Arnim deletes τὸ.
 
 
+❦
 
 4
 ἐπιμέλειαν Casaubon: ἐπιμέλεια.
 
 
+❦
 
 5
 μή Casaubon: δέ.
 
 
+❦
 
 6
 καὶ deleted by Reiske.
 
 
+❦
 
 7
 προσταττόμενον Casaubon: προσταττόμενος.
 
 
+❦
 
 8
 ἐπιεικῶς] ἀνεπιεικῶς Sonny.
 
 
+❦
 
 9
 After Χίου Reiske deletes τῆς πόλεως.
 
 
+❦
 
 10
 οὐχὶ φιλεῖν Emperius: οὐκ ἐφίλουν.
 
 
+❦
 
 11
 συμβεβήκει Emperius: συμβέβηκεν.
 
 
+❦
 
 12
 Θετταλίδων Herwerden: Θετταλῶν.
 
 
+❦
 
 13
 ἐπιεικῶς Capps: ἐπιμελῶς.
 
 
+❦
 
 14
 After δὲ Pflugk deletes τὸ κατοικισθῆναι τοῖς ἐκπεσοῦσι.
 
 
+❦
 
 15
 ἐλύπει Reiske: λυπεῖ.
 
 
+❦
 
 16
 δ᾽ added by Emperius.
 
 
+❦
 
 17
 διοικεῖσθαι] διῳκίσθαι Reiske.
 
 
+❦
 
 18
 προσῆκε] προσήκει Selden.
 
 
+❦
 
 19
 ὃ Emperius: ὁ.
 
 
+❦
 
 20
 κἀμὲ νομίζετε καὶ τοὺς ἰδίους δακτύλους αἴρειν Crosby: τοὺς Ἰδαίους κἀμὲ νομίζετε UB, τοὺς Ἰδαίους κἀμὲ νομίζετε καὶ τοὺς ἰδαίους δακτύλους αἴρειν M.
 
 
+❦
 
 21
 ἀκροπόλεις] νεκροπόλεις Wilamowitz.
 
 
+❦
 
 22
 διαφέρωνται Emperius: διαφέρονται.
 
 
+❦
 
 23
 καὶ πολλὰ deleted by Arnim.
 
 
+❦
 
 24
 βασιλεία Reiske: βασιλέως.
 
 
+❦
 
 25
 After ὄφελος Emperius deletes οὐδὲν.
 
 
+❦
 
 26
 πλείονα] ἡδίονα Naber.
 
 
+❦
 
 27
 εὐρυχωρίαν] δι᾽ εὐρυχωρίαν Casaubon.
 
 
+❦
 
 28
 Cf. Kock, CAF III Adespota 408.
 
 
+❦
 
 29
 μνημάτων Selden: ὑπομνημάτων.
 
 
+❦
 
 30
 πλείω Reiske: ἐλάττω.
 
 
+❦
 
 31
 μὴν Sonny: νῦν.
 
 
+❦
 
 32
 ἀνὴρ οὐδὲ Emperius: οὐδὲ ἀνὴρ.
 
 
+❦
 
 33
 δοκεῖ Emperius: ἐδόκει.
 
 
+❦
 
 34
 After ἐγὼ Arnim adds μόνος οὕτω.
 
 
+❦
 
 35
 ἐνέπρησα Reiske: ἐνέπρησαν.
 
 
+❦
 
 36
 Διός. καίτοι Crosby: Διὸς καὶ.
 
 
+❦
 
 37
 After ἀνδριάντας Reiske suspected a lacuna.
 
 
+❦
 
 38
 μύκωνος Capps, μυλῶνος Casaubon: μυδῶνος or μύδωνος.
 
 
+❦
 
 39
 στένειν] στείνειν Emperius.
 
 
+❦
 
 40
 βούλεσθέ με] βούλεσθε; μὴ Emperius.
 
 
+❦
 
 41
 οὐδὲν ἀντερῶ added by Reiske.
 
 
+❦
 
 42
 ἔτι Emperius: ὅτι or ὧτι.
 
 
+❦
 
 43
 After διελεύσομαι Reiske adds μόνος.
 
 
+❦
 
 44
 ποιεῖν] πονεῖν Geel.
 
 
+❦
 
 45
 ὥστε Emperius: τε or καὶ.
 
 
+❦
 
 46
 κρέα] κηρία Geel.
 
 
+❦
 
 47
 ἄγειν Emperius: ἀγαγεῖν.
 
 
+❦
 
 48
 ἀλλὰ μὴ . . . ἐξεταζόμενον deleted by Emperius because of resemblance to πρὸς δὲ τὸν δεῖνα, κτλ.
@@ -334,54 +512,162 @@ After διελεύσομαι Reiske adds μόνος.
 (§ 23).
 
 
+❦
 
 49
 περὶ] πρὸς Reiske, ἐπὶ Dindorf.
 
 
+❦
 
 50
 ἰόντων] ὄντων Emperius.
 
 
+❦
 
 51
 κε Arnim: καὶ.
 
 
+❦
 
 52
 ἄγευστον Reiske: τῶν.
 
 
+❦
 
 53
 καὶ added by Reiske.
 
 
+❦
 
 54
 καταπιττοῦν] καταπιττοῦντας Wilamowitz.
 
 
+❦
 
 55
 τὸν δεῖνα Emperius, ἕνα Wilamowitz: οὐδένα.
 
 
+❦
 
 56
 ταὐτὰ Crosby: ταῦτα.
 
 
+❦
 
 57
 After ποιοῦντα Reiske adds εἰ μὴ Τιβέριον, retaining οὐδένα.
 
 
+❦
 
 58
 ποιοῦντα Upton: ποιοῦντας.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Oct 12

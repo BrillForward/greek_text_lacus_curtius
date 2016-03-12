@@ -1,5 +1,130 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+Λόγος ν´
+				
+
+
+
+This webpage reproduces one of the
+				
+
+
+
+Discourses
+				
+
+by
+				
+
+Dio Chrysostom
+				
+
+
+
+published in the
+Loeb Classical Library,
+1946
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+Λόγος νβ´
+				
+
+
+
+
+
+(Vol. IV)
+Δίων Χρυσόστομος
+	
+Λόγοι
+	
+
+
+p326
+51. ΠΡΟΣ ΔΙΟΔΩΡΟΝ
+	
+
 1 Σφόδρα θαυμάζειν ἔπεισιν, ὦ ἄνδρες, εἴ τις οὐκ ἀποδεχόμενός τινα οὐδὲ ἀγαπῶν ἔπειτα ἀναστὰς ἐπαινεῖ τῷ λόγῳ καὶ ἐνίοτε διῆλθεν ἐγκώμιον μακρὸν καὶ λίαν ἐπιμελῶς συγκείμενον. ὁ γὰρ τοιοῦτος ἄνθρωπος οὐκ ἔστιν ὅ τι τῶν αἰσχίστων οὐ σύνοιδεν αὑτῷ, φθόνον,1 μικροψυχίαν, τὸ πάντων ἔσχατον, δουλείαν. λέγεται γοῦν οὐκ ἀτόπως καὶ παρὰ τοῖς παλαιοῖς·
+
+
+
+
+
+δούλου τόδ᾽ εἶπας.
+		
+
 
 
 φέρε δή, πῶς οὐκ2 ἂν εἴη δοῦλος ὁ πρὸς τοσούτους ἅμα ἀνθρώπους ἕτερα ὧν φρονεῖ ποιῶν,3 καὶ ταῦτα οὐχ ἁπλῶς, ἀλλὰ μετὰ φροντίδος καὶ παρασκευῆς, καὶ κολακεύων πολλάκις ἀνθρώπων καὶ θαυμάζων ὃν οὐ φιλεῖ; μέτριον γὰρ οὕτως εἰπεῖν.
@@ -38,138 +163,266 @@ p334καὶ τοὺς νεανίσκους κρείττονας πεποιηκό
 
 
 	
+
+The Loeb Editor's Notes:
+	
+
 1
 φθόνον] φόβον Geel.
 
 
+❦
 
 2
 οὐκ added by Emperius.
 
 
+❦
 
 3
 ποιῶν εἰπών] Herwerden.
 
 
+❦
 
 4
 πάντας Reiske: πάντα.
 
 
+❦
 
 5
 τοιαῦτα added by Selden.
 
 
+❦
 
 6
 ἐν added by Reiske.
 
 
+❦
 
 7
 δοκεῖτε Reiske: δοκεῖ.
 
 
+❦
 
 8
 διὰ λόγου] μετὰ λόγου Arnim, δίχα ψόγου Geel.
 
 
+❦
 
 9
 After τῶν Arnim adds μὲν.
 
 
+❦
 
 10
 καίτοι Crosby: καὶ.
 
 
+❦
 
 11
 After μέγας Arnim adds ὁ.
 
 
+❦
 
 12
 μηδὲν Reiske: μηδενὶ.
 
 
+❦
 
 13
 τῶν added by Pflugk.
 
 
+❦
 
 14
 γοῦν Selden: οὖν or νῦν.
 
 
+❦
 
 15
 Emperius noted the lacuna at this point.
 
 
+❦
 
 16
 αὑτῶν Dindorf: αὐτῶν.
 
 
+❦
 
 17
 πόσῳ δὴ Emperius: δὴ πόσῳ M, πόσῳ δὲ UB.
 
 
+❦
 
 18
 ἐπιμελούμενον Selden, ἐπιβαλλόμενον Emperius: ἐπικαλούμενον.
 
 
+❦
 
 19
 θαυμαστὴ Pflugk: θαυμαστῆς.
 
 
+❦
 
 20
 τί Casaubon: τίνι.
 
 
+❦
 
 21
 προθύμως Casaubon: προθυμίας.
 
 
+❦
 
 22
 πρεσβεύοντας] πρεσβεύοντες Reiske.
 
 
+❦
 
 23
 τιμῶντες Casaubon: τιμῶντας.
 
 
+❦
 
 24
 Before τίς Pflugk reads ἃ for MS. ἢ, which Arnim deletes.
 
 
+❦
 
 25
 οὖν οὐκ ἂν ἡσθείη Crosby, ἂν οὐκ ἀνεθείη Pflugk, οὖν οὐκ ἂν ἀθλοίῃ Arnim: ἂν ἡσθείῃ UBT, ἀνεθείῃ M.
 
 
+❦
 
 26
 τούτων Capps: τῶν.
 
 
+❦
 
 27
 ὄντων] διδόντων Pflugk.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Dio Chrysostom
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+26 Mar 12

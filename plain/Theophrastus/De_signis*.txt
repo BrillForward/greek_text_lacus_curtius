@@ -1,4 +1,110 @@
 
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1191260-1', 'auto');
+ga('send', 'pageview');
+
+
+
+
+
+
+
+
+mail:
+			
+Bill Thayer
+			
+
+
+
+English
+			
+
+
+
+
+Italiano
+			
+
+
+
+
+Help
+			
+
+
+
+
+Up
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+This webpage reproduces the essay
+				
+
+
+De signis
+				
+
+by
+				
+
+Theophrastus
+				
+
+
+as published in Vol. II
+				
+of the
+Loeb Classical Library edition
+				
+of the Enquiry into Plants,
+1926
+				
+The text is in the public domain.
+
+				
+This page has been carefully proofread
+				
+and I believe it to be free of errors.
+				
+If you find a mistake though, please
+				
+let me know!
+			
+
+
+
+
+
+(Vol. II)
+ΘΕΟΦΡΑΣΤΟΣ
+	
+
+p390
+ΠΕΡΙ ΣΗΜΕΙΩΝ
+	
+ΥΔΑΤΩΝ ΚΑΙ ΠΝΕΥΜΑΤΩΝ ΚΑΙ ΧΕΙΜΩΝΩΝ ΚΑΙ ΕΥΔΙΩΝ
+	
+
 1
 
 1 Σημεῖα ὑδάτων καὶ πνευμάτων καὶ χειμώνων καὶ εὐδιῶν ὧδε ἐγράψαμεν καθ᾽ ὅσον ἦν ἐφικτὸν, ἃ μὲν αὐτοὶ προσκοπήσαντες ἃ δὲ παρ᾽ ἑτέρων οὐκ ἀδοκίμων λαβόντες.
@@ -181,6 +287,9 @@ p414πρὸς κορυφῆς ὄρους ὁπόθεν ἂν νεφέλη μη�
 35 Αἱ δὲ στάσεις τῶν πνευμάτων οὕτως ἔχουσιν ὡς ἐν τῷ γράμματι διώρισται.
 
 
+
+
+
 τῶν δ᾽ ἀνέμων ἔτι πνέουσι τοῖς ἄλλοις ἐπιπίπτουσι μάλιστα ἀπαρκτίας θρακίας ἀργέστης. ὅταν δὲ μὴ ὑπ᾽ ἀλλήλων διαλύωνται τὰ πνεύματα, ἀλλ᾽ αὐτὰ καταμαρανθῶσι μεταβάλλουσιν εἰς τοὺς ἐχομένους
 
 
@@ -306,3 +415,102 @@ p432ἂν μᾶλλον ἐφ᾽ ἑκατέρῳ τῷ σχήματι ὁμίχ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Images with borders lead to more information.
+			
+The thicker the border, the more information.
+			
+(Details here.)
+			
+
+
+
+
+
+ΑΝΩ·
+		
+
+
+
+Theophrastus
+			
+
+
+
+
+Classical
+			
+Texts
+			
+
+
+
+
+ΛακουσΚούρτιος
+			
+
+
+
+
+Home
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A page or image on this site is in the public domain ONLY
+			
+if its URL has a total of one *asterisk.
+			
+If the URL has two **asterisks,
+			
+the item is copyright someone else, and used by permission or fair use.
+			
+If the URL has none the item is © Bill Thayer.
+			
+See
+			
+my copyright page
+			
+for details and contact information.
+		
+
+
+
+
+
+Page updated:
+13 May 12
